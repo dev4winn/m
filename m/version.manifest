@@ -11930,9 +11930,9 @@
         }
     }, 
     "engineVersion": "3.17", 
-    "packageUrl": "https://raw.githubusercontent.com/dev4winn/m/main/", 
-    "remoteManifestUrl": "https://raw.githubusercontent.com/dev4winn/m/main/project.manifest", 
-    "remoteVersionUrl": "https://raw.githubusercontent.com/dev4winn/m/main/version.manifest", 
+    "packageUrl": "https://raw.githubusercontent.com/dev4winn/m/main/m/", 
+    "remoteManifestUrl": "https://raw.githubusercontent.com/dev4winn/m/main/m/project.manifest", 
+    "remoteVersionUrl": "https://raw.githubusercontent.com/dev4winn/m/main/m/version.manifest", 
     "searchPaths": [], 
     "version": "1.6.3"
 }
