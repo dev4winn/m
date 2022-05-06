@@ -1,0 +1,41 @@
+
+ICON.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+12
+  rotate: true
+  xy: 388, 65
+  size: 156, 237
+  orig: 156, 237
+  offset: 0, 0
+  index: -1
+BG
+  rotate: true
+  xy: 2, 2
+  size: 219, 384
+  orig: 219, 384
+  offset: 0, 0
+  index: -1
+FRAME
+  rotate: false
+  xy: 627, 79
+  size: 81, 77
+  orig: 81, 77
+  offset: 0, 0
+  index: -1
+SLOT
+  rotate: false
+  xy: 388, 29
+  size: 91, 34
+  orig: 91, 34
+  offset: 0, 0
+  index: -1
+TE
+  rotate: false
+  xy: 627, 158
+  size: 164, 63
+  orig: 164, 63
+  offset: 0, 0
+  index: -1

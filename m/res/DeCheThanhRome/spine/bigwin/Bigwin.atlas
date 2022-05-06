@@ -1,0 +1,82 @@
+
+Bigwin.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Number_bgr
+  rotate: true
+  xy: 894, 509
+  size: 488, 94
+  orig: 488, 94
+  offset: 0, 0
+  index: -1
+ken1
+  rotate: false
+  xy: 631, 234
+  size: 162, 141
+  orig: 162, 141
+  offset: 0, 0
+  index: -1
+ken2
+  rotate: false
+  xy: 730, 392
+  size: 176, 115
+  orig: 176, 115
+  offset: 0, 0
+  index: -1
+ken3
+  rotate: true
+  xy: 754, 83
+  size: 149, 138
+  orig: 149, 138
+  offset: 0, 0
+  index: -1
+ken4
+  rotate: true
+  xy: 631, 50
+  size: 182, 121
+  orig: 182, 121
+  offset: 0, 0
+  index: -1
+shine1
+  rotate: false
+  xy: 2, 2
+  size: 627, 373
+  orig: 627, 373
+  offset: 0, 0
+  index: -1
+shine11
+  rotate: false
+  xy: 2, 2
+  size: 627, 373
+  orig: 627, 373
+  offset: 0, 0
+  index: -1
+thanglon
+  rotate: false
+  xy: 2, 377
+  size: 726, 620
+  orig: 726, 620
+  offset: 0, 0
+  index: -1
+
+Bigwin2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lightray1
+  rotate: false
+  xy: 2, 329
+  size: 716, 325
+  orig: 716, 325
+  offset: 0, 0
+  index: -1
+lightray2
+  rotate: false
+  xy: 2, 2
+  size: 716, 325
+  orig: 716, 325
+  offset: 0, 0
+  index: -1

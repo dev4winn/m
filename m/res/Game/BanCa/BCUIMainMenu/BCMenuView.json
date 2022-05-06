@@ -1,0 +1,1425 @@
+{
+  "ID": "6d2805bf-955a-4778-9248-5f4f40d53cd2",
+  "Version": "3.10.0.0",
+  "Name": "BCMenuView",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 147,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "res/Game/BanCa/BCUIMainMenu/Atlas/ImgMainBg.jpg",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 32,
+            "ActionTag": 1905651394,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "Name": "Background",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 640.0,
+              "Y": 360.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 640.0,
+            "RightMargin": 640.0,
+            "TopMargin": 360.0,
+            "BottomMargin": 360.0,
+            "Tag": 896,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "ImgBtnRoom_3.png",
+                  "Plist": "res/Game/BanCa/BCUIMainMenu/Atlas/RESMenu.plist"
+                },
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 15,
+                "Scale9Width": 288,
+                "Scale9Height": 388,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 432.7025,
+                  "Y": -10.8582
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 273.7025,
+                "RightMargin": -591.7025,
+                "TopMargin": -198.1418,
+                "BottomMargin": -219.8582,
+                "Tag": 47,
+                "ActionTag": -223131614,
+                "Size": {
+                  "X": 318.0,
+                  "Y": 418.0
+                },
+                "Name": "BtnRoomType_1",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "ImgBtnRoom_1.png",
+                  "Plist": "res/Game/BanCa/BCUIMainMenu/Atlas/RESMenu.plist"
+                },
+                "Scale9OriginX": 110,
+                "Scale9OriginY": 118,
+                "Scale9Width": 121,
+                "Scale9Height": 170,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 51.0,
+                  "Y": 0.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": -119.5,
+                "RightMargin": -221.5,
+                "TopMargin": -203.0,
+                "BottomMargin": -203.0,
+                "Tag": 894,
+                "ActionTag": 1164149191,
+                "Size": {
+                  "X": 341.0,
+                  "Y": 406.0
+                },
+                "Name": "BtnRoomType_2",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "ImgBtnRoom_2.png",
+                  "Plist": "res/Game/BanCa/BCUIMainMenu/Atlas/RESMenu.plist"
+                },
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 15,
+                "Scale9Width": 327,
+                "Scale9Height": 378,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": -386.0,
+                  "Y": 0.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": -564.5,
+                "RightMargin": 207.5,
+                "TopMargin": -204.0,
+                "BottomMargin": -204.0,
+                "Tag": 895,
+                "ActionTag": -1309938455,
+                "Size": {
+                  "X": 357.0,
+                  "Y": 408.0
+                },
+                "Name": "BtnRoomType_3",
+                "ctype": "ImageViewObjectData"
+              }
+            ],
+            "ActionTag": -1941811467,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "Center",
+            "ctype": "SingleNodeObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "RightMargin": 1280.0,
+            "TopMargin": 720.0,
+            "Tag": 160,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "ImgBtnMiniGame.png",
+                  "Plist": "res/Game/BanCa/BCUIMainMenu/Atlas/RESMenu.plist"
+                },
+                "Scale9OriginX": 33,
+                "Scale9OriginY": 33,
+                "Scale9Width": 28,
+                "Scale9Height": 33,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 1208.9136,
+                  "Y": 71.3862
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 1161.9136,
+                "RightMargin": -1255.9136,
+                "TopMargin": -120.8862,
+                "BottomMargin": 21.8862,
+                "Tag": 739,
+                "ActionTag": -1079766898,
+                "Size": {
+                  "X": 94.0,
+                  "Y": 99.0
+                },
+                "Name": "BtnMiniGame",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "ImgBtnEmail.png",
+                  "Plist": "res/Game/BanCa/BCUIMainMenu/Atlas/RESMenu.plist"
+                },
+                "Scale9OriginX": 33,
+                "Scale9OriginY": 33,
+                "Scale9Width": 28,
+                "Scale9Height": 35,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 1060.0,
+                  "Y": 70.39
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 1013.0,
+                "RightMargin": -1107.0,
+                "TopMargin": -120.89,
+                "BottomMargin": 19.89,
+                "Tag": 346,
+                "ActionTag": -697571223,
+                "Size": {
+                  "X": 94.0,
+                  "Y": 101.0
+                },
+                "Name": "BtnEmail",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "ImgBtnTop.png",
+                  "Plist": "res/Game/BanCa/BCUIMainMenu/Atlas/RESMenu.plist"
+                },
+                "Scale9OriginX": 33,
+                "Scale9OriginY": 33,
+                "Scale9Width": 28,
+                "Scale9Height": 33,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 905.0,
+                  "Y": 70.3862
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 858.0,
+                "RightMargin": -952.0,
+                "TopMargin": -119.8862,
+                "BottomMargin": 20.8862,
+                "Tag": 374,
+                "ActionTag": 549489015,
+                "Size": {
+                  "X": 94.0,
+                  "Y": 99.0
+                },
+                "Name": "BtnTop",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "ImgBtnOption.png",
+                  "Plist": "res/Game/BanCa/BCUIMainMenu/Atlas/RESMenu.plist"
+                },
+                "Scale9OriginX": 33,
+                "Scale9OriginY": 33,
+                "Scale9Width": 14,
+                "Scale9Height": 14,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 74.4053,
+                  "Y": 66.3624
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 34.4053,
+                "RightMargin": -114.4053,
+                "TopMargin": -106.3624,
+                "BottomMargin": 26.3624,
+                "Tag": 173,
+                "ActionTag": 986387815,
+                "Size": {
+                  "X": 80.0,
+                  "Y": 80.0
+                },
+                "Name": "BtnOption",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "ImgBtnFanPage.png",
+                  "Plist": "res/Game/BanCa/BCUIMainMenu/Atlas/RESMenu.plist"
+                },
+                "Scale9OriginX": 33,
+                "Scale9OriginY": 33,
+                "Scale9Width": 14,
+                "Scale9Height": 14,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 181.861,
+                  "Y": 66.3624
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 141.861,
+                "RightMargin": -221.861,
+                "TopMargin": -106.3624,
+                "BottomMargin": 26.3624,
+                "Tag": 183,
+                "ActionTag": -601604154,
+                "Size": {
+                  "X": 80.0,
+                  "Y": 80.0
+                },
+                "Name": "BtnFanpage",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 72.5996,
+                  "Y": 161.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": true,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 72.5996,
+                "RightMargin": -72.5996,
+                "TopMargin": -161.0,
+                "BottomMargin": 161.0,
+                "Tag": 174,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "ImgBtnMusicOn.png",
+                      "Plist": "res/Game/BanCa/BCUIMainMenu/Atlas/RESMenu.plist"
+                    },
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 15,
+                    "Scale9Width": 58,
+                    "Scale9Height": 61,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": -40.0,
+                    "RightMargin": -40.0,
+                    "TopMargin": -40.0,
+                    "BottomMargin": -40.0,
+                    "Tag": 175,
+                    "ActionTag": -1700548736,
+                    "Size": {
+                      "X": 80.0,
+                      "Y": 80.0
+                    },
+                    "Name": "BtnSound",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "ImgBtnHelp.png",
+                      "Plist": "res/Game/BanCa/BCUIMainMenu/Atlas/RESMenu.plist"
+                    },
+                    "Scale9OriginX": 33,
+                    "Scale9OriginY": 33,
+                    "Scale9Width": 14,
+                    "Scale9Height": 14,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": -0.0001,
+                      "Y": 92.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": -40.0001,
+                    "RightMargin": -39.9999,
+                    "TopMargin": -132.0,
+                    "BottomMargin": 52.0,
+                    "Tag": 742,
+                    "ActionTag": -1102186254,
+                    "Size": {
+                      "X": 80.0,
+                      "Y": 80.0
+                    },
+                    "Name": "BtnHelp",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "ImgBtnBack.png",
+                      "Plist": "res/Game/BanCa/BCUIMainMenu/Atlas/RESMenu.plist"
+                    },
+                    "Scale9OriginX": 33,
+                    "Scale9OriginY": 33,
+                    "Scale9Width": 14,
+                    "Scale9Height": 14,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": -0.0001,
+                      "Y": 184.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": -40.0001,
+                    "RightMargin": -39.9999,
+                    "TopMargin": -224.0,
+                    "BottomMargin": 144.0,
+                    "Tag": 743,
+                    "ActionTag": -1633220820,
+                    "Size": {
+                      "X": 80.0,
+                      "Y": 80.0
+                    },
+                    "Name": "BtnBack",
+                    "ctype": "ImageViewObjectData"
+                  }
+                ],
+                "ActionTag": -906455104,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "VisibleForFrame": false,
+                "Name": "MenuHide",
+                "ctype": "SingleNodeObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "ImgBtnFullScreen.png",
+                  "Plist": "res/Game/BanCa/BCUIMainMenu/Atlas/RESMenu.plist"
+                },
+                "Scale9OriginX": 33,
+                "Scale9OriginY": 33,
+                "Scale9Width": 14,
+                "Scale9Height": 14,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 288.0229,
+                  "Y": 66.3624
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 248.0229,
+                "RightMargin": -328.0229,
+                "TopMargin": -106.3624,
+                "BottomMargin": 26.3624,
+                "Tag": 214,
+                "ActionTag": 1551840746,
+                "Size": {
+                  "X": 80.0,
+                  "Y": 80.0
+                },
+                "Name": "BtnFullScreen",
+                "ctype": "ImageViewObjectData"
+              }
+            ],
+            "ActionTag": -853919140,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "Bottom",
+            "ctype": "SingleNodeObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 720.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 1.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "RightMargin": 1280.0,
+            "BottomMargin": 720.0,
+            "Tag": 161,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "ImgAvatarBorder.png",
+                  "Plist": "res/Game/BanCa/BCUIMainMenu/Atlas/RESMenu.plist"
+                },
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 15,
+                "Scale9Width": 323,
+                "Scale9Height": 91,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 182.86,
+                  "Y": -64.0619
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 6.36,
+                "RightMargin": -359.36,
+                "TopMargin": 3.5619,
+                "BottomMargin": -124.5619,
+                "Tag": 29,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Default",
+                      "Path": "res/Lobby/Default/Sprite.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 60.51,
+                      "Y": 60.5
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.1714,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.1303,
+                      "Y": 0.3802
+                    },
+                    "LeftMargin": 37.51,
+                    "RightMargin": 269.49,
+                    "TopMargin": 37.5,
+                    "BottomMargin": 37.5,
+                    "Tag": 210,
+                    "ActionTag": 558327224,
+                    "Size": {
+                      "X": 46.0,
+                      "Y": 46.0
+                    },
+                    "Name": "AvatarImage",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FontSize": 22,
+                    "LabelText": "UserName",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "res/Game/BanCa/BCCommon/BCFonts/UTMFacebookBKT.ttf",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Center",
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineColor": {
+                      "R": 0,
+                      "G": 0
+                    },
+                    "OutlineEnabled": true,
+                    "ShadowColor": {
+                      "R": 0,
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 261.8043,
+                      "Y": 92.99
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.7417,
+                      "Y": 0.7685
+                    },
+                    "PreSize": {
+                      "X": 0.2861,
+                      "Y": 0.2479
+                    },
+                    "LeftMargin": 211.3043,
+                    "RightMargin": 40.6957,
+                    "TopMargin": 13.01,
+                    "BottomMargin": 77.99,
+                    "Tag": 49,
+                    "ActionTag": 1078156786,
+                    "Size": {
+                      "X": 101.0,
+                      "Y": 30.0
+                    },
+                    "Name": "TextDisplayName",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FontSize": 24,
+                    "LabelText": "4",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "res/Game/BanCa/BCCommon/BCFonts/UTMFacebookBKT.ttf",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "R": 0,
+                      "G": 0
+                    },
+                    "OutlineEnabled": true,
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 160.1561,
+                      "Y": 94.2106
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.4537,
+                      "Y": 0.7786
+                    },
+                    "PreSize": {
+                      "X": 0.0482,
+                      "Y": 0.2727
+                    },
+                    "LeftMargin": 151.6561,
+                    "RightMargin": 184.3439,
+                    "TopMargin": 10.2894,
+                    "BottomMargin": 77.7106,
+                    "Tag": 190,
+                    "ActionTag": -1680882609,
+                    "Size": {
+                      "X": 17.0,
+                      "Y": 33.0
+                    },
+                    "VisibleForFrame": false,
+                    "Name": "TextLevel",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": -238819840,
+                "Size": {
+                  "X": 353.0,
+                  "Y": 121.0
+                },
+                "Name": "UserInfo",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "ImgBtnGoldPlus.png",
+                  "Plist": "res/Game/BanCa/BCUIMainMenu/Atlas/RESMenu.plist"
+                },
+                "Scale9OriginX": 33,
+                "Scale9OriginY": 18,
+                "Scale9Width": 148,
+                "Scale9Height": 20,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 478.31,
+                  "Y": -32.01
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 371.31,
+                "RightMargin": -585.31,
+                "TopMargin": 4.01,
+                "BottomMargin": -60.01,
+                "Tag": 184,
+                "Children": [
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 22,
+                    "LabelText": "Text Label",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "res/Game/BanCa/BCCommon/BCFonts/UTMFacebookBKT.ttf",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Center",
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineColor": {
+                      "R": 30,
+                      "G": 144
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 124.12,
+                      "Y": 29.12
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "B": 0
+                    },
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.58,
+                      "Y": 0.52
+                    },
+                    "PreSize": {
+                      "X": 0.7103,
+                      "Y": 0.4107
+                    },
+                    "LeftMargin": 48.12,
+                    "RightMargin": 13.88,
+                    "TopMargin": 15.38,
+                    "BottomMargin": 17.62,
+                    "Tag": 124,
+                    "ActionTag": 2016632358,
+                    "Size": {
+                      "X": 152.0,
+                      "Y": 23.0
+                    },
+                    "Name": "TextValue",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": 124116522,
+                "Size": {
+                  "X": 214.0,
+                  "Y": 56.0
+                },
+                "Name": "UserGoldInfo",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "ImgBtnPB.png",
+                  "Plist": "res/Game/BanCa/BCUIMainMenu/Atlas/RESMenu.plist"
+                },
+                "Scale9OriginX": 33,
+                "Scale9OriginY": 33,
+                "Scale9Width": 40,
+                "Scale9Height": 26,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 1202.9135,
+                  "Y": -60.5836
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 1149.9135,
+                "RightMargin": -1255.9135,
+                "TopMargin": 14.5836,
+                "BottomMargin": -106.5836,
+                "Tag": 942,
+                "ActionTag": -132314804,
+                "Size": {
+                  "X": 106.0,
+                  "Y": 92.0
+                },
+                "Name": "BtnPayment",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "ImgBtnDownload.png",
+                  "Plist": "res/Game/BanCa/BCUIMainMenu/Atlas/RESMenu.plist"
+                },
+                "Scale9OriginX": 33,
+                "Scale9OriginY": 33,
+                "Scale9Width": 64,
+                "Scale9Height": 32,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 1202.9135,
+                  "Y": -178.9528
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 1137.9135,
+                "RightMargin": -1267.9135,
+                "TopMargin": 129.9528,
+                "BottomMargin": -227.9528,
+                "Tag": 47,
+                "ActionTag": 43804288,
+                "Size": {
+                  "X": 130.0,
+                  "Y": 98.0
+                },
+                "VisibleForFrame": false,
+                "Name": "BtnDownload",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "TexBtnGiftCode.png",
+                  "Plist": "res/Game/BanCa/BCUIMainMenu/Atlas/RESMenu.plist"
+                },
+                "Scale9OriginX": 33,
+                "Scale9OriginY": 33,
+                "Scale9Width": 40,
+                "Scale9Height": 32,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 1066.9487,
+                  "Y": -60.5836
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 1013.9487,
+                "RightMargin": -1119.9487,
+                "TopMargin": 11.5836,
+                "BottomMargin": -109.5836,
+                "Tag": 298,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "TexInputBgDark.png",
+                      "Plist": "res/Game/BanCa/BCUIMainMenu/Atlas/RESMenu.plist"
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 22,
+                    "Scale9OriginY": 20,
+                    "Scale9Width": 1,
+                    "Scale9Height": 1,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": -148.4,
+                      "Y": 49.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": -1.4,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 2.6415,
+                      "Y": 0.4082
+                    },
+                    "LeftMargin": -288.4,
+                    "RightMargin": 114.4,
+                    "TopMargin": 29.0,
+                    "BottomMargin": 29.0,
+                    "Tag": 450,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "PlistSubImage",
+                          "Path": "TexArrowBlueSky.png",
+                          "Plist": "res/Game/BanCa/BCUIMainMenu/Atlas/RESMenu.plist"
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 288.4,
+                          "Y": 19.76
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "RotationSkewX": 90.0,
+                        "RotationSkewY": 90.0,
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PrePosition": {
+                          "X": 1.03,
+                          "Y": 0.494
+                        },
+                        "PreSize": {
+                          "X": 0.0679,
+                          "Y": 0.425
+                        },
+                        "LeftMargin": 278.9,
+                        "RightMargin": -17.9,
+                        "TopMargin": 11.74,
+                        "BottomMargin": 11.26,
+                        "Tag": 452,
+                        "ActionTag": -1459615205,
+                        "Size": {
+                          "X": 19.0,
+                          "Y": 17.0
+                        },
+                        "Name": "Arrow",
+                        "ctype": "SpriteObjectData"
+                      },
+                      {
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "res/Game/BanCa/BCCommon/BCFonts/arial.ttf",
+                          "Plist": ""
+                        },
+                        "FontSize": 22,
+                        "IsCustomSize": true,
+                        "LabelText": "",
+                        "PlaceHolderText": "Nhập mã Gift code",
+                        "MaxLengthText": 10,
+                        "TouchEnable": true,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 117.6,
+                          "Y": 20.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.42,
+                          "Y": 0.5
+                        },
+                        "PercentWidthEnable": true,
+                        "PercentHeightEnable": true,
+                        "PercentWidthEnabled": true,
+                        "PercentHeightEnabled": true,
+                        "PreSize": {
+                          "X": 0.8,
+                          "Y": 0.7125
+                        },
+                        "LeftMargin": 5.6,
+                        "RightMargin": 50.4,
+                        "TopMargin": 5.75,
+                        "BottomMargin": 5.75,
+                        "Tag": 451,
+                        "ActionTag": 1017216905,
+                        "Size": {
+                          "X": 224.0,
+                          "Y": 28.5
+                        },
+                        "Name": "TextInput",
+                        "ctype": "TextFieldObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "PlistSubImage",
+                          "Path": "TexBtnOk.png",
+                          "Plist": "res/Game/BanCa/BCUIMainMenu/Atlas/RESMenu.plist"
+                        },
+                        "Scale9OriginX": 13,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 14,
+                        "Scale9Height": 12,
+                        "TouchEnable": true,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 257.6,
+                          "Y": 20.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.92,
+                          "Y": 0.5
+                        },
+                        "PreSize": {
+                          "X": 0.1429,
+                          "Y": 0.85
+                        },
+                        "LeftMargin": 237.6,
+                        "RightMargin": 2.4,
+                        "TopMargin": 3.0,
+                        "BottomMargin": 3.0,
+                        "Tag": 453,
+                        "ActionTag": 1216766659,
+                        "Size": {
+                          "X": 40.0,
+                          "Y": 34.0
+                        },
+                        "Name": "BtnConfirmGC",
+                        "ctype": "ImageViewObjectData"
+                      }
+                    ],
+                    "ActionTag": -1109002298,
+                    "Size": {
+                      "X": 280.0,
+                      "Y": 40.0
+                    },
+                    "VisibleForFrame": false,
+                    "Name": "InputGC",
+                    "ctype": "ImageViewObjectData"
+                  }
+                ],
+                "ActionTag": 2068470903,
+                "Size": {
+                  "X": 106.0,
+                  "Y": 98.0
+                },
+                "Name": "BtnGiftCode",
+                "ctype": "ImageViewObjectData"
+              }
+            ],
+            "ActionTag": 877895415,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "Top",
+            "ctype": "SingleNodeObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "../../../../res/Lobby/Default/Sprite.png",
+        "../BCCommon/BCFonts/arial.ttf",
+        "../BCCommon/BCFonts/UTMFacebookBKT.ttf",
+        "Atlas/ImgMainBg.jpg",
+        "Atlas/RESMenu.plist",
+        "Atlas/RESMenu.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

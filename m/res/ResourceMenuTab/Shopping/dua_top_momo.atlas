@@ -1,0 +1,47 @@
+
+dua_top_momo.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG
+  rotate: true
+  xy: 2, 2
+  size: 239, 254
+  orig: 239, 254
+  offset: 0, 0
+  index: -1
+duatop
+  rotate: true
+  xy: 460, 133
+  size: 108, 25
+  orig: 108, 25
+  offset: 0, 0
+  index: -1
+in
+  rotate: false
+  xy: 258, 53
+  size: 200, 188
+  orig: 239, 254
+  offset: 14, 41
+  index: -1
+momo
+  rotate: false
+  xy: 258, 17
+  size: 137, 34
+  orig: 137, 34
+  offset: 0, 0
+  index: -1
+xu1
+  rotate: true
+  xy: 460, 90
+  size: 41, 28
+  orig: 41, 28
+  offset: 0, 0
+  index: -1
+xu2
+  rotate: false
+  xy: 397, 7
+  size: 52, 44
+  orig: 52, 44
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,606 @@
+{
+  "ID": "4a5e0077-35af-4490-b486-c01269a214aa",
+  "Version": "3.10.0.0",
+  "Name": "BCUIComponentView",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 143,
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 216,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 620.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.8611
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 0.1389
+            },
+            "BottomMargin": 620.0,
+            "Tag": 144,
+            "Children": [
+              {
+                "LabelText": "+1000",
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 640.0,
+                  "Y": 38.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.38
+                },
+                "PreSize": {
+                  "X": 0.0273,
+                  "Y": 0.15
+                },
+                "LeftMargin": 622.5,
+                "RightMargin": 622.5,
+                "TopMargin": 54.5,
+                "BottomMargin": 30.5,
+                "Tag": 612,
+                "ActionTag": -367017022,
+                "Size": {
+                  "X": 35.0,
+                  "Y": 15.0
+                },
+                "Name": "Text",
+                "ctype": "TextBMFontObjectData"
+              }
+            ],
+            "ActionTag": 1498854305,
+            "Size": {
+              "X": 1280.0,
+              "Y": 100.0
+            },
+            "Name": "FXNotification",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "ClipAble": true,
+            "BackColorAlpha": 179,
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "ImgBroadcastBg.png",
+              "Plist": "res/Game/BanCa/BCUIComponent/BCUIComponentAtlas/RESComponent.plist"
+            },
+            "SingleColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 31,
+            "Scale9OriginY": 24,
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 320.0,
+              "Y": 612.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.25,
+              "Y": 0.85
+            },
+            "PreSize": {
+              "X": 0.475,
+              "Y": 0.0611
+            },
+            "LeftMargin": 320.0,
+            "RightMargin": 352.0,
+            "TopMargin": 64.0,
+            "BottomMargin": 612.0,
+            "Tag": 186,
+            "Children": [
+              {
+                "IsCustomSize": true,
+                "FontSize": 20,
+                "LabelText": "Text Label",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "res/Game/BanCa/BCCommon/BCFonts/arial.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 0.0,
+                  "Y": 19.4
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.4409
+                },
+                "PreSize": {
+                  "X": 2.1053,
+                  "Y": 1.1364
+                },
+                "RightMargin": -672.0,
+                "TopMargin": -0.4,
+                "BottomMargin": -5.6,
+                "Tag": 187,
+                "ActionTag": -172637982,
+                "Size": {
+                  "X": 1280.0,
+                  "Y": 50.0
+                },
+                "Name": "TextBroadCast",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": 1226390350,
+            "Size": {
+              "X": 608.0,
+              "Y": 44.0
+            },
+            "Name": "FXBroadCast",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 410.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.5694
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "RightMargin": 1280.0,
+            "TopMargin": 310.0,
+            "BottomMargin": 410.0,
+            "Tag": 6,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "ImgJacpotBg.png",
+                  "Plist": "res/Game/BanCa/BCUIComponent/BCUIComponentAtlas/RESComponent.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": -95.0,
+                  "Y": 0.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": -188.5,
+                "RightMargin": 1.5,
+                "TopMargin": -191.0,
+                "BottomMargin": -191.0,
+                "Tag": 7,
+                "ActionTag": 1114061260,
+                "Size": {
+                  "X": 187.0,
+                  "Y": 382.0
+                },
+                "Name": "Bg",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "JackpotBtn.png",
+                  "Plist": "res/Game/BanCa/BCUIComponent/BCUIComponentAtlas/RESComponent.plist"
+                },
+                "Scale9OriginX": 19,
+                "Scale9OriginY": 80,
+                "Scale9Width": 22,
+                "Scale9Height": 83,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 30.0,
+                  "Y": 0.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "RightMargin": -60.0,
+                "TopMargin": -121.5,
+                "BottomMargin": -121.5,
+                "Tag": 8,
+                "ActionTag": -977257677,
+                "Size": {
+                  "X": 60.0,
+                  "Y": 243.0
+                },
+                "Name": "BtnJackpot",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 20,
+                "LabelText": "0",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "res/Game/BanCa/BCCommon/BCFonts/arialbd.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": -84.81,
+                  "Y": -163.7103
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "B": 0
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": -142.31,
+                "RightMargin": 27.31,
+                "TopMargin": 152.2103,
+                "BottomMargin": -175.2103,
+                "Tag": 9,
+                "ActionTag": -333918360,
+                "Size": {
+                  "X": 115.0,
+                  "Y": 23.0
+                },
+                "Name": "Value_0",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 20,
+                "LabelText": "0",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "res/Game/BanCa/BCCommon/BCFonts/arialbd.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": -84.81,
+                  "Y": -61.5507
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "B": 0
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": -142.31,
+                "RightMargin": 27.31,
+                "TopMargin": 50.0507,
+                "BottomMargin": -73.0507,
+                "Tag": 10,
+                "ActionTag": 1757493578,
+                "Size": {
+                  "X": 115.0,
+                  "Y": 23.0
+                },
+                "Name": "Value_1",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 20,
+                "LabelText": "0",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "res/Game/BanCa/BCCommon/BCFonts/arialbd.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": -84.81,
+                  "Y": 52.3992
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "B": 0
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": -142.31,
+                "RightMargin": 27.31,
+                "TopMargin": -63.8992,
+                "BottomMargin": 40.8992,
+                "Tag": 11,
+                "ActionTag": -223820900,
+                "Size": {
+                  "X": 115.0,
+                  "Y": 23.0
+                },
+                "Name": "Value_2",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": 1806032500,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "Jackpot",
+            "ctype": "SingleNodeObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 640.0,
+              "Y": 360.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 640.0,
+            "RightMargin": 640.0,
+            "TopMargin": 360.0,
+            "BottomMargin": 360.0,
+            "Tag": 118,
+            "ActionTag": -467987630,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "JackpotWin",
+            "ctype": "SingleNodeObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "RightMargin": 1280.0,
+            "TopMargin": 720.0,
+            "Tag": 925,
+            "ActionTag": -1921928721,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "Popup",
+            "ctype": "SingleNodeObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "../BCCommon/BCFonts/arial.ttf",
+        "../BCCommon/BCFonts/arialbd.ttf",
+        "BCUIComponentAtlas/RESComponent.plist",
+        "BCUIComponentAtlas/RESComponent.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

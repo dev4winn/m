@@ -1,0 +1,297 @@
+{
+    "skeleton":
+    {
+        "hash": "6Ujrv/Gjo8WZ46A8go3u6ykui5o",
+        "spine": "3.6.53",
+        "width": 234,
+        "height": 223,
+        "images": "./Sam/images/"
+    },
+    "bones": [
+    {
+        "name": "root"
+    },
+    {
+        "name": "bone",
+        "parent": "root",
+        "length": 29.3,
+        "rotation": 83.29,
+        "x": -6.66,
+        "y": -82.54
+    },
+    {
+        "name": "bone2",
+        "parent": "root",
+        "length": 67.65,
+        "rotation": 91.45,
+        "x": -84.55,
+        "y": -47.44
+    },
+    {
+        "name": "bone3",
+        "parent": "root",
+        "length": 50.08,
+        "rotation": 90.49,
+        "x": -57.59,
+        "y": -44.02
+    },
+    {
+        "name": "bone4",
+        "parent": "root",
+        "length": 50.51,
+        "rotation": 90.97,
+        "x": -29.77,
+        "y": -36.32
+    },
+    {
+        "name": "bone5",
+        "parent": "root",
+        "length": 50.94,
+        "rotation": 90.96,
+        "x": -0.24,
+        "y": -28.18
+    }],
+    "slots": [
+    {
+        "name": "BG",
+        "bone": "root",
+        "attachment": "BG"
+    },
+    {
+        "name": "J",
+        "bone": "root",
+        "attachment": "J"
+    },
+    {
+        "name": "Q",
+        "bone": "root",
+        "attachment": "Q"
+    },
+    {
+        "name": "K",
+        "bone": "root",
+        "attachment": "K"
+    },
+    {
+        "name": "A",
+        "bone": "root",
+        "attachment": "A"
+    },
+    {
+        "name": "Light",
+        "bone": "root",
+        "color": "ffffff7d",
+        "attachment": "Light",
+        "blend": "additive"
+    },
+    {
+        "name": "Sam_Loc",
+        "bone": "root",
+        "attachment": "Sam_Loc"
+    }],
+    "skins":
+    {
+        "default":
+        {
+            "A":
+            {
+                "A":
+                {
+                    "type": "mesh",
+                    "uvs": [1, 1, 0, 1, 0, 0, 1, 0],
+                    "triangles": [1, 2, 3, 1, 3, 0],
+                    "vertices": [1, 5, -15.64, -94.56, 1, 1, 5, -13.81, 14.42, 1, 1, 5, 125.17, 12.08, 1, 1, 5, 123.34, -96.9, 1],
+                    "hull": 4,
+                    "edges": [0, 2, 2, 4, 4, 6, 0, 6],
+                    "width": 109,
+                    "height": 139
+                }
+            },
+            "BG":
+            {
+                "BG":
+                {
+                    "x": -2.42,
+                    "y": 0.27,
+                    "width": 218,
+                    "height": 209
+                }
+            },
+            "J":
+            {
+                "J":
+                {
+                    "type": "mesh",
+                    "uvs": [1, 1, 0, 1, 0, 0, 1, 0],
+                    "triangles": [1, 2, 3, 1, 3, 0],
+                    "vertices": [1, 2, -13.17, -93.83, 1, 1, 2, -10.46, 13.14, 1, 1, 2, 127.5, 9.65, 1, 1, 2, 124.79, -97.32, 1],
+                    "hull": 4,
+                    "edges": [0, 2, 2, 4, 4, 6, 0, 6],
+                    "width": 107,
+                    "height": 138
+                }
+            },
+            "K":
+            {
+                "K":
+                {
+                    "type": "mesh",
+                    "uvs": [1, 1, 0, 1, 0, 0, 1, 0],
+                    "triangles": [1, 2, 3, 1, 3, 0],
+                    "vertices": [1, 4, -12.53, -95.15, 1, 1, 4, -10.72, 11.84, 1, 1, 4, 127.26, 9.5, 1, 1, 4, 125.45, -97.49, 1],
+                    "hull": 4,
+                    "edges": [0, 2, 2, 4, 4, 6, 0, 6],
+                    "width": 107,
+                    "height": 138
+                }
+            },
+            "Light":
+            {
+                "Light":
+                {
+                    "x": -2.42,
+                    "y": -4.73,
+                    "width": 234,
+                    "height": 223
+                }
+            },
+            "Q":
+            {
+                "Q":
+                {
+                    "type": "mesh",
+                    "uvs": [1, 1, 0, 1, 0, 0, 1, 0],
+                    "triangles": [1, 2, 3, 1, 3, 0],
+                    "vertices": [1, 3, -11.02, -95.08, 1, 1, 3, -10.11, 11.92, 1, 1, 3, 128.88, 10.73, 1, 1, 3, 127.97, -96.26, 1],
+                    "hull": 4,
+                    "edges": [0, 2, 2, 4, 4, 6, 0, 6],
+                    "width": 107,
+                    "height": 139
+                }
+            },
+            "Sam_Loc":
+            {
+                "Sam_Loc":
+                {
+                    "type": "mesh",
+                    "uvs": [1, 1, 0, 1, 0, 0, 1, 0],
+                    "triangles": [1, 2, 3, 1, 3, 0],
+                    "vertices": [1, 1, 5.77, -89.17, 1, 1, 1, -14.45, 82.64, 1, 1, 1, 39.18, 88.95, 1, 1, 1, 59.4, -82.86, 1],
+                    "hull": 4,
+                    "edges": [0, 2, 2, 4, 4, 6, 0, 6],
+                    "width": 173,
+                    "height": 54
+                }
+            }
+        }
+    },
+    "animations":
+    {
+        "animation":
+        {
+            "slots":
+            {
+                "Sam_Loc":
+                {
+                    "color": [
+                    {
+                        "time": 0,
+                        "color": "ffffffff",
+                        "curve": "stepped"
+                    },
+                    {
+                        "time": 0.6667,
+                        "color": "ffffffff"
+                    }]
+                }
+            },
+            "bones":
+            {
+                "bone5":
+                {
+                    "translate": [
+                    {
+                        "time": 0.1333,
+                        "x": 0,
+                        "y": 0,
+                        "curve": [0.25, 0, 0.75, 1]
+                    },
+                    {
+                        "time": 0.8,
+                        "x": -4.84,
+                        "y": -9.04,
+                        "curve": [0.25, 0, 0.75, 1]
+                    },
+                    {
+                        "time": 1.5,
+                        "x": 0,
+                        "y": 0
+                    }]
+                },
+                "bone4":
+                {
+                    "translate": [
+                    {
+                        "time": 0.0333,
+                        "x": 0,
+                        "y": 0,
+                        "curve": [0.25, 0, 0.75, 1]
+                    },
+                    {
+                        "time": 0.7,
+                        "x": 2.01,
+                        "y": -3.93,
+                        "curve": [0.25, 0, 0.75, 1]
+                    },
+                    {
+                        "time": 1.4,
+                        "x": 0,
+                        "y": 0
+                    }]
+                },
+                "bone3":
+                {
+                    "translate": [
+                    {
+                        "time": 0,
+                        "x": 0,
+                        "y": 0,
+                        "curve": [0.25, 0, 0.75, 1]
+                    },
+                    {
+                        "time": 0.6667,
+                        "x": 7.07,
+                        "y": 1.57,
+                        "curve": [0.25, 0, 0.75, 1]
+                    },
+                    {
+                        "time": 1.3667,
+                        "x": 0,
+                        "y": 0
+                    }]
+                },
+                "bone2":
+                {
+                    "translate": [
+                    {
+                        "time": 0.0667,
+                        "x": 0,
+                        "y": 0,
+                        "curve": [0.25, 0, 0.75, 1]
+                    },
+                    {
+                        "time": 0.7333,
+                        "x": 12.58,
+                        "y": 4.72,
+                        "curve": [0.25, 0, 0.75, 1]
+                    },
+                    {
+                        "time": 1.4333,
+                        "x": 0,
+                        "y": 0
+                    }]
+                }
+            }
+        }
+    }
+}

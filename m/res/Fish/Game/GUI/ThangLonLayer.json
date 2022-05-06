@@ -1,0 +1,428 @@
+{
+  "ID": "4a8911e2-17c1-4522-a09d-44d4e3d2fbc9",
+  "Version": "3.10.0.0",
+  "Name": "ThangLonLayer",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 24,
+        "Speed": 1.0,
+        "ActivedAnimationName": "animation0",
+        "Timelines": [
+          {
+            "ActionTag": -1278418436,
+            "Property": "RotationSkew",
+            "Frames": [
+              {
+                "X": 0.0,
+                "Y": 0.0,
+                "FrameIndex": 0,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              },
+              {
+                "X": 360.0,
+                "Y": 360.0,
+                "FrameIndex": 24,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": -1278418436,
+            "Property": "Position",
+            "Frames": [
+              {
+                "X": -7.9761,
+                "Y": -10.5428,
+                "FrameIndex": 0,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "PointFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": -1278418436,
+            "Property": "Scale",
+            "Frames": [
+              {
+                "X": 1.2855,
+                "Y": 1.2855,
+                "FrameIndex": 0,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          }
+        ],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [
+        {
+          "StartIndex": 0,
+          "EndIndex": 24,
+          "Name": "animation0",
+          "ctype": "AnimationInfoData"
+        }
+      ],
+      "ObjectData": {
+        "Tag": 158,
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 977.6639,
+              "Y": 578.556
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5092,
+              "Y": 0.5357
+            },
+            "PreSize": {
+              "X": 0.1042,
+              "Y": 0.1852
+            },
+            "HorizontalEdge": "BothEdge",
+            "VerticalEdge": "BothEdge",
+            "LeftMargin": 977.6639,
+            "RightMargin": 742.3361,
+            "TopMargin": 301.444,
+            "BottomMargin": 578.556,
+            "Tag": 159,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "fx_xoay.png",
+                  "Plist": "GameScene/uiIngame.plist"
+                },
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 15,
+                "Scale9Width": 825,
+                "Scale9Height": 838,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": -7.9761,
+                  "Y": -10.5428
+                },
+                "Scale": {
+                  "ScaleX": 1.2855,
+                  "ScaleY": 1.2855
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": -0.0399,
+                  "Y": -0.0527
+                },
+                "PreSize": {
+                  "X": 4.275,
+                  "Y": 4.34
+                },
+                "LeftMargin": -435.4761,
+                "RightMargin": -219.5239,
+                "TopMargin": -223.4572,
+                "BottomMargin": -444.5428,
+                "Tag": 160,
+                "ActionTag": -1278418436,
+                "Size": {
+                  "X": 855.0,
+                  "Y": 868.0
+                },
+                "Name": "xoay",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "bg_txt.png",
+                  "Plist": "GameScene/uiIngame.plist"
+                },
+                "Scale9OriginX": 282,
+                "Scale9OriginY": 286,
+                "Scale9Width": 291,
+                "Scale9Height": 296,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 13.5615,
+                  "Y": 2.7098
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0678,
+                  "Y": 0.0135
+                },
+                "PreSize": {
+                  "X": 4.275,
+                  "Y": 4.34
+                },
+                "LeftMargin": -413.9385,
+                "RightMargin": -241.0615,
+                "TopMargin": -236.7098,
+                "BottomMargin": -431.2902,
+                "Tag": 161,
+                "ActionTag": -1796124441,
+                "Size": {
+                  "X": 855.0,
+                  "Y": 868.0
+                },
+                "Name": "Image_2",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "GameScene/BurstPipe.plist",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 770,
+                  "Dst": 771
+                },
+                "AnchorPoint": {},
+                "Position": {
+                  "X": -0.6018,
+                  "Y": 668.4018
+                },
+                "Scale": {
+                  "ScaleX": 2.613,
+                  "ScaleY": 2.613
+                },
+                "CColor": {},
+                "IconVisible": true,
+                "PrePosition": {
+                  "X": -0.003,
+                  "Y": 3.342
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": -0.6018,
+                "RightMargin": 200.6018,
+                "TopMargin": -468.4018,
+                "BottomMargin": 668.4018,
+                "Tag": 198,
+                "ActionTag": -584240171,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "Particle_1",
+                "ctype": "ParticleObjectData"
+              }
+            ],
+            "ActionTag": -692507629,
+            "Size": {
+              "X": 200.0,
+              "Y": 200.0
+            },
+            "Name": "panel",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 993.3057,
+              "Y": 528.086
+            },
+            "Scale": {
+              "ScaleX": 1.0949,
+              "ScaleY": 1.0949
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5173,
+              "Y": 0.489
+            },
+            "PreSize": {
+              "X": 0.1042,
+              "Y": 0.1852
+            },
+            "HorizontalEdge": "BothEdge",
+            "VerticalEdge": "BothEdge",
+            "LeftMargin": 993.3057,
+            "RightMargin": 726.6943,
+            "TopMargin": 351.914,
+            "BottomMargin": 528.086,
+            "Tag": 59,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "txt.png",
+                  "Plist": "GameScene/uiIngame.plist"
+                },
+                "Scale9OriginX": 282,
+                "Scale9OriginY": 75,
+                "Scale9Width": 422,
+                "Scale9Height": 78,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 8.2428,
+                  "Y": -17.0301
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0412,
+                  "Y": -0.0852
+                },
+                "PreSize": {
+                  "X": 4.93,
+                  "Y": 1.14
+                },
+                "LeftMargin": -484.7572,
+                "RightMargin": -301.2428,
+                "TopMargin": 103.0301,
+                "BottomMargin": -131.0301,
+                "Tag": 62,
+                "ActionTag": 1837739313,
+                "Size": {
+                  "X": 986.0,
+                  "Y": 228.0
+                },
+                "Name": "txtThangLon",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "LabelText": "+8.000.000$",
+                "LabelBMFontFile_CNB": {
+                  "Type": "Normal",
+                  "Path": "Fonts/yellow-export.fnt",
+                  "Plist": ""
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 14.313,
+                  "Y": 204.6808
+                },
+                "Scale": {
+                  "ScaleX": 3.9927,
+                  "ScaleY": 3.9927
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0716,
+                  "Y": 1.0234
+                },
+                "PreSize": {
+                  "X": 0.925,
+                  "Y": 0.235
+                },
+                "LeftMargin": -78.187,
+                "RightMargin": 93.187,
+                "TopMargin": -28.1808,
+                "BottomMargin": 181.1808,
+                "Tag": 63,
+                "ActionTag": -611700718,
+                "Size": {
+                  "X": 185.0,
+                  "Y": 47.0
+                },
+                "Name": "gold",
+                "ctype": "TextBMFontObjectData"
+              }
+            ],
+            "ActionTag": 1284581937,
+            "Size": {
+              "X": 200.0,
+              "Y": 200.0
+            },
+            "Name": "panel_0",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1920.0,
+          "Y": 1080.0
+        },
+        "Name": "Scene",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "Fonts/yellow-export.fnt",
+        "Fonts/yellow-export.png",
+        "GameScene/BurstPipe.plist",
+        "GameScene/chip_4.png",
+        "GameScene/uiIngame.plist",
+        "GameScene/uiIngame.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Scene"
+}

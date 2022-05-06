@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!--Honghaier Game Editor : Version 1.0 -->
+<plist version="1.0">
+	<dict>
+		<key>animations</key>
+		<dict>
+			<key>fish_9_swim</key>
+			<dict>
+				<key>delay</key>
+				<real>0.0500</real>
+				<key>frames</key>
+				<array>
+					<string>cahoa-6-1.png</string>
+					<string>cahoa-6-2.png</string>
+					<string>cahoa-6-3.png</string>
+					<string>cahoa-6-4.png</string>
+					<string>cahoa-6-5.png</string>
+					<string>cahoa-6-6.png</string>
+					<string>cahoa-6-7.png</string>
+					<string>cahoa-6-8.png</string>
+				</array>
+			</dict>
+		</dict>
+	</dict>
+</plist>

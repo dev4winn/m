@@ -1,0 +1,39 @@
+momo_100.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+110%
+  rotate: false
+  xy: 108, 10
+  size: 65, 26
+  orig: 67, 28
+  offset: 1, 1
+  index: -1
+bg
+  rotate: false
+  xy: 2, 2
+  size: 104, 103
+  orig: 106, 105
+  offset: 1, 1
+  index: -1
+giatri
+  rotate: true
+  xy: 196, 46
+  size: 59, 24
+  orig: 61, 26
+  offset: 1, 1
+  index: -1
+khung
+  rotate: false
+  xy: 108, 64
+  size: 86, 41
+  orig: 88, 43
+  offset: 1, 1
+  index: -1
+khuyen mai
+  rotate: false
+  xy: 108, 38
+  size: 73, 24
+  orig: 75, 26
+  offset: 1, 1
+  index: -1

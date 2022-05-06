@@ -1,0 +1,41 @@
+
+ICON.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG
+  rotate: false
+  xy: 2, 62
+  size: 197, 183
+  orig: 197, 183
+  offset: 0, 0
+  index: -1
+FRAME
+  rotate: false
+  xy: 201, 164
+  size: 194, 81
+  orig: 194, 81
+  offset: 0, 0
+  index: -1
+SAMLOCCARD
+  rotate: false
+  xy: 201, 74
+  size: 148, 88
+  orig: 148, 88
+  offset: 0, 0
+  index: -1
+SAMLOCCHIP
+  rotate: true
+  xy: 397, 109
+  size: 136, 93
+  orig: 136, 93
+  offset: 0, 0
+  index: -1
+SAMLOCTEXT
+  rotate: false
+  xy: 2, 2
+  size: 167, 58
+  orig: 167, 58
+  offset: 0, 0
+  index: -1

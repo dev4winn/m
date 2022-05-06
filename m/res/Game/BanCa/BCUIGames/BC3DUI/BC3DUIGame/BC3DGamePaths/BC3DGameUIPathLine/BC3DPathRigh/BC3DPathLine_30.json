@@ -1,0 +1,306 @@
+[
+    [
+        {
+            "ActionTag": 773915193,
+            "Property": "Position",
+            "Frames": [
+                {
+                    "X": 0,
+                    "Y": 0,
+                    "FrameIndex": 0,
+                    "EasingData": {
+                        "Type": 0
+                    },
+                    "ctype": "PointFrameData"
+                },
+                {
+                    "X": -200.2,
+                    "Y": -200,
+                    "FrameIndex": 143,
+                    "EasingData": {
+                        "Type": 0
+                    },
+                    "ctype": "PointFrameData"
+                },
+                {
+                    "X": -316.91,
+                    "Y": -272.93,
+                    "FrameIndex": 222,
+                    "EasingData": {
+                        "Type": 0
+                    },
+                    "ctype": "PointFrameData"
+                },
+                {
+                    "X": -425.5,
+                    "Y": -355,
+                    "FrameIndex": 298,
+                    "EasingData": {
+                        "Type": 0
+                    },
+                    "ctype": "PointFrameData"
+                },
+                {
+                    "X": -526.47,
+                    "Y": -500,
+                    "FrameIndex": 366,
+                    "EasingData": {
+                        "Type": 0
+                    },
+                    "ctype": "PointFrameData"
+                },
+                {
+                    "X": -647.34,
+                    "Y": -632,
+                    "FrameIndex": 443,
+                    "EasingData": {
+                        "Type": 0
+                    },
+                    "ctype": "PointFrameData"
+                },
+                {
+                    "X": -727.06,
+                    "Y": -671,
+                    "FrameIndex": 506,
+                    "EasingData": {
+                        "Type": 0
+                    },
+                    "ctype": "PointFrameData"
+                },
+                {
+                    "X": -826.69,
+                    "Y": -678,
+                    "FrameIndex": 574,
+                    "EasingData": {
+                        "Type": 0
+                    },
+                    "ctype": "PointFrameData"
+                },
+                {
+                    "X": -923.56,
+                    "Y": -650,
+                    "FrameIndex": 640,
+                    "EasingData": {
+                        "Type": 0
+                    },
+                    "ctype": "PointFrameData"
+                },
+                {
+                    "X": -1021.12,
+                    "Y": -556,
+                    "FrameIndex": 725,
+                    "EasingData": {
+                        "Type": 0
+                    },
+                    "ctype": "PointFrameData"
+                },
+                {
+                    "X": -1085.49,
+                    "Y": -501,
+                    "FrameIndex": 777,
+                    "EasingData": {
+                        "Type": 0
+                    },
+                    "ctype": "PointFrameData"
+                },
+                {
+                    "X": -1164.72,
+                    "Y": -489,
+                    "FrameIndex": 835,
+                    "EasingData": {
+                        "Type": 0
+                    },
+                    "ctype": "PointFrameData"
+                },
+                {
+                    "X": -1311.14,
+                    "Y": -529,
+                    "FrameIndex": 936,
+                    "EasingData": {
+                        "Type": 0
+                    },
+                    "ctype": "PointFrameData"
+                },
+                {
+                    "X": -1450.87,
+                    "Y": -697,
+                    "FrameIndex": 1024,
+                    "EasingData": {
+                        "Type": 0
+                    },
+                    "ctype": "PointFrameData"
+                },
+                {
+                    "X": -1478.3,
+                    "Y": -775,
+                    "FrameIndex": 1052,
+                    "EasingData": {
+                        "Type": 0
+                    },
+                    "ctype": "PointFrameData"
+                },
+                {
+                    "X": -1733.13,
+                    "Y": -972.13,
+                    "FrameIndex": 1250,
+                    "EasingData": {
+                        "Type": 0
+                    },
+                    "ctype": "PointFrameData"
+                }
+            ],
+            "ctype": "TimelineData"
+        },
+        {
+            "ActionTag": 773915193,
+            "Property": "Scale",
+            "Frames": [
+                {
+                    "X": 1,
+                    "Y": 1,
+                    "FrameIndex": 0,
+                    "EasingData": {
+                        "Type": 0
+                    },
+                    "ctype": "ScaleValueFrameData"
+                },
+                {
+                    "X": 1,
+                    "Y": 1,
+                    "FrameIndex": 143,
+                    "EasingData": {
+                        "Type": 0
+                    },
+                    "ctype": "ScaleValueFrameData"
+                },
+                {
+                    "X": 1,
+                    "Y": 1,
+                    "FrameIndex": 222,
+                    "EasingData": {
+                        "Type": 0
+                    },
+                    "ctype": "ScaleValueFrameData"
+                },
+                {
+                    "X": 1,
+                    "Y": 1,
+                    "FrameIndex": 298,
+                    "EasingData": {
+                        "Type": 0
+                    },
+                    "ctype": "ScaleValueFrameData"
+                },
+                {
+                    "X": 1,
+                    "Y": 1,
+                    "FrameIndex": 366,
+                    "EasingData": {
+                        "Type": 0
+                    },
+                    "ctype": "ScaleValueFrameData"
+                },
+                {
+                    "X": 0.9,
+                    "Y": 0.9,
+                    "FrameIndex": 443,
+                    "EasingData": {
+                        "Type": 0
+                    },
+                    "ctype": "ScaleValueFrameData"
+                },
+                {
+                    "X": 0.868,
+                    "Y": 0.868,
+                    "FrameIndex": 506,
+                    "EasingData": {
+                        "Type": 0
+                    },
+                    "ctype": "ScaleValueFrameData"
+                },
+                {
+                    "X": 0.8335,
+                    "Y": 0.8335,
+                    "FrameIndex": 574,
+                    "EasingData": {
+                        "Type": 0
+                    },
+                    "ctype": "ScaleValueFrameData"
+                },
+                {
+                    "X": 0.8,
+                    "Y": 0.8,
+                    "FrameIndex": 640,
+                    "EasingData": {
+                        "Type": 0
+                    },
+                    "ctype": "ScaleValueFrameData"
+                },
+                {
+                    "X": 0.8287,
+                    "Y": 0.8287,
+                    "FrameIndex": 725,
+                    "EasingData": {
+                        "Type": 0
+                    },
+                    "ctype": "ScaleValueFrameData"
+                },
+                {
+                    "X": 0.8463,
+                    "Y": 0.8463,
+                    "FrameIndex": 777,
+                    "EasingData": {
+                        "Type": 0
+                    },
+                    "ctype": "ScaleValueFrameData"
+                },
+                {
+                    "X": 0.8659,
+                    "Y": 0.8659,
+                    "FrameIndex": 835,
+                    "EasingData": {
+                        "Type": 0
+                    },
+                    "ctype": "ScaleValueFrameData"
+                },
+                {
+                    "X": 0.9,
+                    "Y": 0.9,
+                    "FrameIndex": 936,
+                    "EasingData": {
+                        "Type": 0
+                    },
+                    "ctype": "ScaleValueFrameData"
+                },
+                {
+                    "X": 0.928,
+                    "Y": 0.928,
+                    "FrameIndex": 1024,
+                    "EasingData": {
+                        "Type": 0
+                    },
+                    "ctype": "ScaleValueFrameData"
+                },
+                {
+                    "X": 0.9369,
+                    "Y": 0.9369,
+                    "FrameIndex": 1052,
+                    "EasingData": {
+                        "Type": 0
+                    },
+                    "ctype": "ScaleValueFrameData"
+                },
+                {
+                    "X": 1,
+                    "Y": 1,
+                    "FrameIndex": 1250,
+                    "EasingData": {
+                        "Type": 0
+                    },
+                    "ctype": "ScaleValueFrameData"
+                }
+            ],
+            "ctype": "TimelineData"
+        }
+    ]
+]

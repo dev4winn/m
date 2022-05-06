@@ -1,0 +1,305 @@
+
+NuDV.png
+size: 1022,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+GirlBanSung_00000
+  rotate: true
+  xy: 241, 607
+  size: 206, 398
+  orig: 206, 398
+  offset: 0, 0
+  index: -1
+GirlBanSung_00001
+  rotate: true
+  xy: 2, 398
+  size: 207, 399
+  orig: 207, 399
+  offset: 0, 0
+  index: -1
+GirlBanSung_00002
+  rotate: true
+  xy: 403, 210
+  size: 198, 400
+  orig: 198, 400
+  offset: 0, 0
+  index: -1
+GirlBanSung_00003
+  rotate: true
+  xy: 402, 31
+  size: 177, 401
+  orig: 177, 401
+  offset: 0, 0
+  index: -1
+GirlBanSung_00021
+  rotate: false
+  xy: 641, 611
+  size: 178, 411
+  orig: 178, 411
+  offset: 0, 0
+  index: -1
+GirlBanSung_00022
+  rotate: true
+  xy: 403, 410
+  size: 195, 411
+  orig: 195, 411
+  offset: 0, 0
+  index: -1
+GirlBanSung_00031
+  rotate: false
+  xy: 821, 611
+  size: 178, 411
+  orig: 178, 411
+  offset: 0, 0
+  index: -1
+GirlBanSung_00034
+  rotate: true
+  xy: 2, 4
+  size: 188, 398
+  orig: 188, 398
+  offset: 0, 0
+  index: -1
+GirlBanSung_00035
+  rotate: true
+  xy: 2, 194
+  size: 202, 398
+  orig: 202, 398
+  offset: 0, 0
+  index: -1
+GirlBanSung_00036
+  rotate: true
+  xy: 241, 815
+  size: 207, 398
+  orig: 207, 398
+  offset: 0, 0
+  index: -1
+GirlBanSung_00037
+  rotate: false
+  xy: 805, 2
+  size: 207, 398
+  orig: 207, 398
+  offset: 0, 0
+  index: -1
+SD
+  rotate: true
+  xy: 816, 402
+  size: 207, 204
+  orig: 207, 204
+  offset: 0, 0
+  index: -1
+bg
+  rotate: false
+  xy: 2, 607
+  size: 237, 415
+  orig: 237, 415
+  offset: 0, 0
+  index: -1
+
+NuDV2.png
+size: 991,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+GirlBanSung_00004
+  rotate: false
+  xy: 815, 621
+  size: 174, 401
+  orig: 174, 401
+  offset: 0, 0
+  index: -1
+GirlBanSung_00005
+  rotate: false
+  xy: 346, 230
+  size: 164, 393
+  orig: 164, 393
+  offset: 0, 0
+  index: -1
+GirlBanSung_00009
+  rotate: false
+  xy: 828, 208
+  size: 149, 411
+  orig: 149, 411
+  offset: 0, 0
+  index: -1
+GirlBanSung_00010
+  rotate: false
+  xy: 512, 275
+  size: 149, 411
+  orig: 149, 411
+  offset: 0, 0
+  index: -1
+GirlBanSung_00011
+  rotate: false
+  xy: 663, 275
+  size: 149, 411
+  orig: 149, 411
+  offset: 0, 0
+  index: -1
+GirlBanSung_00013
+  rotate: true
+  xy: 415, 78
+  size: 150, 411
+  orig: 150, 411
+  offset: 0, 0
+  index: -1
+GirlBanSung_00018
+  rotate: false
+  xy: 2, 611
+  size: 175, 411
+  orig: 175, 411
+  offset: 0, 0
+  index: -1
+GirlBanSung_00019
+  rotate: false
+  xy: 2, 198
+  size: 175, 411
+  orig: 175, 411
+  offset: 0, 0
+  index: -1
+GirlBanSung_00020
+  rotate: true
+  xy: 2, 21
+  size: 175, 411
+  orig: 175, 411
+  offset: 0, 0
+  index: -1
+GirlBanSung_00029
+  rotate: true
+  xy: 360, 688
+  size: 152, 411
+  orig: 152, 411
+  offset: 0, 0
+  index: -1
+GirlBanSung_00030
+  rotate: false
+  xy: 179, 212
+  size: 165, 411
+  orig: 165, 411
+  offset: 0, 0
+  index: -1
+GirlBanSung_00032
+  rotate: false
+  xy: 179, 625
+  size: 179, 397
+  orig: 179, 397
+  offset: 0, 0
+  index: -1
+GirlBanSung_00033
+  rotate: true
+  xy: 415, 842
+  size: 180, 398
+  orig: 180, 398
+  offset: 0, 0
+  index: -1
+Text
+  rotate: false
+  xy: 415, 2
+  size: 254, 74
+  orig: 254, 74
+  offset: 0, 0
+  index: -1
+
+NuDV3.png
+size: 985,904
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+GirlBanSung_00006
+  rotate: false
+  xy: 828, 512
+  size: 154, 390
+  orig: 154, 390
+  offset: 0, 0
+  index: -1
+GirlBanSung_00007
+  rotate: false
+  xy: 828, 120
+  size: 155, 390
+  orig: 155, 390
+  offset: 0, 0
+  index: -1
+GirlBanSung_00008
+  rotate: true
+  xy: 2, 754
+  size: 148, 394
+  orig: 148, 394
+  offset: 0, 0
+  index: -1
+GirlBanSung_00012
+  rotate: true
+  xy: 398, 754
+  size: 148, 411
+  orig: 148, 411
+  offset: 0, 0
+  index: -1
+GirlBanSung_00014
+  rotate: true
+  xy: 415, 153
+  size: 149, 411
+  orig: 149, 411
+  offset: 0, 0
+  index: -1
+GirlBanSung_00015
+  rotate: true
+  xy: 2, 604
+  size: 148, 411
+  orig: 148, 411
+  offset: 0, 0
+  index: -1
+GirlBanSung_00016
+  rotate: true
+  xy: 2, 3
+  size: 149, 397
+  orig: 149, 397
+  offset: 0, 0
+  index: -1
+GirlBanSung_00017
+  rotate: true
+  xy: 401, 2
+  size: 149, 397
+  orig: 149, 397
+  offset: 0, 0
+  index: -1
+GirlBanSung_00023
+  rotate: true
+  xy: 415, 604
+  size: 148, 411
+  orig: 148, 411
+  offset: 0, 0
+  index: -1
+GirlBanSung_00024
+  rotate: true
+  xy: 2, 454
+  size: 148, 411
+  orig: 148, 411
+  offset: 0, 0
+  index: -1
+GirlBanSung_00025
+  rotate: true
+  xy: 415, 454
+  size: 148, 411
+  orig: 148, 411
+  offset: 0, 0
+  index: -1
+GirlBanSung_00026
+  rotate: true
+  xy: 2, 304
+  size: 148, 411
+  orig: 148, 411
+  offset: 0, 0
+  index: -1
+GirlBanSung_00027
+  rotate: true
+  xy: 415, 304
+  size: 148, 411
+  orig: 148, 411
+  offset: 0, 0
+  index: -1
+GirlBanSung_00028
+  rotate: true
+  xy: 2, 154
+  size: 148, 411
+  orig: 148, 411
+  offset: 0, 0
+  index: -1

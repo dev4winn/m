@@ -1,0 +1,3125 @@
+{
+  "ID": "ca7e7720-c63b-493d-be4b-2f790396f8c7",
+  "Version": "3.10.0.0",
+  "Name": "PathScene",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "UseDefaultLight": true,
+        "SkyBoxEnabled": false,
+        "SkyBoxValid": true,
+        "LeftImage": {
+          "Type": "Default",
+          "Path": "Default/skybox.png",
+          "Plist": ""
+        },
+        "RightImage": {
+          "Type": "Default",
+          "Path": "Default/skybox.png",
+          "Plist": ""
+        },
+        "UpImage": {
+          "Type": "Default",
+          "Path": "Default/skybox.png",
+          "Plist": ""
+        },
+        "DownImage": {
+          "Type": "Default",
+          "Path": "Default/skybox.png",
+          "Plist": ""
+        },
+        "ForwardImage": {
+          "Type": "Default",
+          "Path": "Default/skybox.png",
+          "Plist": ""
+        },
+        "BackImage": {
+          "Type": "Default",
+          "Path": "Default/skybox.png",
+          "Plist": ""
+        },
+        "SkyBoxMask": 1024,
+        "Tag": 60,
+        "Children": [
+          {
+            "Fov": 45.0,
+            "ClipPlane": {
+              "X": 1.0,
+              "Y": 1000.0
+            },
+            "UserCameraFlagMode": "USER1",
+            "CameraFlagData": 1026,
+            "SkyBoxEnabled": false,
+            "SkyBoxValid": true,
+            "LeftImage": {
+              "Type": "Default",
+              "Path": "Default/skybox.png",
+              "Plist": ""
+            },
+            "RightImage": {
+              "Type": "Default",
+              "Path": "Default/skybox.png",
+              "Plist": ""
+            },
+            "UpImage": {
+              "Type": "Default",
+              "Path": "Default/skybox.png",
+              "Plist": ""
+            },
+            "DownImage": {
+              "Type": "Default",
+              "Path": "Default/skybox.png",
+              "Plist": ""
+            },
+            "ForwardImage": {
+              "Type": "Default",
+              "Path": "Default/skybox.png",
+              "Plist": ""
+            },
+            "BackImage": {
+              "Type": "Default",
+              "Path": "Default/skybox.png",
+              "Plist": ""
+            },
+            "CColor": {},
+            "Position3D": {
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 85.0
+            },
+            "Rotation3D": {
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0
+            },
+            "Scale3D": {
+              "X": 1.0,
+              "Y": 1.0,
+              "Z": 1.0
+            },
+            "CameraFlagMode": 31,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "Camera",
+            "ctype": "UserCameraObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Default",
+              "Path": "Default/empty.c3t",
+              "Plist": ""
+            },
+            "RunAction3D": false,
+            "IsFlipped": false,
+            "LightFlag": "LIGHT0",
+            "CColor": {
+              "G": 29,
+              "B": 0
+            },
+            "Position3D": {
+              "X": -66.5056,
+              "Y": 0.0,
+              "Z": 0.0
+            },
+            "Rotation3D": {
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0
+            },
+            "Scale3D": {
+              "X": 1.0,
+              "Y": 1.0,
+              "Z": 1.0
+            },
+            "CameraFlagMode": 30,
+            "Tag": 378,
+            "ActionTag": -725486977,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "Sprite3D_1",
+            "ctype": "Sprite3DObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Default",
+              "Path": "Default/empty.c3t",
+              "Plist": ""
+            },
+            "RunAction3D": false,
+            "IsFlipped": false,
+            "LightFlag": "LIGHT0",
+            "CColor": {
+              "G": 29,
+              "B": 0
+            },
+            "Position3D": {
+              "X": 66.51,
+              "Y": 0.0,
+              "Z": 0.0
+            },
+            "Rotation3D": {
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0
+            },
+            "Scale3D": {
+              "X": 1.0,
+              "Y": 1.0,
+              "Z": 1.0
+            },
+            "CameraFlagMode": 30,
+            "Tag": 379,
+            "ActionTag": 473311174,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "Sprite3D_1_0",
+            "ctype": "Sprite3DObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Default",
+              "Path": "Default/empty.c3t",
+              "Plist": ""
+            },
+            "RunAction3D": false,
+            "IsFlipped": false,
+            "LightFlag": "LIGHT0",
+            "CColor": {
+              "G": 29,
+              "B": 0
+            },
+            "Position3D": {
+              "X": -44.204,
+              "Y": 0.0,
+              "Z": 30.0
+            },
+            "Rotation3D": {
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0
+            },
+            "Scale3D": {
+              "X": 1.0,
+              "Y": 1.0,
+              "Z": 1.0
+            },
+            "CameraFlagMode": 30,
+            "Tag": 380,
+            "ActionTag": 83574075,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "Sprite3D_1_1",
+            "ctype": "Sprite3DObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Default",
+              "Path": "Default/empty.c3t",
+              "Plist": ""
+            },
+            "RunAction3D": false,
+            "IsFlipped": false,
+            "LightFlag": "LIGHT0",
+            "CColor": {
+              "G": 29,
+              "B": 0
+            },
+            "Position3D": {
+              "X": 44.2,
+              "Y": 0.0,
+              "Z": 30.0
+            },
+            "Rotation3D": {
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0
+            },
+            "Scale3D": {
+              "X": 1.0,
+              "Y": 1.0,
+              "Z": 1.0
+            },
+            "CameraFlagMode": 30,
+            "Tag": 381,
+            "ActionTag": -1712887458,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "Sprite3D_1_1_0",
+            "ctype": "Sprite3DObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Default",
+              "Path": "Default/empty.c3t",
+              "Plist": ""
+            },
+            "RunAction3D": false,
+            "IsFlipped": false,
+            "LightFlag": "LIGHT0",
+            "CColor": {
+              "R": 117,
+              "G": 117,
+              "B": 117
+            },
+            "Position3D": {
+              "X": -66.2135,
+              "Y": 0.0,
+              "Z": 0.0
+            },
+            "Rotation3D": {
+              "X": 0.0,
+              "Y": 36.3681,
+              "Z": 0.0
+            },
+            "Scale3D": {
+              "X": 1.0,
+              "Y": 100.0,
+              "Z": 100.0
+            },
+            "CameraFlagMode": 30,
+            "Tag": 382,
+            "ActionTag": -728288793,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "Sprite3D_5",
+            "ctype": "Sprite3DObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Default",
+              "Path": "Default/empty.c3t",
+              "Plist": ""
+            },
+            "RunAction3D": false,
+            "IsFlipped": false,
+            "LightFlag": "LIGHT0",
+            "CColor": {
+              "R": 117,
+              "G": 117,
+              "B": 117
+            },
+            "Position3D": {
+              "X": 66.21,
+              "Y": 0.0,
+              "Z": 0.0
+            },
+            "Rotation3D": {
+              "X": 0.0,
+              "Y": -36.37,
+              "Z": 0.0
+            },
+            "Scale3D": {
+              "X": 1.0,
+              "Y": 100.0,
+              "Z": 100.0
+            },
+            "CameraFlagMode": 30,
+            "Tag": 386,
+            "ActionTag": -212745486,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "Sprite3D_5_0",
+            "ctype": "Sprite3DObjectData"
+          },
+          {
+            "Type": "DIRECTIONAL",
+            "Flag": "LIGHT0",
+            "Intensity": 1.0,
+            "Enable": false,
+            "Range": 5.0,
+            "OuterAngle": 30.0,
+            "CColor": {},
+            "Position3D": {
+              "X": 0.0,
+              "Y": 116.5443,
+              "Z": 0.0
+            },
+            "Rotation3D": {
+              "X": 80.0,
+              "Y": 180.0,
+              "Z": 0.0
+            },
+            "Scale3D": {
+              "X": 1.0,
+              "Y": 1.0,
+              "Z": 1.0
+            },
+            "CameraFlagMode": 31,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "VisibleForFrame": false,
+            "Name": "DirectionLight",
+            "ctype": "Light3DObjectData"
+          },
+          {
+            "Type": "AMBIENT",
+            "Flag": "LIGHT0",
+            "Intensity": 0.13,
+            "Enable": false,
+            "Range": 5.0,
+            "OuterAngle": 30.0,
+            "CColor": {},
+            "Position3D": {
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0
+            },
+            "Rotation3D": {
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0
+            },
+            "Scale3D": {
+              "X": 1.0,
+              "Y": 1.0,
+              "Z": 1.0
+            },
+            "CameraFlagMode": 30,
+            "Tag": 19,
+            "ActionTag": 917488138,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "VisibleForFrame": false,
+            "Name": "Light3D_1",
+            "ctype": "Light3DObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Default",
+              "Path": "Default/empty.c3t",
+              "Plist": ""
+            },
+            "RunAction3D": false,
+            "IsFlipped": false,
+            "LightFlag": "LIGHT0",
+            "CColor": {},
+            "Position3D": {
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0
+            },
+            "Rotation3D": {
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0
+            },
+            "Scale3D": {
+              "X": 1.0,
+              "Y": 1.0,
+              "Z": 1.0
+            },
+            "CameraFlagMode": 2,
+            "Tag": 16,
+            "ActionTag": 139571399,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "Sprite3D_1",
+            "ctype": "Sprite3DObjectData"
+          },
+          {
+            "CColor": {},
+            "Position3D": {
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0
+            },
+            "Rotation3D": {
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0
+            },
+            "Scale3D": {
+              "X": 1.0,
+              "Y": 1.0,
+              "Z": 1.0
+            },
+            "CameraFlagMode": 30,
+            "UserData": "{\"p\":{\"x\":[],\"y\":[],\"z\":[-30,30]}}",
+            "Tag": 64,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Default",
+                  "Path": "Default/empty.c3t",
+                  "Plist": ""
+                },
+                "RunAction3D": false,
+                "IsFlipped": false,
+                "LightFlag": "LIGHT0",
+                "CColor": {},
+                "Position3D": {
+                  "X": -90.0,
+                  "Y": 0.0,
+                  "Z": 0.0
+                },
+                "Rotation3D": {
+                  "X": 0.0,
+                  "Y": 0.0,
+                  "Z": 0.0
+                },
+                "Scale3D": {
+                  "X": 3.0,
+                  "Y": 3.0,
+                  "Z": 3.0
+                },
+                "CameraFlagMode": 30,
+                "UserData": "{\"p\":{\"x\":[],\"y\":[-30,30],\"z\":[-30,30],\"xz\":0.74}}",
+                "Tag": 63,
+                "ActionTag": -411072714,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "n0",
+                "ctype": "Sprite3DObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Default",
+                  "Path": "Default/empty.c3t",
+                  "Plist": ""
+                },
+                "RunAction3D": false,
+                "IsFlipped": false,
+                "LightFlag": "LIGHT0",
+                "CColor": {},
+                "Position3D": {
+                  "X": -40.0,
+                  "Y": 0.0,
+                  "Z": 0.0
+                },
+                "Rotation3D": {
+                  "X": 0.0,
+                  "Y": 0.0,
+                  "Z": 0.0
+                },
+                "Scale3D": {
+                  "X": 3.0,
+                  "Y": 3.0,
+                  "Z": 3.0
+                },
+                "CameraFlagMode": 30,
+                "UserData": "{\"p\":{\"x\":[-5,5],\"y\":[-30,30],\"z\":[-30,30]}}",
+                "Tag": 65,
+                "ActionTag": -1361037079,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "n1",
+                "ctype": "Sprite3DObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Default",
+                  "Path": "Default/empty.c3t",
+                  "Plist": ""
+                },
+                "RunAction3D": false,
+                "IsFlipped": false,
+                "LightFlag": "LIGHT0",
+                "CColor": {},
+                "Position3D": {
+                  "X": 0.0,
+                  "Y": 0.0,
+                  "Z": 0.0
+                },
+                "Rotation3D": {
+                  "X": 0.0,
+                  "Y": 0.0,
+                  "Z": 0.0
+                },
+                "Scale3D": {
+                  "X": 3.0,
+                  "Y": 3.0,
+                  "Z": 3.0
+                },
+                "CameraFlagMode": 30,
+                "UserData": "{\"p\":{\"x\":[-10,10],\"y\":[-30,30],\"z\":[-30,30]}}",
+                "Tag": 66,
+                "ActionTag": -929904680,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "n2",
+                "ctype": "Sprite3DObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Default",
+                  "Path": "Default/empty.c3t",
+                  "Plist": ""
+                },
+                "RunAction3D": false,
+                "IsFlipped": false,
+                "LightFlag": "LIGHT0",
+                "CColor": {},
+                "Position3D": {
+                  "X": 40.0,
+                  "Y": 0.0,
+                  "Z": 0.0
+                },
+                "Rotation3D": {
+                  "X": 0.0,
+                  "Y": 0.0,
+                  "Z": 0.0
+                },
+                "Scale3D": {
+                  "X": 3.0,
+                  "Y": 3.0,
+                  "Z": 3.0
+                },
+                "CameraFlagMode": 30,
+                "UserData": "{\"p\":{\"x\":[-5,5],\"y\":[-30,30],\"z\":[-30,30]}}",
+                "Tag": 8,
+                "ActionTag": -511209168,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "n3",
+                "ctype": "Sprite3DObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Default",
+                  "Path": "Default/empty.c3t",
+                  "Plist": ""
+                },
+                "RunAction3D": false,
+                "IsFlipped": false,
+                "LightFlag": "LIGHT0",
+                "CColor": {},
+                "Position3D": {
+                  "X": 90.0,
+                  "Y": 0.0,
+                  "Z": 0.0
+                },
+                "Rotation3D": {
+                  "X": 0.0,
+                  "Y": 0.0,
+                  "Z": 0.0
+                },
+                "Scale3D": {
+                  "X": 3.0,
+                  "Y": 3.0,
+                  "Z": 3.0
+                },
+                "CameraFlagMode": 30,
+                "UserData": "{\"p\":{\"x\":[],\"y\":[-30,30],\"z\":[-30,30],\"xz\":-0.74}}",
+                "Tag": 9,
+                "ActionTag": -1643550256,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "n4",
+                "ctype": "Sprite3DObjectData"
+              }
+            ],
+            "ActionTag": -967963409,
+            "Size": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Name": "line_3",
+            "ctype": "Node3DObjectData"
+          },
+          {
+            "CColor": {},
+            "Position3D": {
+              "X": 0.0,
+              "Y": -9.4189,
+              "Z": 0.0
+            },
+            "Rotation3D": {
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0
+            },
+            "Scale3D": {
+              "X": 1.0,
+              "Y": 1.0,
+              "Z": 1.0
+            },
+            "CameraFlagMode": 30,
+            "UserData": "{\"p\":{\"x\":[0],\"y\":[-15,15],\"z\":[0]}}",
+            "Tag": 10,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Default",
+                  "Path": "Default/empty.c3t",
+                  "Plist": ""
+                },
+                "RunAction3D": false,
+                "IsFlipped": false,
+                "LightFlag": "LIGHT0",
+                "CColor": {},
+                "Position3D": {
+                  "X": -75.7605,
+                  "Y": -9.78,
+                  "Z": 0.0
+                },
+                "Rotation3D": {
+                  "X": 0.0,
+                  "Y": 0.0,
+                  "Z": 0.0
+                },
+                "Scale3D": {
+                  "X": 3.0,
+                  "Y": 3.0,
+                  "Z": 3.0
+                },
+                "CameraFlagMode": 30,
+                "Tag": 11,
+                "ActionTag": 211434249,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "n0",
+                "ctype": "Sprite3DObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Default",
+                  "Path": "Default/empty.c3t",
+                  "Plist": ""
+                },
+                "RunAction3D": false,
+                "IsFlipped": false,
+                "LightFlag": "LIGHT0",
+                "CColor": {},
+                "Position3D": {
+                  "X": -55.6641,
+                  "Y": 9.0826,
+                  "Z": 0.0
+                },
+                "Rotation3D": {
+                  "X": 0.0,
+                  "Y": 0.0,
+                  "Z": 0.0
+                },
+                "Scale3D": {
+                  "X": 3.0,
+                  "Y": 3.0,
+                  "Z": 3.0
+                },
+                "CameraFlagMode": 30,
+                "Tag": 12,
+                "ActionTag": 1803707648,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "n1",
+                "ctype": "Sprite3DObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Default",
+                  "Path": "Default/empty.c3t",
+                  "Plist": ""
+                },
+                "RunAction3D": false,
+                "IsFlipped": false,
+                "LightFlag": "LIGHT0",
+                "CColor": {},
+                "Position3D": {
+                  "X": -35.4549,
+                  "Y": -9.9574,
+                  "Z": 0.0
+                },
+                "Rotation3D": {
+                  "X": 0.0,
+                  "Y": 0.0,
+                  "Z": 0.0
+                },
+                "Scale3D": {
+                  "X": 3.0,
+                  "Y": 3.0,
+                  "Z": 3.0
+                },
+                "CameraFlagMode": 30,
+                "Tag": 13,
+                "ActionTag": -233060493,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "n2",
+                "ctype": "Sprite3DObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Default",
+                  "Path": "Default/empty.c3t",
+                  "Plist": ""
+                },
+                "RunAction3D": false,
+                "IsFlipped": false,
+                "LightFlag": "LIGHT0",
+                "CColor": {},
+                "Position3D": {
+                  "X": -12.1376,
+                  "Y": 8.0937,
+                  "Z": 0.0
+                },
+                "Rotation3D": {
+                  "X": 0.0,
+                  "Y": 0.0,
+                  "Z": 0.0
+                },
+                "Scale3D": {
+                  "X": 3.0,
+                  "Y": 3.0,
+                  "Z": 3.0
+                },
+                "CameraFlagMode": 30,
+                "Tag": 44,
+                "ActionTag": 1806558428,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "n3",
+                "ctype": "Sprite3DObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Default",
+                  "Path": "Default/empty.c3t",
+                  "Plist": ""
+                },
+                "RunAction3D": false,
+                "IsFlipped": false,
+                "LightFlag": "LIGHT0",
+                "CColor": {},
+                "Position3D": {
+                  "X": 29.3399,
+                  "Y": 9.2041,
+                  "Z": 0.0
+                },
+                "Rotation3D": {
+                  "X": 0.0,
+                  "Y": 0.0,
+                  "Z": 0.0
+                },
+                "Scale3D": {
+                  "X": 3.0,
+                  "Y": 3.0,
+                  "Z": 3.0
+                },
+                "CameraFlagMode": 30,
+                "Tag": 14,
+                "ActionTag": -1037686834,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "n5",
+                "ctype": "Sprite3DObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Default",
+                  "Path": "Default/empty.c3t",
+                  "Plist": ""
+                },
+                "RunAction3D": false,
+                "IsFlipped": false,
+                "LightFlag": "LIGHT0",
+                "CColor": {},
+                "Position3D": {
+                  "X": 12.4375,
+                  "Y": -9.2382,
+                  "Z": 0.0
+                },
+                "Rotation3D": {
+                  "X": 0.0,
+                  "Y": 0.0,
+                  "Z": 0.0
+                },
+                "Scale3D": {
+                  "X": 3.0,
+                  "Y": 3.0,
+                  "Z": 3.0
+                },
+                "CameraFlagMode": 30,
+                "Tag": 46,
+                "ActionTag": -1976562941,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "n4",
+                "ctype": "Sprite3DObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Default",
+                  "Path": "Default/empty.c3t",
+                  "Plist": ""
+                },
+                "RunAction3D": false,
+                "IsFlipped": false,
+                "LightFlag": "LIGHT0",
+                "CColor": {},
+                "Position3D": {
+                  "X": 52.5902,
+                  "Y": -9.6589,
+                  "Z": 0.0
+                },
+                "Rotation3D": {
+                  "X": 0.0,
+                  "Y": 0.0,
+                  "Z": 0.0
+                },
+                "Scale3D": {
+                  "X": 3.0,
+                  "Y": 3.0,
+                  "Z": 3.0
+                },
+                "CameraFlagMode": 30,
+                "Tag": 15,
+                "ActionTag": 118795564,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "n6",
+                "ctype": "Sprite3DObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Default",
+                  "Path": "Default/empty.c3t",
+                  "Plist": ""
+                },
+                "RunAction3D": false,
+                "IsFlipped": false,
+                "LightFlag": "LIGHT0",
+                "CColor": {},
+                "Position3D": {
+                  "X": 75.3895,
+                  "Y": 9.1093,
+                  "Z": 0.0
+                },
+                "Rotation3D": {
+                  "X": 0.0,
+                  "Y": 0.0,
+                  "Z": 0.0
+                },
+                "Scale3D": {
+                  "X": 3.0,
+                  "Y": 3.0,
+                  "Z": 3.0
+                },
+                "CameraFlagMode": 30,
+                "Tag": 17,
+                "ActionTag": -514734538,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "n7",
+                "ctype": "Sprite3DObjectData"
+              }
+            ],
+            "ActionTag": -4534845,
+            "Size": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Name": "line_2",
+            "ctype": "Node3DObjectData"
+          },
+          {
+            "CColor": {},
+            "Position3D": {
+              "X": 0.0,
+              "Y": -10.6447,
+              "Z": 0.0
+            },
+            "Rotation3D": {
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0
+            },
+            "Scale3D": {
+              "X": 1.0,
+              "Y": 1.0,
+              "Z": 1.0
+            },
+            "CameraFlagMode": 30,
+            "UserData": "{\"p\":{\"x\":[0],\"y\":[-20,20],\"z\":[0]}}",
+            "Tag": 20,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Default",
+                  "Path": "Default/empty.c3t",
+                  "Plist": ""
+                },
+                "RunAction3D": false,
+                "IsFlipped": false,
+                "LightFlag": "LIGHT0",
+                "CColor": {},
+                "Position3D": {
+                  "X": -85.9574,
+                  "Y": 0.0,
+                  "Z": -6.8363
+                },
+                "Rotation3D": {
+                  "X": 0.0,
+                  "Y": 0.0,
+                  "Z": 0.0
+                },
+                "Scale3D": {
+                  "X": 3.0,
+                  "Y": 3.0,
+                  "Z": 3.0
+                },
+                "CameraFlagMode": 30,
+                "Tag": 21,
+                "ActionTag": -1946108927,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "n0",
+                "ctype": "Sprite3DObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Default",
+                  "Path": "Default/empty.c3t",
+                  "Plist": ""
+                },
+                "RunAction3D": false,
+                "IsFlipped": false,
+                "LightFlag": "LIGHT0",
+                "CColor": {},
+                "Position3D": {
+                  "X": -50.6546,
+                  "Y": 0.0,
+                  "Z": -15.1684
+                },
+                "Rotation3D": {
+                  "X": 0.0,
+                  "Y": 0.0,
+                  "Z": 0.0
+                },
+                "Scale3D": {
+                  "X": 3.0,
+                  "Y": 3.0,
+                  "Z": 3.0
+                },
+                "CameraFlagMode": 30,
+                "Tag": 22,
+                "ActionTag": 184224184,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "n1",
+                "ctype": "Sprite3DObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Default",
+                  "Path": "Default/empty.c3t",
+                  "Plist": ""
+                },
+                "RunAction3D": false,
+                "IsFlipped": false,
+                "LightFlag": "LIGHT0",
+                "CColor": {},
+                "Position3D": {
+                  "X": -31.0421,
+                  "Y": 0.0,
+                  "Z": -0.7189
+                },
+                "Rotation3D": {
+                  "X": 0.0,
+                  "Y": 0.0,
+                  "Z": 0.0
+                },
+                "Scale3D": {
+                  "X": 3.0,
+                  "Y": 3.0,
+                  "Z": 3.0
+                },
+                "CameraFlagMode": 30,
+                "Tag": 23,
+                "ActionTag": 915315457,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "n2",
+                "ctype": "Sprite3DObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Default",
+                  "Path": "Default/empty.c3t",
+                  "Plist": ""
+                },
+                "RunAction3D": false,
+                "IsFlipped": false,
+                "LightFlag": "LIGHT0",
+                "CColor": {},
+                "Position3D": {
+                  "X": -48.6618,
+                  "Y": 5.1522,
+                  "Z": 12.4349
+                },
+                "Rotation3D": {
+                  "X": 0.0,
+                  "Y": 0.0,
+                  "Z": 0.0
+                },
+                "Scale3D": {
+                  "X": 3.0,
+                  "Y": 3.0,
+                  "Z": 3.0
+                },
+                "CameraFlagMode": 30,
+                "Tag": 24,
+                "ActionTag": 376141283,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "n3",
+                "ctype": "Sprite3DObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Default",
+                  "Path": "Default/empty.c3t",
+                  "Plist": ""
+                },
+                "RunAction3D": false,
+                "IsFlipped": false,
+                "LightFlag": "LIGHT0",
+                "CColor": {},
+                "Position3D": {
+                  "X": -58.6964,
+                  "Y": 15.3896,
+                  "Z": 1.6258
+                },
+                "Rotation3D": {
+                  "X": 0.0,
+                  "Y": 0.0,
+                  "Z": 0.0
+                },
+                "Scale3D": {
+                  "X": 3.0,
+                  "Y": 3.0,
+                  "Z": 3.0
+                },
+                "CameraFlagMode": 30,
+                "Tag": 25,
+                "ActionTag": -1368356523,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "n4",
+                "ctype": "Sprite3DObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Default",
+                  "Path": "Default/empty.c3t",
+                  "Plist": ""
+                },
+                "RunAction3D": false,
+                "IsFlipped": false,
+                "LightFlag": "LIGHT0",
+                "CColor": {},
+                "Position3D": {
+                  "X": -49.6209,
+                  "Y": 28.6997,
+                  "Z": -23.7966
+                },
+                "Rotation3D": {
+                  "X": 0.0,
+                  "Y": 0.0,
+                  "Z": 0.0
+                },
+                "Scale3D": {
+                  "X": 3.0,
+                  "Y": 3.0,
+                  "Z": 3.0
+                },
+                "CameraFlagMode": 30,
+                "Tag": 29,
+                "ActionTag": 1736080451,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "n5",
+                "ctype": "Sprite3DObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Default",
+                  "Path": "Default/empty.c3t",
+                  "Plist": ""
+                },
+                "RunAction3D": false,
+                "IsFlipped": false,
+                "LightFlag": "LIGHT0",
+                "CColor": {},
+                "Position3D": {
+                  "X": -25.8302,
+                  "Y": 26.6227,
+                  "Z": -13.1209
+                },
+                "Rotation3D": {
+                  "X": 0.0,
+                  "Y": 0.0,
+                  "Z": 0.0
+                },
+                "Scale3D": {
+                  "X": 3.0,
+                  "Y": 3.0,
+                  "Z": 3.0
+                },
+                "CameraFlagMode": 30,
+                "Tag": 30,
+                "ActionTag": 410371783,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "n6",
+                "ctype": "Sprite3DObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Default",
+                  "Path": "Default/empty.c3t",
+                  "Plist": ""
+                },
+                "RunAction3D": false,
+                "IsFlipped": false,
+                "LightFlag": "LIGHT0",
+                "CColor": {},
+                "Position3D": {
+                  "X": -10.1159,
+                  "Y": 21.2598,
+                  "Z": 8.7521
+                },
+                "Rotation3D": {
+                  "X": 0.0,
+                  "Y": 0.0,
+                  "Z": 0.0
+                },
+                "Scale3D": {
+                  "X": 3.0,
+                  "Y": 3.0,
+                  "Z": 3.0
+                },
+                "CameraFlagMode": 30,
+                "Tag": 31,
+                "ActionTag": -1347011307,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "n7",
+                "ctype": "Sprite3DObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Default",
+                  "Path": "Default/empty.c3t",
+                  "Plist": ""
+                },
+                "RunAction3D": false,
+                "IsFlipped": false,
+                "LightFlag": "LIGHT0",
+                "CColor": {},
+                "Position3D": {
+                  "X": 14.3904,
+                  "Y": 9.5131,
+                  "Z": 18.2629
+                },
+                "Rotation3D": {
+                  "X": 0.0,
+                  "Y": 0.0,
+                  "Z": 0.0
+                },
+                "Scale3D": {
+                  "X": 3.0,
+                  "Y": 3.0,
+                  "Z": 3.0
+                },
+                "CameraFlagMode": 30,
+                "Tag": 32,
+                "ActionTag": -1768561303,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "n8",
+                "ctype": "Sprite3DObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Default",
+                  "Path": "Default/empty.c3t",
+                  "Plist": ""
+                },
+                "RunAction3D": false,
+                "IsFlipped": false,
+                "LightFlag": "LIGHT0",
+                "CColor": {},
+                "Position3D": {
+                  "X": 37.6923,
+                  "Y": 9.5131,
+                  "Z": 24.1805
+                },
+                "Rotation3D": {
+                  "X": 0.0,
+                  "Y": 0.0,
+                  "Z": 0.0
+                },
+                "Scale3D": {
+                  "X": 3.0,
+                  "Y": 3.0,
+                  "Z": 3.0
+                },
+                "CameraFlagMode": 30,
+                "Tag": 33,
+                "ActionTag": -1330854086,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "n9",
+                "ctype": "Sprite3DObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Default",
+                  "Path": "Default/empty.c3t",
+                  "Plist": ""
+                },
+                "RunAction3D": false,
+                "IsFlipped": false,
+                "LightFlag": "LIGHT0",
+                "CColor": {},
+                "Position3D": {
+                  "X": 54.7987,
+                  "Y": 9.5131,
+                  "Z": 30.7337
+                },
+                "Rotation3D": {
+                  "X": 0.0,
+                  "Y": 0.0,
+                  "Z": 0.0
+                },
+                "Scale3D": {
+                  "X": 3.0,
+                  "Y": 3.0,
+                  "Z": 3.0
+                },
+                "CameraFlagMode": 30,
+                "Tag": 34,
+                "ActionTag": 1136787570,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "n10",
+                "ctype": "Sprite3DObjectData"
+              }
+            ],
+            "ActionTag": -235340514,
+            "Size": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Name": "line_1",
+            "ctype": "Node3DObjectData"
+          },
+          {
+            "CColor": {},
+            "Position3D": {
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0
+            },
+            "Rotation3D": {
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0
+            },
+            "Scale3D": {
+              "X": 1.0,
+              "Y": 1.0,
+              "Z": 1.0
+            },
+            "CameraFlagMode": 30,
+            "UserData": "{\"p\":{\"x\":[0],\"y\":[-25,5],\"z\":[0]}}",
+            "Tag": 32,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Default",
+                  "Path": "Default/empty.c3t",
+                  "Plist": ""
+                },
+                "RunAction3D": false,
+                "IsFlipped": false,
+                "LightFlag": "LIGHT0",
+                "CColor": {},
+                "Position3D": {
+                  "X": -91.0971,
+                  "Y": 15.7333,
+                  "Z": -18.5575
+                },
+                "Rotation3D": {
+                  "X": 0.0,
+                  "Y": 0.0,
+                  "Z": 0.0
+                },
+                "Scale3D": {
+                  "X": 3.0,
+                  "Y": 3.0,
+                  "Z": 3.0
+                },
+                "CameraFlagMode": 30,
+                "Tag": 33,
+                "ActionTag": 1193655916,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "n0",
+                "ctype": "Sprite3DObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Default",
+                  "Path": "Default/empty.c3t",
+                  "Plist": ""
+                },
+                "RunAction3D": false,
+                "IsFlipped": false,
+                "LightFlag": "LIGHT0",
+                "CColor": {},
+                "Position3D": {
+                  "X": -66.4019,
+                  "Y": 14.9827,
+                  "Z": -17.5603
+                },
+                "Rotation3D": {
+                  "X": 0.0,
+                  "Y": 0.0,
+                  "Z": 0.0
+                },
+                "Scale3D": {
+                  "X": 3.0,
+                  "Y": 3.0,
+                  "Z": 3.0
+                },
+                "CameraFlagMode": 30,
+                "Tag": 34,
+                "ActionTag": -657954773,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "n1",
+                "ctype": "Sprite3DObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Default",
+                  "Path": "Default/empty.c3t",
+                  "Plist": ""
+                },
+                "RunAction3D": false,
+                "IsFlipped": false,
+                "LightFlag": "LIGHT0",
+                "CColor": {},
+                "Position3D": {
+                  "X": -44.6574,
+                  "Y": 11.4379,
+                  "Z": -17.5332
+                },
+                "Rotation3D": {
+                  "X": 0.0,
+                  "Y": 0.0,
+                  "Z": 0.0
+                },
+                "Scale3D": {
+                  "X": 3.0,
+                  "Y": 3.0,
+                  "Z": 3.0
+                },
+                "CameraFlagMode": 30,
+                "Tag": 35,
+                "ActionTag": -595980364,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "n2",
+                "ctype": "Sprite3DObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Default",
+                  "Path": "Default/empty.c3t",
+                  "Plist": ""
+                },
+                "RunAction3D": false,
+                "IsFlipped": false,
+                "LightFlag": "LIGHT0",
+                "CColor": {},
+                "Position3D": {
+                  "X": -18.2743,
+                  "Y": 3.8677,
+                  "Z": -15.0206
+                },
+                "Rotation3D": {
+                  "X": 0.0,
+                  "Y": 0.0,
+                  "Z": 0.0
+                },
+                "Scale3D": {
+                  "X": 3.0,
+                  "Y": 3.0,
+                  "Z": 3.0
+                },
+                "CameraFlagMode": 30,
+                "Tag": 36,
+                "ActionTag": 253795428,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "n3",
+                "ctype": "Sprite3DObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Default",
+                  "Path": "Default/empty.c3t",
+                  "Plist": ""
+                },
+                "RunAction3D": false,
+                "IsFlipped": false,
+                "LightFlag": "LIGHT0",
+                "CColor": {},
+                "Position3D": {
+                  "X": -14.6035,
+                  "Y": 14.4029,
+                  "Z": 12.3101
+                },
+                "Rotation3D": {
+                  "X": 0.0,
+                  "Y": 0.0,
+                  "Z": 0.0
+                },
+                "Scale3D": {
+                  "X": 3.0,
+                  "Y": 3.0,
+                  "Z": 3.0
+                },
+                "CameraFlagMode": 30,
+                "Tag": 37,
+                "ActionTag": 1742605617,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "n4",
+                "ctype": "Sprite3DObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Default",
+                  "Path": "Default/empty.c3t",
+                  "Plist": ""
+                },
+                "RunAction3D": false,
+                "IsFlipped": false,
+                "LightFlag": "LIGHT0",
+                "CColor": {},
+                "Position3D": {
+                  "X": -34.1768,
+                  "Y": 15.7828,
+                  "Z": 27.848
+                },
+                "Rotation3D": {
+                  "X": 0.0,
+                  "Y": 0.0,
+                  "Z": 0.0
+                },
+                "Scale3D": {
+                  "X": 3.0,
+                  "Y": 3.0,
+                  "Z": 3.0
+                },
+                "CameraFlagMode": 30,
+                "Tag": 38,
+                "ActionTag": 2057466913,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "n5",
+                "ctype": "Sprite3DObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Default",
+                  "Path": "Default/empty.c3t",
+                  "Plist": ""
+                },
+                "RunAction3D": false,
+                "IsFlipped": false,
+                "LightFlag": "LIGHT0",
+                "CColor": {},
+                "Position3D": {
+                  "X": -53.061,
+                  "Y": 8.1774,
+                  "Z": 10.0883
+                },
+                "Rotation3D": {
+                  "X": 0.0,
+                  "Y": 0.0,
+                  "Z": 0.0
+                },
+                "Scale3D": {
+                  "X": 3.0,
+                  "Y": 3.0,
+                  "Z": 3.0
+                },
+                "CameraFlagMode": 30,
+                "Tag": 39,
+                "ActionTag": 1270569008,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "n6",
+                "ctype": "Sprite3DObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Default",
+                  "Path": "Default/empty.c3t",
+                  "Plist": ""
+                },
+                "RunAction3D": false,
+                "IsFlipped": false,
+                "LightFlag": "LIGHT0",
+                "CColor": {},
+                "Position3D": {
+                  "X": -33.6621,
+                  "Y": 5.7597,
+                  "Z": -7.8574
+                },
+                "Rotation3D": {
+                  "X": 0.0,
+                  "Y": 0.0,
+                  "Z": 0.0
+                },
+                "Scale3D": {
+                  "X": 3.0,
+                  "Y": 3.0,
+                  "Z": 3.0
+                },
+                "CameraFlagMode": 30,
+                "Tag": 40,
+                "ActionTag": -1403389866,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "n7",
+                "ctype": "Sprite3DObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Default",
+                  "Path": "Default/empty.c3t",
+                  "Plist": ""
+                },
+                "RunAction3D": false,
+                "IsFlipped": false,
+                "LightFlag": "LIGHT0",
+                "CColor": {},
+                "Position3D": {
+                  "X": 12.0616,
+                  "Y": -2.549,
+                  "Z": 1.9661
+                },
+                "Rotation3D": {
+                  "X": 0.0,
+                  "Y": 0.0,
+                  "Z": 0.0
+                },
+                "Scale3D": {
+                  "X": 3.0,
+                  "Y": 3.0,
+                  "Z": 3.0
+                },
+                "CameraFlagMode": 30,
+                "Tag": 41,
+                "ActionTag": 333715384,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "n8",
+                "ctype": "Sprite3DObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Default",
+                  "Path": "Default/empty.c3t",
+                  "Plist": ""
+                },
+                "RunAction3D": false,
+                "IsFlipped": false,
+                "LightFlag": "LIGHT0",
+                "CColor": {},
+                "Position3D": {
+                  "X": 40.3083,
+                  "Y": 18.8333,
+                  "Z": -2.8774
+                },
+                "Rotation3D": {
+                  "X": 0.0,
+                  "Y": 0.0,
+                  "Z": 0.0
+                },
+                "Scale3D": {
+                  "X": 3.0,
+                  "Y": 3.0,
+                  "Z": 3.0
+                },
+                "CameraFlagMode": 30,
+                "Tag": 42,
+                "ActionTag": -133587436,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "n9",
+                "ctype": "Sprite3DObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Default",
+                  "Path": "Default/empty.c3t",
+                  "Plist": ""
+                },
+                "RunAction3D": false,
+                "IsFlipped": false,
+                "LightFlag": "LIGHT0",
+                "CColor": {},
+                "Position3D": {
+                  "X": 61.89,
+                  "Y": 79.7685,
+                  "Z": -36.5764
+                },
+                "Rotation3D": {
+                  "X": 0.0,
+                  "Y": 0.0,
+                  "Z": 0.0
+                },
+                "Scale3D": {
+                  "X": 3.0,
+                  "Y": 3.0,
+                  "Z": 3.0
+                },
+                "CameraFlagMode": 30,
+                "Tag": 43,
+                "ActionTag": -1704463639,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "n10",
+                "ctype": "Sprite3DObjectData"
+              }
+            ],
+            "ActionTag": -572014600,
+            "Size": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Name": "line_0",
+            "ctype": "Node3DObjectData"
+          },
+          {
+            "CColor": {},
+            "Position3D": {
+              "X": 0.0,
+              "Y": -9.9137,
+              "Z": 0.0
+            },
+            "Rotation3D": {
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0
+            },
+            "Scale3D": {
+              "X": 1.0,
+              "Y": 1.0,
+              "Z": 1.0
+            },
+            "CameraFlagMode": 30,
+            "UserData": "{\"event\":{\"name\":\"skill\",\"percentTimeLine\":0.5,\"duration\":10}}",
+            "Tag": 46,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Default",
+                  "Path": "Default/empty.c3t",
+                  "Plist": ""
+                },
+                "RunAction3D": false,
+                "IsFlipped": false,
+                "LightFlag": "LIGHT0",
+                "CColor": {},
+                "Position3D": {
+                  "X": -135.0,
+                  "Y": -12.096,
+                  "Z": -37.5605
+                },
+                "Rotation3D": {
+                  "X": 0.0,
+                  "Y": 0.0,
+                  "Z": 0.0
+                },
+                "Scale3D": {
+                  "X": 3.0,
+                  "Y": 3.0,
+                  "Z": 3.0
+                },
+                "CameraFlagMode": 30,
+                "Tag": 47,
+                "ActionTag": 1317877052,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "n0",
+                "ctype": "Sprite3DObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Default",
+                  "Path": "Default/empty.c3t",
+                  "Plist": ""
+                },
+                "RunAction3D": false,
+                "IsFlipped": false,
+                "LightFlag": "LIGHT0",
+                "CColor": {},
+                "Position3D": {
+                  "X": -45.0,
+                  "Y": -8.3951,
+                  "Z": 0.2333
+                },
+                "Rotation3D": {
+                  "X": 0.0,
+                  "Y": 0.0,
+                  "Z": 0.0
+                },
+                "Scale3D": {
+                  "X": 3.0,
+                  "Y": 3.0,
+                  "Z": 3.0
+                },
+                "CameraFlagMode": 30,
+                "Tag": 48,
+                "ActionTag": 416226818,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "n1",
+                "ctype": "Sprite3DObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Default",
+                  "Path": "Default/empty.c3t",
+                  "Plist": ""
+                },
+                "RunAction3D": false,
+                "IsFlipped": false,
+                "LightFlag": "LIGHT0",
+                "CColor": {},
+                "Position3D": {
+                  "X": 0.0,
+                  "Y": 0.0,
+                  "Z": 31.5411
+                },
+                "Rotation3D": {
+                  "X": 0.0,
+                  "Y": 0.0,
+                  "Z": 0.0
+                },
+                "Scale3D": {
+                  "X": 3.0,
+                  "Y": 3.0,
+                  "Z": 3.0
+                },
+                "CameraFlagMode": 30,
+                "Tag": 49,
+                "ActionTag": -1196389933,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "n2",
+                "ctype": "Sprite3DObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Default",
+                  "Path": "Default/empty.c3t",
+                  "Plist": ""
+                },
+                "RunAction3D": false,
+                "IsFlipped": false,
+                "LightFlag": "LIGHT0",
+                "CColor": {},
+                "Position3D": {
+                  "X": 45.0,
+                  "Y": -9.2638,
+                  "Z": -0.0725
+                },
+                "Rotation3D": {
+                  "X": 0.0,
+                  "Y": 0.0,
+                  "Z": 0.0
+                },
+                "Scale3D": {
+                  "X": 3.0,
+                  "Y": 3.0,
+                  "Z": 3.0
+                },
+                "CameraFlagMode": 30,
+                "Tag": 50,
+                "ActionTag": 104457059,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "n3",
+                "ctype": "Sprite3DObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Default",
+                  "Path": "Default/empty.c3t",
+                  "Plist": ""
+                },
+                "RunAction3D": false,
+                "IsFlipped": false,
+                "LightFlag": "LIGHT0",
+                "CColor": {},
+                "Position3D": {
+                  "X": 135.0,
+                  "Y": -11.1292,
+                  "Z": -36.9479
+                },
+                "Rotation3D": {
+                  "X": 0.0,
+                  "Y": 0.0,
+                  "Z": 0.0
+                },
+                "Scale3D": {
+                  "X": 3.0,
+                  "Y": 3.0,
+                  "Z": 3.0
+                },
+                "CameraFlagMode": 30,
+                "Tag": 51,
+                "ActionTag": 1113499041,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "n4",
+                "ctype": "Sprite3DObjectData"
+              }
+            ],
+            "ActionTag": 1416097652,
+            "Size": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Name": "line_4",
+            "ctype": "Node3DObjectData"
+          },
+          {
+            "CColor": {},
+            "Position3D": {
+              "X": 0.0,
+              "Y": -8.6363,
+              "Z": -12.9661
+            },
+            "Rotation3D": {
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0
+            },
+            "Scale3D": {
+              "X": 1.0,
+              "Y": 1.0,
+              "Z": 1.0
+            },
+            "CameraFlagMode": 30,
+            "UserData": "{\"event\":{\"name\":\"skill\",\"percentTimeLine\":0.5,\"duration\":10}}",
+            "Tag": 53,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Default",
+                  "Path": "Default/empty.c3t",
+                  "Plist": ""
+                },
+                "RunAction3D": false,
+                "IsFlipped": false,
+                "LightFlag": "LIGHT0",
+                "CColor": {},
+                "Position3D": {
+                  "X": -165.9161,
+                  "Y": 0.0,
+                  "Z": -79.548
+                },
+                "Rotation3D": {
+                  "X": 0.0,
+                  "Y": 0.0,
+                  "Z": 0.0
+                },
+                "Scale3D": {
+                  "X": 3.0,
+                  "Y": 3.0,
+                  "Z": 3.0
+                },
+                "CameraFlagMode": 30,
+                "Tag": 54,
+                "ActionTag": 1603627872,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "n0",
+                "ctype": "Sprite3DObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Default",
+                  "Path": "Default/empty.c3t",
+                  "Plist": ""
+                },
+                "RunAction3D": false,
+                "IsFlipped": false,
+                "LightFlag": "LIGHT0",
+                "CColor": {},
+                "Position3D": {
+                  "X": -36.9121,
+                  "Y": 0.0,
+                  "Z": -36.8022
+                },
+                "Rotation3D": {
+                  "X": 0.0,
+                  "Y": 0.0,
+                  "Z": 0.0
+                },
+                "Scale3D": {
+                  "X": 3.0,
+                  "Y": 3.0,
+                  "Z": 3.0
+                },
+                "CameraFlagMode": 30,
+                "Tag": 55,
+                "ActionTag": -213390799,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "n1",
+                "ctype": "Sprite3DObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Default",
+                  "Path": "Default/empty.c3t",
+                  "Plist": ""
+                },
+                "RunAction3D": false,
+                "IsFlipped": false,
+                "LightFlag": "LIGHT0",
+                "CColor": {},
+                "Position3D": {
+                  "X": -11.0,
+                  "Y": 0.0,
+                  "Z": -3.2356
+                },
+                "Rotation3D": {
+                  "X": 0.0,
+                  "Y": 0.0,
+                  "Z": 0.0
+                },
+                "Scale3D": {
+                  "X": 3.0,
+                  "Y": 3.0,
+                  "Z": 3.0
+                },
+                "CameraFlagMode": 30,
+                "Tag": 56,
+                "ActionTag": 378996031,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "n2",
+                "ctype": "Sprite3DObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Default",
+                  "Path": "Default/empty.c3t",
+                  "Plist": ""
+                },
+                "RunAction3D": false,
+                "IsFlipped": false,
+                "LightFlag": "LIGHT0",
+                "CColor": {},
+                "Position3D": {
+                  "X": 0.0,
+                  "Y": 0.0,
+                  "Z": 18.8521
+                },
+                "Rotation3D": {
+                  "X": 0.0,
+                  "Y": 0.0,
+                  "Z": 0.0
+                },
+                "Scale3D": {
+                  "X": 3.0,
+                  "Y": 3.0,
+                  "Z": 3.0
+                },
+                "CameraFlagMode": 30,
+                "Tag": 89,
+                "ActionTag": 924080518,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "n3",
+                "ctype": "Sprite3DObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Default",
+                  "Path": "Default/empty.c3t",
+                  "Plist": ""
+                },
+                "RunAction3D": false,
+                "IsFlipped": false,
+                "LightFlag": "LIGHT0",
+                "CColor": {},
+                "Position3D": {
+                  "X": 0.0,
+                  "Y": 0.0,
+                  "Z": 40.0
+                },
+                "Rotation3D": {
+                  "X": 0.0,
+                  "Y": 0.0,
+                  "Z": 0.0
+                },
+                "Scale3D": {
+                  "X": 3.0,
+                  "Y": 3.0,
+                  "Z": 3.0
+                },
+                "CameraFlagMode": 30,
+                "Tag": 57,
+                "ActionTag": -1822623516,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "n4",
+                "ctype": "Sprite3DObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Default",
+                  "Path": "Default/empty.c3t",
+                  "Plist": ""
+                },
+                "RunAction3D": false,
+                "IsFlipped": false,
+                "LightFlag": "LIGHT0",
+                "CColor": {},
+                "Position3D": {
+                  "X": 0.0,
+                  "Y": 0.0,
+                  "Z": 18.8521
+                },
+                "Rotation3D": {
+                  "X": 0.0,
+                  "Y": 0.0,
+                  "Z": 0.0
+                },
+                "Scale3D": {
+                  "X": 3.0,
+                  "Y": 3.0,
+                  "Z": 3.0
+                },
+                "CameraFlagMode": 30,
+                "Tag": 90,
+                "ActionTag": 349724762,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "n5",
+                "ctype": "Sprite3DObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Default",
+                  "Path": "Default/empty.c3t",
+                  "Plist": ""
+                },
+                "RunAction3D": false,
+                "IsFlipped": false,
+                "LightFlag": "LIGHT0",
+                "CColor": {},
+                "Position3D": {
+                  "X": 11.0,
+                  "Y": 0.0,
+                  "Z": -3.2363
+                },
+                "Rotation3D": {
+                  "X": 0.0,
+                  "Y": 0.0,
+                  "Z": 0.0
+                },
+                "Scale3D": {
+                  "X": 3.0,
+                  "Y": 3.0,
+                  "Z": 3.0
+                },
+                "CameraFlagMode": 30,
+                "Tag": 91,
+                "ActionTag": 104615780,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "n6",
+                "ctype": "Sprite3DObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Default",
+                  "Path": "Default/empty.c3t",
+                  "Plist": ""
+                },
+                "RunAction3D": false,
+                "IsFlipped": false,
+                "LightFlag": "LIGHT0",
+                "CColor": {},
+                "Position3D": {
+                  "X": 36.91,
+                  "Y": 0.0,
+                  "Z": -36.8022
+                },
+                "Rotation3D": {
+                  "X": 0.0,
+                  "Y": 0.0,
+                  "Z": 0.0
+                },
+                "Scale3D": {
+                  "X": 3.0,
+                  "Y": 3.0,
+                  "Z": 3.0
+                },
+                "CameraFlagMode": 30,
+                "Tag": 92,
+                "ActionTag": 1324661848,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "n7",
+                "ctype": "Sprite3DObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Default",
+                  "Path": "Default/empty.c3t",
+                  "Plist": ""
+                },
+                "RunAction3D": false,
+                "IsFlipped": false,
+                "LightFlag": "LIGHT0",
+                "CColor": {},
+                "Position3D": {
+                  "X": 165.6426,
+                  "Y": 0.0,
+                  "Z": -79.548
+                },
+                "Rotation3D": {
+                  "X": 0.0,
+                  "Y": 0.0,
+                  "Z": 0.0
+                },
+                "Scale3D": {
+                  "X": 3.0,
+                  "Y": 3.0,
+                  "Z": 3.0
+                },
+                "CameraFlagMode": 30,
+                "Tag": 93,
+                "ActionTag": -557858539,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "n8",
+                "ctype": "Sprite3DObjectData"
+              }
+            ],
+            "ActionTag": 1518768714,
+            "Size": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Name": "line_5",
+            "ctype": "Node3DObjectData"
+          },
+          {
+            "CColor": {},
+            "Position3D": {
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0
+            },
+            "Rotation3D": {
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0
+            },
+            "Scale3D": {
+              "X": 1.0,
+              "Y": 1.0,
+              "Z": 1.0
+            },
+            "CameraFlagMode": 30,
+            "Tag": 59,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Default",
+                  "Path": "Default/empty.c3t",
+                  "Plist": ""
+                },
+                "RunAction3D": false,
+                "IsFlipped": false,
+                "LightFlag": "LIGHT0",
+                "CColor": {},
+                "Position3D": {
+                  "X": -100.0,
+                  "Y": 0.0,
+                  "Z": 0.0
+                },
+                "Rotation3D": {
+                  "X": 0.0,
+                  "Y": 0.0,
+                  "Z": 0.0
+                },
+                "Scale3D": {
+                  "X": 3.0,
+                  "Y": 3.0,
+                  "Z": 3.0
+                },
+                "CameraFlagMode": 30,
+                "Tag": 60,
+                "ActionTag": 2021655838,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "n0",
+                "ctype": "Sprite3DObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Default",
+                  "Path": "Default/empty.c3t",
+                  "Plist": ""
+                },
+                "RunAction3D": false,
+                "IsFlipped": false,
+                "LightFlag": "LIGHT0",
+                "CColor": {},
+                "Position3D": {
+                  "X": -45.0,
+                  "Y": 0.0,
+                  "Z": 0.0
+                },
+                "Rotation3D": {
+                  "X": 0.0,
+                  "Y": 0.0,
+                  "Z": 0.0
+                },
+                "Scale3D": {
+                  "X": 3.0,
+                  "Y": 3.0,
+                  "Z": 3.0
+                },
+                "CameraFlagMode": 30,
+                "Tag": 61,
+                "ActionTag": 1791787483,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "n1",
+                "ctype": "Sprite3DObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Default",
+                  "Path": "Default/empty.c3t",
+                  "Plist": ""
+                },
+                "RunAction3D": false,
+                "IsFlipped": false,
+                "LightFlag": "LIGHT0",
+                "CColor": {},
+                "Position3D": {
+                  "X": 0.0,
+                  "Y": 0.0,
+                  "Z": 0.0
+                },
+                "Rotation3D": {
+                  "X": 0.0,
+                  "Y": 0.0,
+                  "Z": 0.0
+                },
+                "Scale3D": {
+                  "X": 3.0,
+                  "Y": 3.0,
+                  "Z": 3.0
+                },
+                "CameraFlagMode": 30,
+                "Tag": 62,
+                "ActionTag": 1813593761,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "n2",
+                "ctype": "Sprite3DObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Default",
+                  "Path": "Default/empty.c3t",
+                  "Plist": ""
+                },
+                "RunAction3D": false,
+                "IsFlipped": false,
+                "LightFlag": "LIGHT0",
+                "CColor": {},
+                "Position3D": {
+                  "X": 45.0,
+                  "Y": 0.0,
+                  "Z": 0.0
+                },
+                "Rotation3D": {
+                  "X": 0.0,
+                  "Y": 0.0,
+                  "Z": 0.0
+                },
+                "Scale3D": {
+                  "X": 3.0,
+                  "Y": 3.0,
+                  "Z": 3.0
+                },
+                "CameraFlagMode": 30,
+                "Tag": 63,
+                "ActionTag": 697411477,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "n3",
+                "ctype": "Sprite3DObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Default",
+                  "Path": "Default/empty.c3t",
+                  "Plist": ""
+                },
+                "RunAction3D": false,
+                "IsFlipped": false,
+                "LightFlag": "LIGHT0",
+                "CColor": {},
+                "Position3D": {
+                  "X": 100.0,
+                  "Y": 0.0,
+                  "Z": 0.0
+                },
+                "Rotation3D": {
+                  "X": 0.0,
+                  "Y": 0.0,
+                  "Z": 0.0
+                },
+                "Scale3D": {
+                  "X": 3.0,
+                  "Y": 3.0,
+                  "Z": 3.0
+                },
+                "CameraFlagMode": 30,
+                "Tag": 64,
+                "ActionTag": -374413379,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "n4",
+                "ctype": "Sprite3DObjectData"
+              }
+            ],
+            "ActionTag": 678295557,
+            "Size": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Name": "line_6",
+            "ctype": "Node3DObjectData"
+          },
+          {
+            "CColor": {},
+            "Position3D": {
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0
+            },
+            "Rotation3D": {
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0
+            },
+            "Scale3D": {
+              "X": 1.0,
+              "Y": 1.0,
+              "Z": 1.0
+            },
+            "CameraFlagMode": 30,
+            "UserData": "{\"p\":{\"x\":[0],\"y\":[-15,15],\"z\":[-15,15]}}",
+            "Tag": 65,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Default",
+                  "Path": "Default/empty.c3t",
+                  "Plist": ""
+                },
+                "RunAction3D": false,
+                "IsFlipped": false,
+                "LightFlag": "LIGHT0",
+                "CColor": {},
+                "Position3D": {
+                  "X": -90.0,
+                  "Y": 0.0,
+                  "Z": 0.0
+                },
+                "Rotation3D": {
+                  "X": 0.0,
+                  "Y": 0.0,
+                  "Z": 0.0
+                },
+                "Scale3D": {
+                  "X": 3.0,
+                  "Y": 3.0,
+                  "Z": 3.0
+                },
+                "CameraFlagMode": 30,
+                "UserData": "{\"p\":{\"x\":[],\"y\":[-10,10],\"z\":[-10,10]}}",
+                "Tag": 66,
+                "ActionTag": 952517340,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "n0",
+                "ctype": "Sprite3DObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Default",
+                  "Path": "Default/empty.c3t",
+                  "Plist": ""
+                },
+                "RunAction3D": false,
+                "IsFlipped": false,
+                "LightFlag": "LIGHT0",
+                "CColor": {},
+                "Position3D": {
+                  "X": -40.6895,
+                  "Y": 0.0,
+                  "Z": 0.0
+                },
+                "Rotation3D": {
+                  "X": 0.0,
+                  "Y": 0.0,
+                  "Z": 0.0
+                },
+                "Scale3D": {
+                  "X": 3.0,
+                  "Y": 3.0,
+                  "Z": 3.0
+                },
+                "CameraFlagMode": 30,
+                "UserData": "{\"p\":{\"x\":[],\"y\":[-10,10],\"z\":[-10,10]}}",
+                "Tag": 67,
+                "ActionTag": 1979301273,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "n1",
+                "ctype": "Sprite3DObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Default",
+                  "Path": "Default/empty.c3t",
+                  "Plist": ""
+                },
+                "RunAction3D": false,
+                "IsFlipped": false,
+                "LightFlag": "LIGHT0",
+                "CColor": {},
+                "Position3D": {
+                  "X": 0.0,
+                  "Y": 0.0,
+                  "Z": 0.0
+                },
+                "Rotation3D": {
+                  "X": 0.0,
+                  "Y": 0.0,
+                  "Z": 0.0
+                },
+                "Scale3D": {
+                  "X": 3.0,
+                  "Y": 3.0,
+                  "Z": 3.0
+                },
+                "CameraFlagMode": 30,
+                "UserData": "{\"p\":{\"x\":[-5,5],\"y\":[-15,15],\"z\":[-15,15]}}",
+                "Tag": 68,
+                "ActionTag": -685469331,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "n2",
+                "ctype": "Sprite3DObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Default",
+                  "Path": "Default/empty.c3t",
+                  "Plist": ""
+                },
+                "RunAction3D": false,
+                "IsFlipped": false,
+                "LightFlag": "LIGHT0",
+                "CColor": {},
+                "Position3D": {
+                  "X": 42.1733,
+                  "Y": 0.0,
+                  "Z": 0.0
+                },
+                "Rotation3D": {
+                  "X": 0.0,
+                  "Y": 0.0,
+                  "Z": 0.0
+                },
+                "Scale3D": {
+                  "X": 3.0,
+                  "Y": 3.0,
+                  "Z": 3.0
+                },
+                "CameraFlagMode": 30,
+                "UserData": "{\"p\":{\"x\":[],\"y\":[-10,10],\"z\":[-10,10]}}",
+                "Tag": 69,
+                "ActionTag": 371419837,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "n3",
+                "ctype": "Sprite3DObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Default",
+                  "Path": "Default/empty.c3t",
+                  "Plist": ""
+                },
+                "RunAction3D": false,
+                "IsFlipped": false,
+                "LightFlag": "LIGHT0",
+                "CColor": {},
+                "Position3D": {
+                  "X": 90.0,
+                  "Y": 0.0,
+                  "Z": 0.0
+                },
+                "Rotation3D": {
+                  "X": 0.0,
+                  "Y": 0.0,
+                  "Z": 0.0
+                },
+                "Scale3D": {
+                  "X": 3.0,
+                  "Y": 3.0,
+                  "Z": 3.0
+                },
+                "CameraFlagMode": 30,
+                "UserData": "{\"p\":{\"x\":[],\"y\":[-10,10],\"z\":[-20,20]}}",
+                "Tag": 70,
+                "ActionTag": -1474111506,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "n4",
+                "ctype": "Sprite3DObjectData"
+              }
+            ],
+            "ActionTag": 897776231,
+            "Size": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Name": "line_7",
+            "ctype": "Node3DObjectData"
+          },
+          {
+            "CColor": {},
+            "Position3D": {
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0
+            },
+            "Rotation3D": {
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0
+            },
+            "Scale3D": {
+              "X": 1.0,
+              "Y": 1.0,
+              "Z": 1.0
+            },
+            "CameraFlagMode": 30,
+            "UserData": "{\"p\":{\"x\":[0],\"y\":[],\"z\":[]},\"reverse\":true,\"event\":{\"name\":\"crash\",\"percentTimeLine\":0.85}}",
+            "Tag": 242,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Default",
+                  "Path": "Default/empty.c3t",
+                  "Plist": ""
+                },
+                "RunAction3D": false,
+                "IsFlipped": false,
+                "LightFlag": "LIGHT0",
+                "CColor": {},
+                "Position3D": {
+                  "X": 0.8777,
+                  "Y": 0.0,
+                  "Z": 75.8901
+                },
+                "Rotation3D": {
+                  "X": 0.0,
+                  "Y": 0.0,
+                  "Z": 0.0
+                },
+                "Scale3D": {
+                  "X": 3.0,
+                  "Y": 3.0,
+                  "Z": 3.0
+                },
+                "CameraFlagMode": 30,
+                "UserData": "{\"p\":{\"x\":[-7,7],\"y\":[-1,1],\"z\":[]}}",
+                "Tag": 243,
+                "ActionTag": -318171697,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "n3",
+                "ctype": "Sprite3DObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Default",
+                  "Path": "Default/empty.c3t",
+                  "Plist": ""
+                },
+                "RunAction3D": false,
+                "IsFlipped": false,
+                "LightFlag": "LIGHT0",
+                "CColor": {},
+                "Position3D": {
+                  "X": -1.334,
+                  "Y": -2.3365,
+                  "Z": 4.2045
+                },
+                "Rotation3D": {
+                  "X": 0.0,
+                  "Y": 0.0,
+                  "Z": 0.0
+                },
+                "Scale3D": {
+                  "X": 3.0,
+                  "Y": 3.0,
+                  "Z": 3.0
+                },
+                "CameraFlagMode": 30,
+                "UserData": "{\"p\":{\"x\":[-5,5],\"y\":[-5,15],\"z\":[-15,15]}}",
+                "Tag": 245,
+                "ActionTag": 574375560,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "n2",
+                "ctype": "Sprite3DObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Default",
+                  "Path": "Default/empty.c3t",
+                  "Plist": ""
+                },
+                "RunAction3D": false,
+                "IsFlipped": false,
+                "LightFlag": "LIGHT0",
+                "CColor": {},
+                "Position3D": {
+                  "X": 42.1733,
+                  "Y": 0.0,
+                  "Z": 0.0
+                },
+                "Rotation3D": {
+                  "X": 0.0,
+                  "Y": 0.0,
+                  "Z": 0.0
+                },
+                "Scale3D": {
+                  "X": 3.0,
+                  "Y": 3.0,
+                  "Z": 3.0
+                },
+                "CameraFlagMode": 30,
+                "UserData": "{\"p\":{\"x\":[],\"y\":[-5,5],\"z\":[-10,10]}}",
+                "Tag": 246,
+                "ActionTag": -461514554,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "n1",
+                "ctype": "Sprite3DObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Default",
+                  "Path": "Default/empty.c3t",
+                  "Plist": ""
+                },
+                "RunAction3D": false,
+                "IsFlipped": false,
+                "LightFlag": "LIGHT0",
+                "CColor": {},
+                "Position3D": {
+                  "X": 90.0,
+                  "Y": 0.0,
+                  "Z": 0.0
+                },
+                "Rotation3D": {
+                  "X": 0.0,
+                  "Y": 0.0,
+                  "Z": 0.0
+                },
+                "Scale3D": {
+                  "X": 3.0,
+                  "Y": 3.0,
+                  "Z": 3.0
+                },
+                "CameraFlagMode": 30,
+                "UserData": "{\"p\":{\"x\":[],\"y\":[-5,5],\"z\":[-20,20]}}",
+                "Tag": 247,
+                "ActionTag": -1674699812,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "n0",
+                "ctype": "Sprite3DObjectData"
+              }
+            ],
+            "ActionTag": -871600536,
+            "Size": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Name": "line_8",
+            "ctype": "Node3DObjectData"
+          },
+          {
+            "CColor": {},
+            "Position3D": {
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0
+            },
+            "Rotation3D": {
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0
+            },
+            "Scale3D": {
+              "X": 1.0,
+              "Y": 1.0,
+              "Z": 1.0
+            },
+            "CameraFlagMode": 30,
+            "UserData": "{\"p\":{\"x\":[0],\"y\":[],\"z\":[]},\"reverse\":true,\"event\":{\"name\":\"crash\",\"percentTimeLine\":0.85}}",
+            "Tag": 93,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Default",
+                  "Path": "Default/empty.c3t",
+                  "Plist": ""
+                },
+                "RunAction3D": false,
+                "IsFlipped": false,
+                "LightFlag": "LIGHT0",
+                "CColor": {},
+                "Position3D": {
+                  "X": 0.8777,
+                  "Y": 0.0,
+                  "Z": 75.8901
+                },
+                "Rotation3D": {
+                  "X": 0.0,
+                  "Y": 0.0,
+                  "Z": 0.0
+                },
+                "Scale3D": {
+                  "X": 3.0,
+                  "Y": 3.0,
+                  "Z": 3.0
+                },
+                "CameraFlagMode": 30,
+                "UserData": "{\"p\":{\"x\":[-7,7],\"y\":[-1,1],\"z\":[]}}",
+                "Tag": 94,
+                "ActionTag": -1367793720,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "n3",
+                "ctype": "Sprite3DObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Default",
+                  "Path": "Default/empty.c3t",
+                  "Plist": ""
+                },
+                "RunAction3D": false,
+                "IsFlipped": false,
+                "LightFlag": "LIGHT0",
+                "CColor": {},
+                "Position3D": {
+                  "X": -1.334,
+                  "Y": -2.3365,
+                  "Z": 4.2045
+                },
+                "Rotation3D": {
+                  "X": 0.0,
+                  "Y": 0.0,
+                  "Z": 0.0
+                },
+                "Scale3D": {
+                  "X": 3.0,
+                  "Y": 3.0,
+                  "Z": 3.0
+                },
+                "CameraFlagMode": 30,
+                "UserData": "{\"p\":{\"x\":[-5,5],\"y\":[-5,15],\"z\":[-15,15]}}",
+                "Tag": 95,
+                "ActionTag": 1429352421,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "n2",
+                "ctype": "Sprite3DObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Default",
+                  "Path": "Default/empty.c3t",
+                  "Plist": ""
+                },
+                "RunAction3D": false,
+                "IsFlipped": false,
+                "LightFlag": "LIGHT0",
+                "CColor": {},
+                "Position3D": {
+                  "X": -42.17,
+                  "Y": 0.0,
+                  "Z": 0.0
+                },
+                "Rotation3D": {
+                  "X": 0.0,
+                  "Y": 0.0,
+                  "Z": 0.0
+                },
+                "Scale3D": {
+                  "X": 3.0,
+                  "Y": 3.0,
+                  "Z": 3.0
+                },
+                "CameraFlagMode": 30,
+                "UserData": "{\"p\":{\"x\":[],\"y\":[-5,5],\"z\":[-10,10]}}",
+                "Tag": 96,
+                "ActionTag": 1497470993,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "n1",
+                "ctype": "Sprite3DObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Default",
+                  "Path": "Default/empty.c3t",
+                  "Plist": ""
+                },
+                "RunAction3D": false,
+                "IsFlipped": false,
+                "LightFlag": "LIGHT0",
+                "CColor": {},
+                "Position3D": {
+                  "X": -90.0,
+                  "Y": 0.0,
+                  "Z": 0.0
+                },
+                "Rotation3D": {
+                  "X": 0.0,
+                  "Y": 0.0,
+                  "Z": 0.0
+                },
+                "Scale3D": {
+                  "X": 3.0,
+                  "Y": 3.0,
+                  "Z": 3.0
+                },
+                "CameraFlagMode": 30,
+                "UserData": "{\"p\":{\"x\":[],\"y\":[-5,5],\"z\":[-20,20]}}",
+                "Tag": 97,
+                "ActionTag": 706679042,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "n0",
+                "ctype": "Sprite3DObjectData"
+              }
+            ],
+            "ActionTag": -283110589,
+            "Size": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Name": "line_9",
+            "ctype": "Node3DObjectData"
+          }
+        ],
+        "Size": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "Name": "Scene3D",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "Default/empty.c3t",
+        "Default/skybox.png",
+        "Default/white.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Scene3D"
+}

@@ -1,0 +1,62 @@
+
+SX.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Do
+  rotate: true
+  xy: 458, 34
+  size: 109, 137
+  orig: 109, 137
+  offset: 0, 0
+  index: -1
+Glow
+  rotate: false
+  xy: 238, 16
+  size: 218, 209
+  orig: 218, 209
+  offset: 0, 0
+  index: -1
+Light
+  rotate: false
+  xy: 2, 2
+  size: 234, 223
+  orig: 234, 223
+  offset: 0, 0
+  index: -1
+Tick1
+  rotate: true
+  xy: 639, 130
+  size: 95, 114
+  orig: 95, 114
+  offset: 0, 0
+  index: -1
+Tick2
+  rotate: true
+  xy: 755, 131
+  size: 94, 114
+  orig: 94, 114
+  offset: 0, 0
+  index: -1
+Vang
+  rotate: false
+  xy: 871, 143
+  size: 82, 82
+  orig: 82, 82
+  offset: 0, 0
+  index: -1
+Xanh
+  rotate: false
+  xy: 597, 46
+  size: 82, 82
+  orig: 82, 82
+  offset: 0, 0
+  index: -1
+Xo_So
+  rotate: false
+  xy: 458, 145
+  size: 179, 80
+  orig: 179, 80
+  offset: 0, 0
+  index: -1

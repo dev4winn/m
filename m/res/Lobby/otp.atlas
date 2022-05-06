@@ -1,0 +1,33 @@
+
+otp.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG
+  rotate: false
+  xy: 1, 17
+  size: 80, 88
+  orig: 82, 90
+  offset: 1, 1
+  index: -1
+MUI TEN
+  rotate: false
+  xy: 82, 6
+  size: 25, 46
+  orig: 27, 48
+  offset: 1, 1
+  index: -1
+OTP
+  rotate: true
+  xy: 82, 53
+  size: 52, 23
+  orig: 54, 25
+  offset: 1, 1
+  index: -1
+T?I APP OTP
+  rotate: false
+  xy: 1, 1
+  size: 71, 15
+  orig: 73, 17
+  offset: 1, 1
+  index: -1

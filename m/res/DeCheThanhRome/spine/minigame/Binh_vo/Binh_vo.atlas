@@ -1,0 +1,76 @@
+
+Binh_vo.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+binhvo_00003
+  rotate: false
+  xy: 705, 40
+  size: 62, 84
+  orig: 62, 84
+  offset: 0, 0
+  index: -1
+binhvo_00004
+  rotate: true
+  xy: 374, 2
+  size: 103, 112
+  orig: 103, 112
+  offset: 0, 0
+  index: -1
+binhvo_00005
+  rotate: true
+  xy: 867, 130
+  size: 124, 142
+  orig: 124, 142
+  offset: 0, 0
+  index: -1
+binhvo_00006
+  rotate: true
+  xy: 374, 107
+  size: 147, 162
+  orig: 147, 162
+  offset: 0, 0
+  index: -1
+binhvo_00007
+  rotate: false
+  xy: 204, 101
+  size: 168, 153
+  orig: 168, 153
+  offset: 0, 0
+  index: -1
+binhvo_00008
+  rotate: false
+  xy: 2, 93
+  size: 200, 161
+  orig: 200, 161
+  offset: 0, 0
+  index: -1
+binhvo_00009
+  rotate: false
+  xy: 538, 126
+  size: 165, 128
+  orig: 165, 128
+  offset: 0, 0
+  index: -1
+binhvo_00010
+  rotate: false
+  xy: 705, 126
+  size: 160, 128
+  orig: 160, 128
+  offset: 0, 0
+  index: -1
+binhvo_00011
+  rotate: false
+  xy: 538, 5
+  size: 165, 119
+  orig: 165, 119
+  offset: 0, 0
+  index: -1
+binhvo_00012
+  rotate: false
+  xy: 2, 37
+  size: 179, 54
+  orig: 179, 54
+  offset: 0, 0
+  index: -1

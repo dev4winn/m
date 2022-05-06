@@ -1,0 +1,41 @@
+
+Candy.png
+size: 902,217
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG
+  rotate: true
+  xy: 2, 2
+  size: 213, 415
+  orig: 213, 415
+  offset: 0, 0
+  index: -1
+Candy_Slot
+  rotate: false
+  xy: 651, 97
+  size: 195, 118
+  orig: 195, 118
+  offset: 0, 0
+  index: -1
+Keoto
+  rotate: true
+  xy: 419, 12
+  size: 203, 230
+  orig: 203, 230
+  offset: 0, 0
+  index: -1
+Star
+  rotate: false
+  xy: 651, 7
+  size: 207, 88
+  orig: 207, 88
+  offset: 0, 0
+  index: -1
+keonho
+  rotate: false
+  xy: 848, 163
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1

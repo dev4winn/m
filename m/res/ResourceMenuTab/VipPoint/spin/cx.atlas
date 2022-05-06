@@ -1,0 +1,19 @@
+
+cx.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 0
+  rotate: false
+  xy: 1, 1
+  size: 307, 182
+  orig: 309, 184
+  offset: 1, 1
+  index: -1
+cx5
+  rotate: false
+  xy: 309, 15
+  size: 302, 168
+  orig: 304, 170
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,29 @@
+[
+    [
+        {
+            "ActionTag": -324195465,
+            "Property": "Position",
+            "Frames": [
+                {
+                    "X": 0,
+                    "Y": 0,
+                    "FrameIndex": 0,
+                    "EasingData": {
+                        "Type": 0
+                    },
+                    "ctype": "PointFrameData"
+                },
+                {
+                    "X": -2246.0474,
+                    "Y": -2.2147,
+                    "FrameIndex": 6000,
+                    "EasingData": {
+                        "Type": 0
+                    },
+                    "ctype": "PointFrameData"
+                }
+            ],
+            "ctype": "TimelineData"
+        }
+    ]
+]

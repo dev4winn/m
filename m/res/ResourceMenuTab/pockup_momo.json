@@ -1,0 +1,205 @@
+{
+"bones": [
+	{ "name": "root", "x": -614.4, "y": 486.33 },
+	{ "name": "dangten", "parent": "root", "length": 63.37, "x": 230.02, "y": -314.78, "rotation": 133.37 },
+	{ "name": "g1", "parent": "root", "length": 52.64, "x": 1206.26, "y": -410.51, "rotation": 70.08 },
+	{ "name": "g2", "parent": "root", "length": 80.77, "x": 116.68, "y": -416, "rotation": 124.1 },
+	{ "name": "gai", "parent": "root", "length": 212.15, "x": 582.12, "y": -499.17, "rotation": 82.81 },
+	{ "name": "heo", "parent": "root", "length": 119.97, "x": 1039.7, "y": -636.6, "rotation": 75.01 },
+	{ "name": "logo_momo", "parent": "root", "length": 141.23, "x": 856.54, "y": -430.3, "rotation": 79.73 },
+	{ "name": "nguoi", "parent": "root", "length": 115.06, "x": 350.44, "y": -523.81, "rotation": 98.5 }
+],
+"slots": [
+	{ "name": "N?P MOMO", "bone": "root", "attachment": "N?P MOMO" },
+	{ "name": "N?P MOMO  copy", "bone": "root", "attachment": "N?P MOMO  copy" },
+	{ "name": "G2", "bone": "g2", "attachment": "G2" },
+	{ "name": "G1", "bone": "g1", "attachment": "G1" },
+	{ "name": "BG", "bone": "root", "attachment": "BG" },
+	{ "name": "gai", "bone": "gai", "attachment": "gai" },
+	{ "name": "light_sang", "bone": "root", "attachment": "light_sang" },
+	{ "name": "light_toi", "bone": "root", "attachment": "light_toi" },
+	{ "name": "Layer 15", "bone": "logo_momo", "attachment": "Layer 15" },
+	{ "name": "2", "bone": "heo", "attachment": "2" },
+	{ "name": "Layer 17", "bone": "nguoi", "attachment": "Layer 17" },
+	{ "name": "Layer 7", "bone": "root", "attachment": "Layer 7" },
+	{ "name": "KHUY?N M�I", "bone": "root", "attachment": "KHUY?N M�I" },
+	{ "name": "KHUY?N M�I  copy", "bone": "root", "attachment": "KHUY?N M�I  copy" },
+	{ "name": "120", "bone": "root", "attachment": "120" },
+	{ "name": "120 copy", "bone": "root", "attachment": "120 copy" }
+],
+"skins": {
+	"default": {
+		"120": {
+			"120": { "x": 643.5, "y": -718, "width": 463, "height": 224 }
+		},
+		"120 copy": {
+			"120 copy": { "x": 642.47, "y": -723.35, "width": 463, "height": 224 }
+		},
+		"2": {
+			"2": { "x": 81.6, "y": -31.76, "rotation": -75.01, "width": 277, "height": 234 }
+		},
+		"BG": {
+			"BG": { "x": 628.5, "y": -541, "width": 869, "height": 680 }
+		},
+		"G1": {
+			"G1": { "x": 22.56, "y": 5.26, "rotation": -70.08, "width": 108, "height": 95 }
+		},
+		"G2": {
+			"G2": { "x": 50.67, "y": -6.32, "rotation": -124.1, "width": 189, "height": 195 }
+		},
+		"KHUY?N M�I": {
+			"KHUY?N M�I": { "x": 634, "y": -577, "width": 662, "height": 154 }
+		},
+		"KHUY?N M�I  copy": {
+			"KHUY?N M�I  copy": { "x": 634, "y": -577, "width": 662, "height": 154 }
+		},
+		"Layer 15": {
+			"Layer 15": { "x": 91.48, "y": -1.16, "rotation": -79.73, "width": 376, "height": 375 }
+		},
+		"Layer 17": {
+			"Layer 17": { "x": 69.44, "y": 39.59, "rotation": -98.5, "width": 214, "height": 268 }
+		},
+		"Layer 7": {
+			"Layer 7": { "x": 957.5, "y": -707.5, "width": 175, "height": 219 }
+		},
+		"N?P MOMO": {
+			"N?P MOMO": { "x": 658.5, "y": -144.5, "width": 467, "height": 101 }
+		},
+		"N?P MOMO  copy": {
+			"N?P MOMO  copy": { "x": 658.5, "y": -144.5, "width": 467, "height": 101 }
+		},
+		"gai": {
+			"gai": { "path": "Layer 14", "x": 30.96, "y": -60.48, "rotation": -82.81, "width": 568, "height": 656 }
+		},
+		"light_sang": {
+			"light_sang": { "path": "Group 4", "x": 744.5, "y": -572.5, "width": 927, "height": 743 }
+		},
+		"light_toi": {
+			"light_toi": { "path": "Group 4 copy", "x": 744.5, "y": -572.5, "width": 927, "height": 743 }
+		}
+	}
+},
+"animations": {
+	"animation": {
+		"bones": {
+			"g2": {
+				"translate": [
+					{ "time": 0, "x": 11.05, "y": -20.52 },
+					{ "time": 0.3333, "x": 33.15, "y": -28.42 },
+					{ "time": 0.6666, "x": 11.05, "y": -20.52 }
+				]
+			},
+			"g1": {
+				"translate": [
+					{ "time": 0, "x": -46.38, "y": -17 },
+					{ "time": 0.3333, "x": -27.82, "y": 9.27 },
+					{ "time": 0.6666, "x": -46.38, "y": -17 }
+				]
+			},
+			"nguoi": {
+				"translate": [
+					{ "time": 0, "x": -12.93, "y": 12.93 },
+					{ "time": 0.3333, "x": -29.4, "y": 14.11 },
+					{ "time": 0.6666, "x": -12.93, "y": 12.93 }
+				]
+			},
+			"heo": {
+				"translate": [
+					{ "time": 0, "x": 27.28, "y": -9.54 },
+					{ "time": 0.3333, "x": 21.41, "y": -0.66 },
+					{ "time": 0.6666, "x": 27.28, "y": -9.54 }
+				]
+			},
+			"gai": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": -6.42 },
+					{ "time": 0.3333, "x": 0, "y": -14.58 },
+					{ "time": 0.6666, "x": 0, "y": -6.42 }
+				]
+			},
+			"logo_momo": {
+				"translate": [
+					{ "time": 0, "x": -16.06, "y": -20.87 },
+					{ "time": 0.3333, "x": -16.06, "y": 0.79 },
+					{ "time": 0.6666, "x": -16.06, "y": -20.87 }
+				]
+			},
+			"dangten": {
+				"translate": [
+					{ "time": 0, "x": 26.08, "y": 0 },
+					{ "time": 0.3333, "x": 26.08, "y": -9.26 },
+					{ "time": 0.6666, "x": 26.08, "y": 0 }
+				]
+			}
+		},
+		"slots": {
+			"120 copy": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.1666, "name": "120 copy" },
+					{ "time": 0.3333, "name": null },
+					{ "time": 0.5, "name": "120 copy" },
+					{ "time": 0.6666, "name": null }
+				]
+			},
+			"KHUY?N M�I": {
+				"attachment": [
+					{ "time": 0, "name": "KHUY?N M�I" }
+				]
+			},
+			"KHUY?N M�I  copy": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"N?P MOMO": {
+				"attachment": [
+					{ "time": 0, "name": "N?P MOMO" },
+					{ "time": 0.3333, "name": "N?P MOMO" }
+				]
+			},
+			"N?P MOMO  copy": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.1666, "name": "N?P MOMO  copy" },
+					{ "time": 0.3333, "name": null },
+					{ "time": 0.5, "name": "N?P MOMO  copy" },
+					{ "time": 0.6666, "name": null }
+				]
+			},
+			"light_sang": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.1666, "name": "light_sang" },
+					{ "time": 0.3333, "name": null },
+					{ "time": 0.5, "name": "light_sang" },
+					{ "time": 0.6666, "name": null }
+				]
+			},
+			"light_toi": {
+				"attachment": [
+					{ "time": 0, "name": "light_toi" },
+					{ "time": 0.1666, "name": null },
+					{ "time": 0.3333, "name": "light_toi" },
+					{ "time": 0.5, "name": null },
+					{ "time": 0.6666, "name": "light_toi" }
+				]
+			},
+			"G2": {
+				"attachment": [
+					{ "time": 0, "name": "G2" }
+				]
+			},
+			"120": {
+				"attachment": [
+					{ "time": 0, "name": "120" },
+					{ "time": 0.1666, "name": null },
+					{ "time": 0.3333, "name": "120" },
+					{ "time": 0.5, "name": null },
+					{ "time": 0.6666, "name": "120" }
+				]
+			}
+		}
+	}
+}
+}

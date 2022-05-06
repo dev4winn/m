@@ -1,0 +1,144 @@
+[
+    [
+        {
+            "ActionTag": -1504853685,
+            "Property": "Position",
+            "Frames": [
+                {
+                    "X": 0,
+                    "Y": -0.0008,
+                    "FrameIndex": 0,
+                    "EasingData": {
+                        "Type": 0
+                    },
+                    "ctype": "PointFrameData"
+                },
+                {
+                    "X": 284.3271,
+                    "Y": -32.4318,
+                    "FrameIndex": 103,
+                    "EasingData": {
+                        "Type": 0
+                    },
+                    "ctype": "PointFrameData"
+                },
+                {
+                    "X": 560.8097,
+                    "Y": -67.5009,
+                    "FrameIndex": 215,
+                    "EasingData": {
+                        "Type": 0
+                    },
+                    "ctype": "PointFrameData"
+                },
+                {
+                    "X": 844.1932,
+                    "Y": -23.6774,
+                    "FrameIndex": 302,
+                    "EasingData": {
+                        "Type": 0
+                    },
+                    "ctype": "PointFrameData"
+                },
+                {
+                    "X": 1016.0977,
+                    "Y": 16.6191,
+                    "FrameIndex": 369,
+                    "EasingData": {
+                        "Type": 0
+                    },
+                    "ctype": "PointFrameData"
+                },
+                {
+                    "X": 1187.61,
+                    "Y": 4.4342,
+                    "FrameIndex": 456,
+                    "EasingData": {
+                        "Type": 0
+                    },
+                    "ctype": "PointFrameData"
+                },
+                {
+                    "X": 1680,
+                    "Y": -59.7662,
+                    "FrameIndex": 600,
+                    "EasingData": {
+                        "Type": 0
+                    },
+                    "ctype": "PointFrameData"
+                }
+            ],
+            "ctype": "TimelineData"
+        },
+        {
+            "ActionTag": -1504853685,
+            "Property": "Scale",
+            "Frames": [
+                {
+                    "X": 1,
+                    "Y": 1,
+                    "FrameIndex": 0,
+                    "EasingData": {
+                        "Type": 0
+                    },
+                    "ctype": "ScaleValueFrameData"
+                },
+                {
+                    "X": 1,
+                    "Y": 1,
+                    "FrameIndex": 103,
+                    "EasingData": {
+                        "Type": 0
+                    },
+                    "ctype": "ScaleValueFrameData"
+                },
+                {
+                    "X": 1,
+                    "Y": 1,
+                    "FrameIndex": 215,
+                    "EasingData": {
+                        "Type": 0
+                    },
+                    "ctype": "ScaleValueFrameData"
+                },
+                {
+                    "X": 1.1,
+                    "Y": 1.1,
+                    "FrameIndex": 302,
+                    "EasingData": {
+                        "Type": 0
+                    },
+                    "ctype": "ScaleValueFrameData"
+                },
+                {
+                    "X": 1.1,
+                    "Y": 1.1,
+                    "FrameIndex": 369,
+                    "EasingData": {
+                        "Type": 0
+                    },
+                    "ctype": "ScaleValueFrameData"
+                },
+                {
+                    "X": 1,
+                    "Y": 1,
+                    "FrameIndex": 456,
+                    "EasingData": {
+                        "Type": 0
+                    },
+                    "ctype": "ScaleValueFrameData"
+                },
+                {
+                    "X": 0.9,
+                    "Y": 0.9,
+                    "FrameIndex": 600,
+                    "EasingData": {
+                        "Type": 0
+                    },
+                    "ctype": "ScaleValueFrameData"
+                }
+            ],
+            "ctype": "TimelineData"
+        }
+    ]
+]

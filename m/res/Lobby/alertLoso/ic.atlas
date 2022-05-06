@@ -1,0 +1,83 @@
+
+ic.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG
+  rotate: false
+  xy: 2, 38
+  size: 280, 88
+  orig: 280, 88
+  offset: 0, 0
+  index: -1
+Gio
+  rotate: false
+  xy: 40, 2
+  size: 33, 12
+  orig: 33, 12
+  offset: 0, 0
+  index: -1
+Light01
+  rotate: false
+  xy: 284, 33
+  size: 228, 93
+  orig: 228, 93
+  offset: 0, 0
+  index: -1
+Light02
+  rotate: false
+  xy: 514, 56
+  size: 197, 70
+  orig: 197, 70
+  offset: 0, 0
+  index: -1
+Phut
+  rotate: true
+  xy: 2, 2
+  size: 12, 36
+  orig: 12, 36
+  offset: 0, 0
+  index: -1
+Vach
+  rotate: false
+  xy: 885, 58
+  size: 70, 68
+  orig: 70, 68
+  offset: 0, 0
+  index: -1
+mt01
+  rotate: false
+  xy: 713, 66
+  size: 23, 20
+  orig: 23, 20
+  offset: 0, 0
+  index: -1
+mt02
+  rotate: false
+  xy: 116, 16
+  size: 27, 20
+  orig: 27, 20
+  offset: 0, 0
+  index: -1
+mt03
+  rotate: false
+  xy: 514, 34
+  size: 30, 20
+  orig: 30, 20
+  offset: 0, 0
+  index: -1
+text
+  rotate: false
+  xy: 713, 88
+  size: 170, 38
+  orig: 170, 38
+  offset: 0, 0
+  index: -1
+text_datcua
+  rotate: false
+  xy: 2, 16
+  size: 112, 20
+  orig: 112, 20
+  offset: 0, 0
+  index: -1

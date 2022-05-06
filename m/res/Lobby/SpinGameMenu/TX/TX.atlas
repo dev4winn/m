@@ -1,0 +1,41 @@
+
+TX.png
+size: 686,227
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG
+  rotate: true
+  xy: 238, 7
+  size: 218, 209
+  orig: 218, 209
+  offset: 0, 0
+  index: -1
+Light
+  rotate: false
+  xy: 2, 2
+  size: 234, 223
+  orig: 234, 223
+  offset: 0, 0
+  index: -1
+Text
+  rotate: false
+  xy: 449, 27
+  size: 150, 52
+  orig: 150, 52
+  offset: 0, 0
+  index: -1
+XX_Be
+  rotate: true
+  xy: 591, 133
+  size: 92, 93
+  orig: 92, 93
+  offset: 0, 0
+  index: -1
+XX_To
+  rotate: false
+  xy: 449, 81
+  size: 140, 144
+  orig: 140, 144
+  offset: 0, 0
+  index: -1

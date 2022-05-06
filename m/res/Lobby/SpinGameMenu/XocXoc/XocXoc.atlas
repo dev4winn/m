@@ -1,0 +1,55 @@
+
+XocXoc.png
+size: 920,227
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG
+  rotate: true
+  xy: 238, 7
+  size: 218, 209
+  orig: 218, 209
+  offset: 0, 0
+  index: -1
+Bat
+  rotate: false
+  xy: 651, 63
+  size: 162, 162
+  orig: 162, 162
+  offset: 0, 0
+  index: -1
+Cau
+  rotate: true
+  xy: 815, 119
+  size: 106, 103
+  orig: 106, 103
+  offset: 0, 0
+  index: -1
+Dia
+  rotate: false
+  xy: 449, 25
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+Light
+  rotate: false
+  xy: 2, 2
+  size: 234, 223
+  orig: 234, 223
+  offset: 0, 0
+  index: -1
+Xoc1
+  rotate: false
+  xy: 651, 12
+  size: 89, 49
+  orig: 89, 49
+  offset: 0, 0
+  index: -1
+Xoc2
+  rotate: false
+  xy: 742, 12
+  size: 89, 49
+  orig: 89, 49
+  offset: 0, 0
+  index: -1

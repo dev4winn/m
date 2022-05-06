@@ -1,0 +1,206 @@
+
+Jackpot.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Jackpot_text
+  rotate: false
+  xy: 2, 559
+  size: 703, 462
+  orig: 703, 462
+  offset: 0, 0
+  index: -1
+Number_bgr
+  rotate: false
+  xy: 2, 166
+  size: 488, 94
+  orig: 488, 94
+  offset: 0, 0
+  index: -1
+kenphai1
+  rotate: true
+  xy: 720, 109
+  size: 194, 289
+  orig: 194, 289
+  offset: 0, 0
+  index: -1
+kenphai3
+  rotate: true
+  xy: 2, 15
+  size: 149, 221
+  orig: 149, 221
+  offset: 0, 0
+  index: -1
+kenphai4
+  rotate: true
+  xy: 492, 132
+  size: 128, 190
+  orig: 128, 190
+  offset: 0, 0
+  index: -1
+kenphai5
+  rotate: true
+  xy: 640, 3
+  size: 104, 155
+  orig: 104, 155
+  offset: 0, 0
+  index: -1
+kentrai3
+  rotate: true
+  xy: 225, 15
+  size: 149, 221
+  orig: 149, 221
+  offset: 0, 0
+  index: -1
+kentrai4
+  rotate: true
+  xy: 448, 2
+  size: 128, 190
+  orig: 128, 190
+  offset: 0, 0
+  index: -1
+kentrai5
+  rotate: true
+  xy: 797, 3
+  size: 104, 155
+  orig: 104, 155
+  offset: 0, 0
+  index: -1
+shine1
+  rotate: false
+  xy: 2, 262
+  size: 716, 295
+  orig: 716, 295
+  offset: 0, 0
+  index: -1
+shine2
+  rotate: true
+  xy: 720, 305
+  size: 716, 295
+  orig: 716, 295
+  offset: 0, 0
+  index: -1
+
+Jackpot2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Phaohoa_V2_00000
+  rotate: false
+  xy: 293, 23
+  size: 176, 173
+  orig: 176, 173
+  offset: 0, 0
+  index: -1
+Phaohoa_V2_00003
+  rotate: true
+  xy: 631, 577
+  size: 437, 390
+  orig: 437, 390
+  offset: 0, 0
+  index: -1
+Phaohoa_V2_00006
+  rotate: false
+  xy: 2, 198
+  size: 502, 465
+  orig: 502, 465
+  offset: 0, 0
+  index: -1
+Phaohoa_V2_00007
+  rotate: false
+  xy: 506, 119
+  size: 502, 456
+  orig: 502, 456
+  offset: 0, 0
+  index: -1
+flare1
+  rotate: false
+  xy: 2, 665
+  size: 627, 349
+  orig: 627, 349
+  offset: 0, 0
+  index: -1
+flare2
+  rotate: false
+  xy: 2, 665
+  size: 627, 349
+  orig: 627, 349
+  offset: 0, 0
+  index: -1
+kentrai1
+  rotate: true
+  xy: 2, 2
+  size: 194, 289
+  orig: 194, 289
+  offset: 0, 0
+  index: -1
+
+Jackpot3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Phaohoa_V2_00004
+  rotate: true
+  xy: 454, 23
+  size: 481, 427
+  orig: 481, 427
+  offset: 0, 0
+  index: -1
+Phaohoa_V2_00005
+  rotate: false
+  xy: 2, 506
+  size: 501, 451
+  orig: 501, 451
+  offset: 0, 0
+  index: -1
+Phaohoa_V2_00008
+  rotate: true
+  xy: 2, 2
+  size: 502, 450
+  orig: 502, 450
+  offset: 0, 0
+  index: -1
+Phaohoa_V2_00009
+  rotate: false
+  xy: 505, 508
+  size: 502, 449
+  orig: 502, 449
+  offset: 0, 0
+  index: -1
+
+Jackpot4.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Phaohoa_V2_00001
+  rotate: false
+  xy: 375, 265
+  size: 252, 241
+  orig: 252, 241
+  offset: 0, 0
+  index: -1
+Phaohoa_V2_00002
+  rotate: false
+  xy: 2, 174
+  size: 371, 332
+  orig: 371, 332
+  offset: 0, 0
+  index: -1
+kenphai2
+  rotate: true
+  xy: 2, 2
+  size: 170, 252
+  orig: 170, 252
+  offset: 0, 0
+  index: -1
+kentrai2
+  rotate: true
+  xy: 629, 336
+  size: 170, 252
+  orig: 170, 252
+  offset: 0, 0
+  index: -1

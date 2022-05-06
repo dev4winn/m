@@ -1,0 +1,40 @@
+#ifdef GL_ES
+precision mediump float;
+#endif
+
+#ifdef GL_ES
+varying mediump vec4 v_fragmentColor;
+varying mediump vec2 v_texCoord;
+varying mediump float time;
+#else
+varying vec4 v_fragmentColor;
+varying vec2 v_texCoord;
+
+#endif
+
+float tile_factor = 1.0;
+float aspect_ratio = 1.0;
+
+vec2 time_factor = vec2(2.0, 3.0);
+vec2 offset_factor = vec2(10.0, 4.0);
+vec2 amplitude = vec2(0.005, 0.005);
+
+vec2 calculate_wave_uv_offset(in float time, vec2 source_uvs, vec2 time_multiplier, vec2 waves_scale) {
+	return vec2(
+		sin(time * time_multiplier.x + (source_uvs.x + source_uvs.y) * waves_scale.x),
+		cos(time * time_multiplier.y + (source_uvs.x + source_uvs.y) * waves_scale.y)
+	);
+}
+
+void main()
+{
+
+    vec2 tiled_uvs = v_texCoord * tile_factor;
+    	tiled_uvs.y *= aspect_ratio;
+
+    	vec2 wave_uv_offset = calculate_wave_uv_offset(CC_SinTime.z, tiled_uvs, time_factor, offset_factor);
+
+
+    gl_FragColor =  texture2D(CC_Texture0, tiled_uvs + wave_uv_offset * amplitude );
+
+}

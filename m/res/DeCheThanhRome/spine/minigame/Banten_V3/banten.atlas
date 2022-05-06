@@ -1,0 +1,83 @@
+
+banten.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+banten_00003
+  rotate: false
+  xy: 363, 557
+  size: 355, 190
+  orig: 355, 190
+  offset: 0, 0
+  index: -1
+banten_00004
+  rotate: false
+  xy: 363, 557
+  size: 355, 190
+  orig: 355, 190
+  offset: 0, 0
+  index: -1
+keodaycung_00020
+  rotate: false
+  xy: 363, 557
+  size: 355, 190
+  orig: 355, 190
+  offset: 0, 0
+  index: -1
+banten_00005
+  rotate: true
+  xy: 2, 2
+  size: 361, 181
+  orig: 361, 181
+  offset: 0, 0
+  index: -1
+banten_00006
+  rotate: true
+  xy: 2, 2
+  size: 361, 181
+  orig: 361, 181
+  offset: 0, 0
+  index: -1
+keodaycung_00014
+  rotate: true
+  xy: 2, 2
+  size: 361, 181
+  orig: 361, 181
+  offset: 0, 0
+  index: -1
+keodaycung_00015
+  rotate: true
+  xy: 2, 2
+  size: 361, 181
+  orig: 361, 181
+  offset: 0, 0
+  index: -1
+keodaycung_00016
+  rotate: false
+  xy: 2, 749
+  size: 361, 190
+  orig: 361, 190
+  offset: 0, 0
+  index: -1
+keodaycung_00017
+  rotate: false
+  xy: 2, 557
+  size: 359, 190
+  orig: 359, 190
+  offset: 0, 0
+  index: -1
+keodaycung_00018
+  rotate: false
+  xy: 365, 749
+  size: 358, 190
+  orig: 358, 190
+  offset: 0, 0
+  index: -1
+keodaycung_00019
+  rotate: false
+  xy: 2, 365
+  size: 357, 190
+  orig: 357, 190
+  offset: 0, 0
+  index: -1

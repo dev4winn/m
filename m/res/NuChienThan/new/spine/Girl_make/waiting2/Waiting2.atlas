@@ -1,0 +1,163 @@
+
+Waiting2.png
+size: 1019,845
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Waiting2_00000
+  rotate: false
+  xy: 799, 31
+  size: 218, 541
+  orig: 218, 541
+  offset: 0, 0
+  index: -1
+Waiting2_00003
+  rotate: true
+  xy: 276, 574
+  size: 269, 543
+  orig: 269, 543
+  offset: 0, 0
+  index: -1
+Waiting2_00004
+  rotate: false
+  xy: 2, 300
+  size: 272, 543
+  orig: 272, 543
+  offset: 0, 0
+  index: -1
+Waiting2_00010
+  rotate: true
+  xy: 2, 2
+  size: 296, 522
+  orig: 296, 522
+  offset: 0, 0
+  index: -1
+Waiting2_00014
+  rotate: true
+  xy: 276, 301
+  size: 271, 521
+  orig: 271, 521
+  offset: 0, 0
+  index: -1
+
+Waiting22.png
+size: 835,895
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Waiting2_00001
+  rotate: true
+  xy: 2, 2
+  size: 235, 543
+  orig: 235, 543
+  offset: 0, 0
+  index: -1
+Waiting2_00012
+  rotate: false
+  xy: 544, 376
+  size: 289, 517
+  orig: 289, 517
+  offset: 0, 0
+  index: -1
+Waiting2_00016
+  rotate: true
+  xy: 2, 239
+  size: 225, 535
+  orig: 225, 535
+  offset: 0, 0
+  index: -1
+Waiting2_00017
+  rotate: true
+  xy: 2, 466
+  size: 214, 538
+  orig: 214, 538
+  offset: 0, 0
+  index: -1
+Waiting2_00018
+  rotate: true
+  xy: 2, 682
+  size: 211, 540
+  orig: 211, 540
+  offset: 0, 0
+  index: -1
+
+Waiting23.png
+size: 834,843
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Waiting2_00005
+  rotate: false
+  xy: 273, 298
+  size: 267, 543
+  orig: 267, 543
+  offset: 0, 0
+  index: -1
+Waiting2_00006
+  rotate: false
+  xy: 2, 298
+  size: 269, 543
+  orig: 269, 543
+  offset: 0, 0
+  index: -1
+Waiting2_00009
+  rotate: false
+  xy: 542, 309
+  size: 290, 532
+  orig: 290, 532
+  offset: 0, 0
+  index: -1
+Waiting2_00011
+  rotate: true
+  xy: 2, 2
+  size: 294, 519
+  orig: 294, 519
+  offset: 0, 0
+  index: -1
+
+Waiting24.png
+size: 831,827
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Waiting2_00002
+  rotate: true
+  xy: 286, 295
+  size: 254, 543
+  orig: 254, 543
+  offset: 0, 0
+  index: -1
+Waiting2_00007
+  rotate: true
+  xy: 286, 551
+  size: 274, 541
+  orig: 274, 541
+  offset: 0, 0
+  index: -1
+Waiting2_00008
+  rotate: false
+  xy: 2, 287
+  size: 282, 538
+  orig: 282, 538
+  offset: 0, 0
+  index: -1
+Waiting2_00013
+  rotate: true
+  xy: 2, 2
+  size: 283, 518
+  orig: 283, 518
+  offset: 0, 0
+  index: -1
+
+Waiting25.png
+size: 243,535
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Waiting2_00015
+  rotate: false
+  xy: 2, 2
+  size: 239, 531
+  orig: 239, 531
+  offset: 0, 0
+  index: -1

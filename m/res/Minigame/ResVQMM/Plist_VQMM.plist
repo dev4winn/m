@@ -1,0 +1,181 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>res/Minigame/ResVQMM/bg-vonquay.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{816,1},{377,141}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{377,141}</string>
+			</dict>
+			<key>res/Minigame/ResVQMM/btn-info.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{428,389},{56,56}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{56,56}</string>
+			</dict>
+			<key>res/Minigame/ResVQMM/btn-quay.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{816,380},{154,155}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{154,155}</string>
+			</dict>
+			<key>res/Minigame/ResVQMM/btnQuay.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{489,694},{154,155}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{154,155}</string>
+			</dict>
+			<key>res/Minigame/ResVQMM/help.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{428,447},{56,56}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{56,56}</string>
+			</dict>
+			<key>res/Minigame/ResVQMM/light.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{172,863},{44,44}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{44,44}</string>
+			</dict>
+			<key>res/Minigame/ResVQMM/mui-ten-to.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,863},{44,90}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{44,90}</string>
+			</dict>
+			<key>res/Minigame/ResVQMM/muiten.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{93,863},{37,77}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{37,77}</string>
+			</dict>
+			<key>res/Minigame/ResVQMM/notice.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,529},{486,332}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{486,332}</string>
+			</dict>
+			<key>res/Minigame/ResVQMM/so-luot-quay.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{794,536},{190,190}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{190,190}</string>
+			</dict>
+			<key>res/Minigame/ResVQMM/vachdung.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{93,902},{41,1}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{41,1}</string>
+			</dict>
+			<key>res/Minigame/ResVQMM/vong-xu.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{489,389},{303,303}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{303,303}</string>
+			</dict>
+			<key>res/Minigame/ResVQMM/vong-money-nho.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{425,526}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{425,526}</string>
+			</dict>
+			<key>res/Minigame/ResVQMM/vong-money-sua.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{428,1},{386,386}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{386,386}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>Plist_VQMM.png</string>
+			<key>realTextureFileName</key>
+			<string>Plist_VQMM.png</string>
+			<key>size</key>
+			<string>{985,908}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>985</integer>
+			<key>height</key>
+			<integer>908</integer>
+		</dict>
+	</dict>
+</plist>

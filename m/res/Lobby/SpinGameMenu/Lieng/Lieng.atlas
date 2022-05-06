@@ -1,0 +1,48 @@
+
+Lieng.png
+size: 868,227
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+A
+  rotate: false
+  xy: 458, 59
+  size: 144, 166
+  orig: 144, 166
+  offset: 0, 0
+  index: -1
+BG
+  rotate: false
+  xy: 238, 16
+  size: 218, 209
+  orig: 218, 209
+  offset: 0, 0
+  index: -1
+K
+  rotate: false
+  xy: 750, 79
+  size: 116, 146
+  orig: 116, 146
+  offset: 0, 0
+  index: -1
+Lieng
+  rotate: false
+  xy: 458, 9
+  size: 120, 48
+  orig: 120, 48
+  offset: 0, 0
+  index: -1
+Light
+  rotate: false
+  xy: 2, 2
+  size: 234, 223
+  orig: 234, 223
+  offset: 0, 0
+  index: -1
+Q
+  rotate: false
+  xy: 604, 59
+  size: 144, 166
+  orig: 144, 166
+  offset: 0, 0
+  index: -1

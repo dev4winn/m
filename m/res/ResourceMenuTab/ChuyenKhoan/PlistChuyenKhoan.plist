@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>res/ResourceMenuTab/ChuyenKhoan/bg_daily.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{1,1}}</string>
+				<key>offset</key>
+				<string>{4,-4}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{10,10}</string>
+			</dict>
+			<key>res/ResourceMenuTab/ChuyenKhoan/btn_chose_daily.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,4},{1,1}}</string>
+				<key>offset</key>
+				<string>{4,-4}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{10,10}</string>
+			</dict>
+			<key>res/ResourceMenuTab/ChuyenKhoan/btn_daily.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,7},{1,1}}</string>
+				<key>offset</key>
+				<string>{4,-4}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{10,10}</string>
+			</dict>
+			<key>res/ResourceMenuTab/ChuyenKhoan/btn_daily_s.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,10},{1,1}}</string>
+				<key>offset</key>
+				<string>{4,-4}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{10,10}</string>
+			</dict>
+			<key>res/ResourceMenuTab/ChuyenKhoan/btn_dl.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,13},{1,1}}</string>
+				<key>offset</key>
+				<string>{4,-4}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{10,10}</string>
+			</dict>
+			<key>res/ResourceMenuTab/ChuyenKhoan/btn_list_daily.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,16},{1,1}}</string>
+				<key>offset</key>
+				<string>{4,-4}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{10,10}</string>
+			</dict>
+			<key>res/ResourceMenuTab/ChuyenKhoan/btn_quydinh.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,19},{1,1}}</string>
+				<key>offset</key>
+				<string>{4,-4}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{10,10}</string>
+			</dict>
+			<key>res/ResourceMenuTab/ChuyenKhoan/btn_quydinh_s.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,22},{1,1}}</string>
+				<key>offset</key>
+				<string>{4,-4}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{10,10}</string>
+			</dict>
+			<key>res/ResourceMenuTab/ChuyenKhoan/btn_txt_chuyenkhoan.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,25},{1,1}}</string>
+				<key>offset</key>
+				<string>{4,-4}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{10,10}</string>
+			</dict>
+			<key>res/ResourceMenuTab/ChuyenKhoan/table_daily.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,28},{1,1}}</string>
+				<key>offset</key>
+				<string>{4,-4}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{10,10}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>PlistChuyenKhoan.png</string>
+			<key>realTextureFileName</key>
+			<string>PlistChuyenKhoan.png</string>
+			<key>size</key>
+			<string>{3,30}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>3</integer>
+			<key>height</key>
+			<integer>30</integer>
+		</dict>
+	</dict>
+</plist>

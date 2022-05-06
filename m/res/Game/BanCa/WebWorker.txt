@@ -1,0 +1,19 @@
+onmessage = function(event) {
+  var frameTime = event.data[0];
+  var timeUpdate = Date.now();
+  var accumulator = 0;
+  var fixedDT = 1/60;
+
+  setInterval(function() {
+       var time = Date.now();
+       var deltaTime = (time - timeUpdate) / 1000;
+       timeUpdate = time;
+
+       accumulator += Math.min(deltaTime, 0.1);
+       while(accumulator > fixedDT)
+       {
+           postMessage(fixedDT);
+           accumulator -= fixedDT;
+       }
+  }, frameTime);
+}

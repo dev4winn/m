@@ -1,0 +1,13 @@
+{
+    "android": {
+        "Facebook": {
+            "debug": false
+        }
+    }, 
+    "ios": {
+        "Facebook": {
+            "app_id":"911936332244929",
+            "debug": true
+        }
+    }
+}

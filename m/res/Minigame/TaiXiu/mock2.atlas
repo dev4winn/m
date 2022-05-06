@@ -1,0 +1,54 @@
+
+mock2.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+TX
+  rotate: true
+  xy: 1, 1
+  size: 126, 40
+  orig: 128, 42
+  offset: 1, 1
+  index: -1
+bg copy
+  rotate: true
+  xy: 1, 128
+  size: 189, 112
+  orig: 191, 114
+  offset: 1, 1
+  index: -1
+bg vang
+  rotate: true
+  xy: 1, 318
+  size: 191, 116
+  orig: 191, 116
+  offset: 0, 0
+  index: -1
+sao1
+  rotate: false
+  xy: 42, 7
+  size: 31, 27
+  orig: 33, 29
+  offset: 1, 1
+  index: -1
+sao2
+  rotate: false
+  xy: 90, 71
+  size: 25, 23
+  orig: 27, 25
+  offset: 1, 1
+  index: -1
+vua
+  rotate: true
+  xy: 42, 35
+  size: 92, 47
+  orig: 94, 49
+  offset: 1, 1
+  index: -1
+vuongmien
+  rotate: true
+  xy: 90, 95
+  size: 32, 25
+  orig: 34, 27
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,132 @@
+
+pockup_momo.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+120 copy
+  rotate: false
+  xy: 279, 12
+  size: 461, 222
+  orig: 463, 224
+  offset: 1, 1
+  index: -1
+2
+  rotate: false
+  xy: 2, 2
+  size: 275, 232
+  orig: 277, 234
+  offset: 1, 1
+  index: -1
+G1
+  rotate: true
+  xy: 929, 871
+  size: 106, 93
+  orig: 108, 95
+  offset: 1, 1
+  index: -1
+Group 4
+  rotate: false
+  xy: 2, 236
+  size: 925, 741
+  orig: 927, 743
+  offset: 1, 1
+  index: -1
+Layer 17
+  rotate: true
+  xy: 742, 22
+  size: 212, 266
+  orig: 214, 268
+  offset: 1, 1
+  index: -1
+
+pockup_momo2.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Group 4 copy
+  rotate: false
+  xy: 2, 278
+  size: 925, 741
+  orig: 927, 743
+  offset: 1, 1
+  index: -1
+KHUY?N MÃI
+  rotate: false
+  xy: 2, 124
+  size: 660, 152
+  orig: 662, 154
+  offset: 1, 1
+  index: -1
+Layer 7
+  rotate: true
+  xy: 664, 103
+  size: 173, 217
+  orig: 175, 219
+  offset: 1, 1
+  index: -1
+N?P MOMO
+  rotate: false
+  xy: 2, 23
+  size: 465, 99
+  orig: 467, 101
+  offset: 1, 1
+  index: -1
+N?P MOMO  copy
+  rotate: false
+  xy: 469, 2
+  size: 465, 99
+  orig: 467, 101
+  offset: 1, 1
+  index: -1
+
+pockup_momo3.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+120
+  rotate: false
+  xy: 2, 2
+  size: 461, 222
+  orig: 463, 224
+  offset: 1, 1
+  index: -1
+BG
+  rotate: false
+  xy: 2, 226
+  size: 867, 678
+  orig: 869, 680
+  offset: 1, 1
+  index: -1
+G2
+  rotate: false
+  xy: 465, 31
+  size: 187, 193
+  orig: 189, 195
+  offset: 1, 1
+  index: -1
+
+pockup_momo4.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+KHUY?N MÃI  copy
+  rotate: false
+  xy: 2, 658
+  size: 660, 152
+  orig: 662, 154
+  offset: 1, 1
+  index: -1
+Layer 14
+  rotate: false
+  xy: 378, 2
+  size: 566, 654
+  orig: 568, 656
+  offset: 1, 1
+  index: -1
+Layer 15
+  rotate: false
+  xy: 2, 283
+  size: 374, 373
+  orig: 376, 375
+  offset: 1, 1
+  index: -1

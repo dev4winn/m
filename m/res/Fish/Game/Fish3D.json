@@ -1,0 +1,313 @@
+{
+  "fish_type_1" :{
+    "name" : "",
+    "ti_le_ban" : [49],
+    "ti_le_an" : [2],
+    "anims" : {"Swim":{"name":"","frames":[0,19],"scaleTime":1.0}},
+    "scale" : 0.065,
+    "position" : [0,0,0],
+    "rotation" : [0,-90,0],
+    "box": [1.0,1.0],
+    "isBoss": false
+  },
+  "fish_type_2" :{
+    "name" : "",
+    "ti_le_ban" : [49],
+    "ti_le_an" : [2],
+    "anims" : {"Swim":{"name":"","frames":[0,19],"scaleTime":1.0}},
+    "scale" : 0.11,
+    "position" : [0,0,0],
+    "rotation" : [0,-90,0],
+    "box": [2,0.5],
+    "isBoss": false
+  },
+  "fish_type_3" :{
+    "name" : "",
+    "ti_le_ban" : [33],
+    "ti_le_an" : [3],
+    "anims" : {"Swim":{"name":"","frames":[],"scaleTime":1.0}},
+    "scale" : 365,
+    "position" : [0,0,0],
+    "rotation" : [-90,0,0],
+    "box": [1.5,1.5],
+    "isBoss": false
+  },
+  "fish_type_4" :{
+    "name" : "",
+    "ti_le_ban" : [19.6],
+    "ti_le_an" : [5],
+    "anims" : {"Swim":{"name":"","frames":[],"scaleTime":1.0}},
+    "scale" : 27,
+    "position" : [0,0,0],
+    "rotation" : [-90,0,0],
+    "box": [1.5,1.5],
+    "isBoss": false
+  },
+  "fish_type_5" :{
+    "name" : "",
+    "ti_le_ban" : [24.5],
+    "ti_le_an" : [4],
+    "anims" : {"Swim":{"name":"","frames":[],"scaleTime":1.0}},
+    "scale" : 500,
+    "position" : [0,0,0],
+    "rotation" : [-90,0,0],
+    "box": [1.0,1.0],
+    "isBoss": false
+  },
+
+  "fish_type_6" :{
+    "name" : "",
+    "ti_le_ban" : [16.3],
+    "ti_le_an" : [6],
+    "anims" : {"Swim":{"name":"","frames":[],"scaleTime":1.0}},
+    "scale" : 12,
+    "position" : [0,0,0],
+    "rotation" : [-90,0,0],
+    "box": [2.25,0.85],
+    "isBoss": false
+  },
+  "fish_type_7" :{
+    "name" : "",
+    "ti_le_ban" : [14],
+    "ti_le_an" : [7],
+    "anims" : {"Swim":{"name":"","frames":[],"scaleTime":1.0}},
+    "scale" : 15,
+    "position" : [0,0,0],
+    "rotation" : [90,0,0],
+    "box": [1.75,1.75],
+    "isBoss": false
+  },
+  "fish_type_8" :{
+    "name" : "",
+    "ti_le_ban" : [12.3],
+    "ti_le_an" : [8],
+    "anims" : {"Swim":{"name":"","frames":[],"scaleTime":1.0}},
+    "scale" : 17.5,
+    "position" : [0,0,0],
+    "rotation" : [90,0,0],
+    "box": [4,1],
+    "isBoss": false
+  },
+  "fish_type_9" :{
+    "name" : "",
+    "ti_le_ban" : [10.9],
+    "ti_le_an" : [12.5],
+    "anims" : {"Swim":{"name":"","frames":[],"scaleTime":1.0}},
+    "scale" : 15,
+    "position" : [0,0,0],
+    "rotation" : [90,0,0],
+    "box": [3,3],
+    "isBoss": false
+  },
+  "fish_type_10" :{
+    "name" : "",
+    "ti_le_ban" : [9.8],
+    "ti_le_an" : [10],
+    "anims" : {"Swim":{"name":"","frames":[],"scaleTime":1.0}},
+    "scale" : 250,
+    "position" : [0.0015,-0.04,0.08],
+    "rotation" : [90,0,-91],
+    "box": [2.75,1.75],
+    "isBoss": false
+  },
+  "fish_type_11" :{
+    "name" : "",
+    "ti_le_ban" : [8.2],
+    "ti_le_an" : [12],
+    "anims" : {"Swim":{"name":"","frames":[],"scaleTime":1.0}},
+    "scale" : 13,
+    "position" : [-0.65,0,-0.3],
+    "rotation" : [-90,0,0],
+    "box": [2.25,2.25],
+    "isBoss": false
+  },
+  "fish_type_12" :{
+    "name" : "",
+    "ti_le_ban" : [6.5],
+    "ti_le_an" : [15],
+    "anims" : {"Swim":{"name":"","frames":[],"scaleTime":1.0}},
+    "scale" : 17.5,
+    "position" : [-11.15,-6.7,17.47],
+    "rotation" : [90,0,0],
+    "box": [2.75,1.75],
+    "isBoss": false
+  },
+  "fish_type_13" :{
+    "name" : "",
+    "ti_le_ban" : [5.4],
+    "ti_le_an" : [18],
+    "anims" : {"Swim":{"name":"","frames":[],"scaleTime":1.0}},
+    "scale" : 9,
+    "position" : [-8.74,-6.31,15.77],
+    "rotation" : [90,0,0],
+    "box": [2.75,1.75],
+    "isBoss": false
+  },
+  "fish_type_14" :{
+    "name" : "",
+    "ti_le_ban" : [4.9],
+    "ti_le_an" : [20],
+    "anims" : {"Swim":{"name":"","frames":[],"scaleTime":1.0}},
+    "scale" : 18.5,
+    "position" : [0,0,0],
+    "rotation" : [-90,0,0],
+    "box": [2.25,2.25],
+    "isBoss": false
+  },
+  "fish_type_15" :{
+    "name" : "",
+    "ti_le_ban" : [3.9],
+    "ti_le_an" : [25],
+    "anims" : {"Swim":{"name":"","frames":[],"scaleTime":1.0}},
+    "scale" : 13,
+    "position" : [0,0,0],
+    "rotation" : [90,0,0],
+    "box": [6.25,2],
+    "isBoss": false
+  },
+  "fish_type_16" :{
+    "name" : "",
+    "ti_le_ban" : [3.3],
+    "ti_le_an" : [20],
+    "anims" : {"Swim":{"name":"","frames":[],"scaleTime":1.0}},
+    "scale" : 15,
+    "position" : [-0.31,0.17,0.44],
+    "rotation" : [-90,180,0],
+    "box": [5.5,3],
+    "isBoss": false
+  },
+  "fish_type_17" :{
+    "name" : "",
+    "ti_le_ban" : [2.45],
+    "ti_le_an" : [40],
+    "anims" : {"Swim":{"name":"","frames":[],"scaleTime":1.0}},
+    "scale" : 13,
+    "position" : [0.26,-0.17,0],
+    "rotation" : [90,0,0],
+    "box": [4,3.5],
+    "isBoss": false
+  },
+  "fish_type_18" :{
+    "name" : "",
+    "ti_le_ban" : [1.96],
+    "ti_le_an" : [50],
+    "anims" : {"Swim":{"name":"","frames":[],"scaleTime":1.0}},
+    "scale" : 15,
+    "position" : [0,0,0],
+    "rotation" : [90,0,0],
+    "box": [5.5,3.2],
+    "isBoss": false
+  },
+  "fish_type_19" :{
+    "name" : "",
+    "ti_le_ban" : [0.98],
+    "ti_le_an" : [100],
+    "anims" : {"Swim":{"name":"","frames":[],"scaleTime":1.0}},
+    "scale" : 12,
+    "position" : [0,0,0],
+    "rotation" : [-90,0,0],
+    "box": [5,2.5],
+    "isBoss": false
+  },
+  "fish_type_20" :{
+    "name" : "",
+    "ti_le_ban" : [0.65],
+    "ti_le_an" : [150],
+    "anims" : {"Swim":{"name":"","frames":[],"scaleTime":1.0}},
+    "scale" : 13,
+    "position" : [0.19,-0.4,0.71],
+    "rotation" : [0,180,-90],
+    "box": [6.25,2],
+    "isBoss": false
+  },
+  "fish_type_21" :{
+    "name" : "",
+    "ti_le_ban" : [0.49],
+    "ti_le_an" : [200],
+    "anims" : {"Swim":{"name":"","frames":[],"scaleTime":1.0}},
+    "scale" : 10,
+    "position" : [0,0,0],
+    "rotation" : [90,0,0],
+    "box": [12,1.25],
+    "isBoss": false
+  },
+  "fish_type_22" :{
+    "name" : "",
+    "ti_le_ban" : [0.33],
+    "ti_le_an" : [300],
+    "anims" : {"Swim":{"name":"","frames":[],"scaleTime":1.0}},
+    "scale" : 10,
+    "position" : [0,0,0],
+    "rotation" : [90,0,0],
+    "box": [12,1.25],
+    "isBoss": false
+  },
+  "fish_type_23" :{
+    "name" : "",
+    "ti_le_ban" : [2.45,9.8],
+    "ti_le_an" : [10,40],
+    "anims" : {"Swim":{"name":"","frames":[],"scaleTime":1.0}},
+    "scale" : 13,
+    "position" : [0,0,0],
+    "rotation" : [90,0,0],
+    "box": [6.5,3.5],
+    "isBoss": false
+  },
+  "fish_type_24" :{
+    "name" : "",
+    "ti_le_ban" : [1.23,3.27],
+    "ti_le_an" : [30,80],
+    "anims" : {"Swim":{"name":"","frames":[0,19],"scaleTime":1.0}},
+    "scale" : 16,
+    "position" : [0,0,0],
+    "rotation" : [-90,0,0],
+    "box": [6.5,3.5],
+    "isBoss": false
+  },
+  "fish_type_25" :{
+    "name" : "chua co",
+    "ti_le_ban" : [0.82,1.31],
+    "ti_le_an" : [75,120],
+    "anims" : {"Swim":{"name":"","frames":[],"scaleTime":1.0}},
+    "scale" : 15,
+    "position" : [-9.41,-4.60,15.54],
+    "rotation" : [90,0,0],
+    "box": [6.5,2.5],
+    "isBoss": false
+  },
+
+  "fish_type_26" :{
+    "name" : "",
+    "ti_le_ban" : [0.28,0.49],
+    "ti_le_an" : [200,350],
+    "anims" : {"Swim":{"name":"Move","frames":[],"scaleTime":1.0}},
+    "scale" : 7.5,
+    "position" : [0,0,0],
+    "rotation" : [90,0,0],
+    "box": [4,9.5],
+    "isBoss": false
+  },
+  "fish_type_27" :{
+    "name" : "",
+    "ti_le_ban" : [0.22,0.23],
+    "ti_le_an" : [300,450],
+    "anims" : {"Swim":{"name":"Move","frames":[],"scaleTime":1.0}},
+    "scale" : 3.5,
+    "position" : [-0.19,0.47,-2.91],
+    "rotation" : [90,0,0],
+    "box": [4,9.5],
+    "isBoss": false
+  },
+  "fish_type_28" :{
+    "name" : "",
+    "ti_le_ban" : [0.08,0.12],
+    "ti_le_an" : [800,1200],
+    "anims" : {"Swim":{"name":"Move","frames":[],"scaleTime":1.0}},
+    "scale" : 8,
+    "position" : [0,0,0],
+    "rotation" : [90,0,0],
+    "box": [4,9.5],
+    "isBoss": false
+  }
+
+}

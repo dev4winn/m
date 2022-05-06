@@ -1,0 +1,41 @@
+
+VQ_NG.png
+size: 657,217
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG
+  rotate: true
+  xy: 2, 2
+  size: 213, 415
+  orig: 213, 415
+  offset: 0, 0
+  index: -1
+Day_Phai
+  rotate: true
+  xy: 419, 11
+  size: 35, 134
+  orig: 35, 134
+  offset: 0, 0
+  index: -1
+Day_Trai
+  rotate: true
+  xy: 531, 91
+  size: 24, 124
+  orig: 24, 124
+  offset: 0, 0
+  index: -1
+Mat_glow
+  rotate: false
+  xy: 419, 48
+  size: 110, 67
+  orig: 110, 67
+  offset: 0, 0
+  index: -1
+Ten_Game
+  rotate: false
+  xy: 419, 117
+  size: 231, 98
+  orig: 231, 98
+  offset: 0, 0
+  index: -1

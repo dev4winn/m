@@ -1,0 +1,3 @@
+NOTIFY_GAME_1           = "Theo vÃ²ng @name sÃ¢m trÆ°á»›c, má»i Ä‘Ã¡nh !"
+NOTIFY_GAME_2           = "ChÃºc má»«ng báº¡n Ä‘Æ°á»£c "@type" ,chá»n tá»›i tráº¯ng Ä‘á»ƒ SÃ¢m ngay hoáº·c há»§y bÃ¡o Ä‘á»ƒ chÆ¡i tiáº¿p"
+NOTIFY_GAME_3 			= "@name Ä‘Æ°á»£c Ä‘i lÆ°á»£t Ä‘áº§u tiÃªn"

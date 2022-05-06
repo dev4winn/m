@@ -1,0 +1,40 @@
+
+spine_sk_tet.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 36
+  rotate: true
+  xy: 86, 50
+  size: 235, 139
+  orig: 237, 141
+  offset: 1, 1
+  index: -1
+T?T NAGA
+  rotate: false
+  xy: 86, 1
+  size: 199, 48
+  orig: 201, 50
+  offset: 1, 1
+  index: -1
+chuot
+  rotate: false
+  xy: 226, 124
+  size: 162, 161
+  orig: 164, 163
+  offset: 1, 1
+  index: -1
+khung
+  rotate: true
+  xy: 1, 8
+  size: 277, 84
+  orig: 279, 86
+  offset: 1, 1
+  index: -1
+vang3
+  rotate: false
+  xy: 286, 52
+  size: 102, 71
+  orig: 104, 73
+  offset: 1, 1
+  index: -1

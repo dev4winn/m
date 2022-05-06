@@ -1,0 +1,33 @@
+{
+"bones": [
+	{ "name": "root" },
+	{ "name": "bone", "parent": "root", "length": 95, "x": -13.49, "y": 3.99, "rotation": 90.45 }
+],
+"slots": [
+	{ "name": "Layer 0", "bone": "root" },
+	{ "name": "cx5", "bone": "bone", "attachment": "cx5" }
+],
+"skins": {
+	"default": {
+		"Layer 0": {
+			"Layer 0": { "x": 153.5, "y": -91, "width": 309, "height": 184 }
+		},
+		"cx5": {
+			"cx5": { "x": 18.9, "y": -11.64, "rotation": -90.45, "width": 304, "height": 170 }
+		}
+	}
+},
+"animations": {
+	"animation": {
+		"bones": {
+			"bone": {
+				"scale": [
+					{ "time": 0, "x": 0.97, "y": 1 },
+					{ "time": 0.3333, "x": 1, "y": 1 },
+					{ "time": 0.6666, "x": 0.97, "y": 1 }
+				]
+			}
+		}
+	}
+}
+}

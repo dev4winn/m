@@ -1,0 +1,12 @@
+
+XE.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+mec
+  rotate: false
+  xy: 1, 1
+  size: 480, 251
+  orig: 482, 253
+  offset: 1, 1
+  index: -1

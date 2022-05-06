@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!--Honghaier Game Editor : Version 1.0 -->
+<plist version="1.0">
+	<dict>
+		<key>animations</key>
+		<dict>
+			<key>fish_1_swim</key>
+			<dict>
+				<key>delay</key>
+				<real>0.0500</real>
+				<key>frames</key>
+				<array>
+					<string>ca vang-8-1.png</string>
+					<string>ca vang-8-2.png</string>
+					<string>ca vang-8-4.png</string>
+					<string>ca vang-8-5.png</string>
+					<string>ca vang-8-6.png</string>
+					<string>ca vang-8-7.png</string>
+					<string>ca vang-8-8.png</string>
+					<string>ca vang-8-9.png</string>
+					<string>ca vang-8-10.png</string>
+					<string>ca vang-8-11.png</string>
+					<string>ca vang-8-12.png</string>
+					<string>ca vang-8-13.png</string>
+					<string>ca vang-8-14.png</string>
+				</array>
+			</dict>
+		</dict>
+	</dict>
+</plist>

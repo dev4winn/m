@@ -1,0 +1,225 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>res/ResourceMenuTab/Mail/bgtab_mail_small.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,245},{931,103}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{931,103}</string>
+			</dict>
+			<key>res/ResourceMenuTab/Mail/bg_supersmaill_mail.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{560,242}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{560,242}</string>
+			</dict>
+			<key>res/ResourceMenuTab/Mail/btnBin.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{865,120},{66,66}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{66,66}</string>
+			</dict>
+			<key>res/ResourceMenuTab/Mail/btnClose.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,350},{66,66}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{66,66}</string>
+			</dict>
+			<key>res/ResourceMenuTab/Mail/btnClose_s.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,418},{65,66}}</string>
+				<key>offset</key>
+				<string>{-1,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{66,66}</string>
+			</dict>
+			<key>res/ResourceMenuTab/Mail/btn_readmail.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{997,1},{1,1}}</string>
+				<key>offset</key>
+				<string>{48,-465}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{98,931}</string>
+			</dict>
+			<key>res/ResourceMenuTab/Mail/button.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{563,1},{363,58}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{365,58}</string>
+			</dict>
+			<key>res/ResourceMenuTab/Mail/button_s.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{563,61},{363,57}}</string>
+				<key>offset</key>
+				<string>{0,1}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{365,58}</string>
+			</dict>
+			<key>res/ResourceMenuTab/Mail/IconMail.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{68,418},{77,52}}</string>
+				<key>offset</key>
+				<string>{0,-15}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{77,82}</string>
+			</dict>
+			<key>res/ResourceMenuTab/Mail/IconMail_s.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{786,120},{77,82}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{77,82}</string>
+			</dict>
+			<key>res/ResourceMenuTab/Mail/link_fanpage.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1000,1},{1,1}}</string>
+				<key>offset</key>
+				<string>{132,-10}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{265,22}</string>
+			</dict>
+			<key>res/ResourceMenuTab/Mail/link_group.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1003,1},{1,1}}</string>
+				<key>offset</key>
+				<string>{187,-11}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{376,23}</string>
+			</dict>
+			<key>res/ResourceMenuTab/Mail/link_homepage.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1006,1},{1,1}}</string>
+				<key>offset</key>
+				<string>{71,-9}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{144,19}</string>
+			</dict>
+			<key>res/ResourceMenuTab/Mail/link_hotro.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1009,1},{1,1}}</string>
+				<key>offset</key>
+				<string>{74,-9}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{150,20}</string>
+			</dict>
+			<key>res/ResourceMenuTab/Mail/link_new.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1012,1},{1,1}}</string>
+				<key>offset</key>
+				<string>{66,-9}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{134,20}</string>
+			</dict>
+			<key>res/ResourceMenuTab/Mail/maxacnhan.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{563,120},{221,50}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{221,50}</string>
+			</dict>
+			<key>res/ResourceMenuTab/Mail/Title.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{934,1},{474,61}}</string>
+				<key>offset</key>
+				<string>{0,1}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{478,62}</string>
+			</dict>
+			<key>res/ResourceMenuTab/Mail/xbutton.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{563,172},{187,46}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{187,46}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>PlistMail.png</string>
+			<key>realTextureFileName</key>
+			<string>PlistMail.png</string>
+			<key>size</key>
+			<string>{1014,496}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>1014</integer>
+			<key>height</key>
+			<integer>496</integer>
+		</dict>
+	</dict>
+</plist>

@@ -1,0 +1,54 @@
+
+girl.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+GIRL
+  rotate: true
+  xy: 1, 14
+  size: 364, 557
+  orig: 366, 559
+  offset: 1, 1
+  index: -1
+mat phai
+  rotate: false
+  xy: 559, 232
+  size: 30, 16
+  orig: 32, 18
+  offset: 1, 1
+  index: -1
+mat trai
+  rotate: false
+  xy: 559, 216
+  size: 28, 15
+  orig: 30, 17
+  offset: 1, 1
+  index: -1
+phai dong
+  rotate: false
+  xy: 1, 1
+  size: 27, 12
+  orig: 29, 14
+  offset: 1, 1
+  index: -1
+tai trai
+  rotate: false
+  xy: 559, 306
+  size: 35, 72
+  orig: 37, 74
+  offset: 1, 1
+  index: -1
+taiphai
+  rotate: true
+  xy: 559, 249
+  size: 56, 37
+  orig: 58, 39
+  offset: 1, 1
+  index: -1
+trai dong
+  rotate: false
+  xy: 559, 201
+  size: 26, 14
+  orig: 28, 16
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,19 @@
+
+GIF.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+G1
+  rotate: false
+  xy: 189, 61
+  size: 100, 122
+  orig: 102, 124
+  offset: 1, 1
+  index: -1
+G2
+  rotate: false
+  xy: 1, 1
+  size: 187, 182
+  orig: 189, 184
+  offset: 1, 1
+  index: -1

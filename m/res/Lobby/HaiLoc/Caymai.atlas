@@ -1,0 +1,90 @@
+
+Caymai.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Canh_Phai
+  rotate: false
+  xy: 2, 249
+  size: 318, 155
+  orig: 318, 155
+  offset: 0, 0
+  index: -1
+Canh_top
+  rotate: false
+  xy: 2, 639
+  size: 546, 331
+  orig: 546, 331
+  offset: 0, 0
+  index: -1
+Canh_trai
+  rotate: false
+  xy: 2, 91
+  size: 258, 156
+  orig: 258, 156
+  offset: 0, 0
+  index: -1
+Canhhoa1
+  rotate: false
+  xy: 513, 611
+  size: 27, 26
+  orig: 27, 26
+  offset: 0, 0
+  index: -1
+Canhhoa2
+  rotate: false
+  xy: 918, 856
+  size: 17, 16
+  orig: 17, 16
+  offset: 0, 0
+  index: -1
+Canhhoa3
+  rotate: false
+  xy: 550, 649
+  size: 26, 27
+  orig: 26, 27
+  offset: 0, 0
+  index: -1
+Gift
+  rotate: false
+  xy: 2, 406
+  size: 509, 231
+  orig: 509, 231
+  offset: 0, 0
+  index: -1
+Thancay
+  rotate: true
+  xy: 550, 678
+  size: 292, 366
+  orig: 292, 366
+  offset: 0, 0
+  index: -1
+li_Xi 3
+  rotate: false
+  xy: 262, 169
+  size: 52, 78
+  orig: 52, 78
+  offset: 0, 0
+  index: -1
+li_Xi1
+  rotate: false
+  xy: 322, 317
+  size: 52, 87
+  orig: 52, 87
+  offset: 0, 0
+  index: -1
+li_Xi2
+  rotate: false
+  xy: 918, 874
+  size: 52, 96
+  orig: 52, 96
+  offset: 0, 0
+  index: -1
+li_Xi4
+  rotate: false
+  xy: 2, 2
+  size: 52, 87
+  orig: 52, 87
+  offset: 0, 0
+  index: -1

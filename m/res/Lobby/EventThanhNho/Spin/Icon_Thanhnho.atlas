@@ -1,0 +1,83 @@
+
+Icon_Thanhnho.png
+size: 236,268
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BT
+  rotate: false
+  xy: 2, 203
+  size: 221, 63
+  orig: 221, 63
+  offset: 0, 0
+  index: -1
+SH_Trang
+  rotate: false
+  xy: 56, 102
+  size: 100, 99
+  orig: 100, 99
+  offset: 0, 0
+  index: -1
+Sao1
+  rotate: true
+  xy: 85, 14
+  size: 33, 31
+  orig: 33, 31
+  offset: 0, 0
+  index: -1
+Sao2
+  rotate: false
+  xy: 85, 83
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+Sao3
+  rotate: true
+  xy: 85, 53
+  size: 21, 20
+  orig: 21, 20
+  offset: 0, 0
+  index: -1
+Sao4
+  rotate: false
+  xy: 118, 76
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+Saoto_1
+  rotate: false
+  xy: 158, 49
+  size: 75, 75
+  orig: 75, 75
+  offset: 0, 0
+  index: -1
+Saoto_2
+  rotate: false
+  xy: 158, 126
+  size: 76, 75
+  orig: 76, 75
+  offset: 0, 0
+  index: -1
+flare1
+  rotate: false
+  xy: 118, 25
+  size: 75, 22
+  orig: 75, 22
+  offset: 0, 0
+  index: -1
+flare2
+  rotate: true
+  xy: 56, 2
+  size: 98, 27
+  orig: 98, 27
+  offset: 0, 0
+  index: -1
+text
+  rotate: true
+  xy: 2, 16
+  size: 185, 52
+  orig: 185, 52
+  offset: 0, 0
+  index: -1

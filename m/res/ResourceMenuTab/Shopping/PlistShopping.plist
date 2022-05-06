@@ -1,0 +1,170 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>res/ResourceMenuTab/Shopping/bg_2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{395,455},{357,50}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{357,50}</string>
+			</dict>
+			<key>res/ResourceMenuTab/Shopping/bg_3.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{754,404},{107,50}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{107,50}</string>
+			</dict>
+			<key>res/ResourceMenuTab/Shopping/bg_menhgiathe.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{540,392}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{540,392}</string>
+			</dict>
+			<key>res/ResourceMenuTab/Shopping/bonus.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{981,218},{56,39}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{56,39}</string>
+			</dict>
+			<key>res/ResourceMenuTab/Shopping/btn_shop.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,543},{1,1}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{1,1}</string>
+			</dict>
+			<key>res/ResourceMenuTab/Shopping/ChuyenKhoan.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{395,228},{225,184}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{225,184}</string>
+			</dict>
+			<key>res/ResourceMenuTab/Shopping/MuaMaTheDT.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{395,1},{225,188}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{225,188}</string>
+			</dict>
+			<key>res/ResourceMenuTab/Shopping/MuaMaTheGame.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{754,218},{225,184}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{225,184}</string>
+			</dict>
+			<key>res/ResourceMenuTab/Shopping/muiten_xuong.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1008,1},{27,14}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{27,14}</string>
+			</dict>
+			<key>res/ResourceMenuTab/Shopping/txt_bank.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{395,507},{346,40}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{346,40}</string>
+			</dict>
+			<key>res/ResourceMenuTab/Shopping/txt_dauso.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{986,129},{87,28}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{87,28}</string>
+			</dict>
+			<key>res/ResourceMenuTab/Shopping/txt_the.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{986,1},{126,20}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{126,20}</string>
+			</dict>
+			<key>res/ResourceMenuTab/Shopping/txt_the2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{743,507},{241,33}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{241,33}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>PlistShopping.png</string>
+			<key>realTextureFileName</key>
+			<string>PlistShopping.png</string>
+			<key>size</key>
+			<string>{1023,548}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>1023</integer>
+			<key>height</key>
+			<integer>548</integer>
+		</dict>
+	</dict>
+</plist>

@@ -1,0 +1,3 @@
+System.ArgumentException: ä½¿ç”¨ã•ã‚ŒãŸãƒ‘ãƒ©ãƒ¡ãƒ¼ã‚¿ãƒ¼ãŒæœ‰åŠ¹ã§ã¯ã‚ã‚Šã¾ã›ã‚“ã€‚
+   å ´æ‰€ System.Drawing.Bitmap..ctor(String filename)
+   å ´æ‰€ Effekseer.GUI.Component.PathForImage.UpdatePreview(String path)

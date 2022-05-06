@@ -1,0 +1,131 @@
+
+thanhnhoS.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Background
+  rotate: false
+  xy: 1, 15
+  size: 1232, 698
+  orig: 1234, 700
+  offset: 1, 1
+  index: -1
+bodysau
+  rotate: false
+  xy: 1234, 119
+  size: 167, 594
+  orig: 169, 596
+  offset: 1, 1
+  index: -1
+canh trai
+  rotate: false
+  xy: 1564, 592
+  size: 69, 121
+  orig: 71, 123
+  offset: 1, 1
+  index: -1
+chan phai
+  rotate: false
+  xy: 1482, 345
+  size: 81, 368
+  orig: 83, 370
+  offset: 1, 1
+  index: -1
+chan trai
+  rotate: false
+  xy: 1402, 336
+  size: 79, 377
+  orig: 81, 379
+  offset: 1, 1
+  index: -1
+hong
+  rotate: false
+  xy: 1402, 121
+  size: 117, 83
+  orig: 119, 85
+  offset: 1, 1
+  index: -1
+phai xanh phai
+  rotate: true
+  xy: 1564, 451
+  size: 65, 62
+  orig: 67, 64
+  offset: 1, 1
+  index: -1
+phao cam
+  rotate: false
+  xy: 1564, 395
+  size: 54, 55
+  orig: 56, 57
+  offset: 1, 1
+  index: -1
+phao cam trai
+  rotate: true
+  xy: 1564, 342
+  size: 52, 56
+  orig: 54, 58
+  offset: 1, 1
+  index: -1
+phao tim
+  rotate: false
+  xy: 1610, 41
+  size: 18, 48
+  orig: 20, 50
+  offset: 1, 1
+  index: -1
+phao vang
+  rotate: false
+  xy: 1531, 302
+  size: 28, 42
+  orig: 30, 44
+  offset: 1, 1
+  index: -1
+qua 1
+  rotate: false
+  xy: 1431, 20
+  size: 85, 100
+  orig: 87, 102
+  offset: 1, 1
+  index: -1
+qua 2
+  rotate: true
+  xy: 1234, 1
+  size: 117, 123
+  orig: 119, 125
+  offset: 1, 1
+  index: -1
+qua trai do
+  rotate: true
+  xy: 1564, 517
+  size: 74, 61
+  orig: 76, 63
+  offset: 1, 1
+  index: -1
+tay phai
+  rotate: false
+  xy: 1358, 11
+  size: 72, 107
+  orig: 74, 109
+  offset: 1, 1
+  index: -1
+tay trai
+  rotate: false
+  xy: 1517, 14
+  size: 92, 75
+  orig: 94, 77
+  offset: 1, 1
+  index: -1
+xx1
+  rotate: false
+  xy: 1402, 205
+  size: 128, 130
+  orig: 128, 130
+  offset: 0, 0
+  index: -1
+xx2
+  rotate: false
+  xy: 1520, 90
+  size: 115, 114
+  orig: 128, 130
+  offset: 7, 8
+  index: -1

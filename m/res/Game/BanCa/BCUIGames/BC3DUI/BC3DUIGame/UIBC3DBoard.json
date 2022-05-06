@@ -1,0 +1,4792 @@
+{
+  "ID": "530496b6-7ed9-4bf3-ae7a-d2bd1af14231",
+  "Version": "3.10.0.0",
+  "Name": "UIBC3DBoard",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 41,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "res/Game/BanCa/BCUIGames/BC3DUI/BC3DUIAtlas/BCBG1.jpg",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 325,
+            "ActionTag": -1824281105,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "Name": "UIBackground",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 122,
+            "ActionTag": 359611383,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "Name": "UIPlayGround",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PercentWidthEnable": true,
+            "PercentHeightEnable": true,
+            "PercentWidthEnabled": true,
+            "PercentHeightEnabled": true,
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 2696,
+            "Children": [
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Normal",
+                  "Path": "res/Game/BanCa/BCUIComponent/BCUIComponentAtlas/auto_off.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "res/Game/BanCa/BCUIComponent/BCUIComponentAtlas/auto_off.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "res/Game/BanCa/BCUIComponent/BCUIComponentAtlas/auto_off.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 41,
+                "Scale9Height": 49,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 640.0822,
+                  "Y": 37.5658
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5001,
+                  "Y": 0.0522
+                },
+                "PreSize": {
+                  "X": 0.0555,
+                  "Y": 0.0986
+                },
+                "LeftMargin": 604.5822,
+                "RightMargin": 604.4178,
+                "TopMargin": 646.9342,
+                "BottomMargin": 2.0658,
+                "Tag": 179,
+                "ActionTag": -2114686532,
+                "Size": {
+                  "X": 71.0,
+                  "Y": 71.0
+                },
+                "Name": "button_auto",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 330.0,
+                  "Y": 37.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": true,
+                "PrePosition": {
+                  "X": 0.2578,
+                  "Y": 0.0514
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 330.0,
+                "RightMargin": 950.0,
+                "TopMargin": 683.0,
+                "BottomMargin": 37.0,
+                "Tag": 2659,
+                "Children": [
+                  {
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": -220.0,
+                      "Y": 0.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": true,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": -220.0,
+                    "RightMargin": 220.0,
+                    "Tag": 710,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "PlistSubImage",
+                          "Path": "ImgGunBgPlayer.png",
+                          "Plist": "res/Game/BanCa/BCUIGames/BC3DUI/BC3DUIAtlas/RES3DGun.plist"
+                        },
+                        "Scale9Enable": true,
+                        "Scale9OriginX": 50,
+                        "Scale9OriginY": 22,
+                        "Scale9Width": 67,
+                        "Scale9Height": 40,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 20.0,
+                          "Y": 20.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "LeftMargin": -63.5,
+                        "RightMargin": -103.5,
+                        "TopMargin": -62.0,
+                        "BottomMargin": -22.0,
+                        "Tag": 709,
+                        "ActionTag": -206901328,
+                        "Size": {
+                          "X": 167.0,
+                          "Y": 84.0
+                        },
+                        "Name": "Background",
+                        "ctype": "ImageViewObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "Default",
+                          "Path": "res/Lobby/Default/ImageFile.png",
+                          "Plist": ""
+                        },
+                        "Scale9OriginX": 9,
+                        "Scale9OriginY": 9,
+                        "Scale9Width": 28,
+                        "Scale9Height": 28,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": -56.0,
+                          "Y": 18.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "LeftMargin": -113.5,
+                        "RightMargin": -1.5,
+                        "TopMargin": -75.5,
+                        "BottomMargin": -39.5,
+                        "Tag": 451,
+                        "ActionTag": -462784023,
+                        "Size": {
+                          "X": 115.0,
+                          "Y": 115.0
+                        },
+                        "VisibleForFrame": false,
+                        "Name": "Avatar",
+                        "ctype": "ImageViewObjectData"
+                      },
+                      {
+                        "FontSize": 18,
+                        "LabelText": "999.999.999",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "res/Game/BanCa/BCCommon/BCFonts/UTMFacebookRKT.ttf",
+                          "Plist": ""
+                        },
+                        "OutlineColor": {
+                          "R": 95,
+                          "G": 41,
+                          "B": 10
+                        },
+                        "OutlineEnabled": true,
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 34.0,
+                          "Y": 3.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {
+                          "B": 0
+                        },
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "LeftMargin": -13.5,
+                        "RightMargin": -81.5,
+                        "TopMargin": -15.0,
+                        "BottomMargin": -9.0,
+                        "Tag": 194,
+                        "ActionTag": -1066619670,
+                        "Size": {
+                          "X": 95.0,
+                          "Y": 24.0
+                        },
+                        "Name": "TextGold",
+                        "ctype": "TextObjectData"
+                      },
+                      {
+                        "FontSize": 19,
+                        "LabelText": "0",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "res/Game/BanCa/BCCommon/BCFonts/UTMFacebookRKT.ttf",
+                          "Plist": ""
+                        },
+                        "OutlineColor": {
+                          "R": 0,
+                          "G": 0,
+                          "B": 0
+                        },
+                        "OutlineEnabled": true,
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": -41.0,
+                          "Y": 41.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "LeftMargin": -48.0,
+                        "RightMargin": 34.0,
+                        "TopMargin": -53.5,
+                        "BottomMargin": 28.5,
+                        "Tag": 2622,
+                        "ActionTag": -321046932,
+                        "Size": {
+                          "X": 14.0,
+                          "Y": 25.0
+                        },
+                        "Name": "TextLevel",
+                        "ctype": "TextObjectData"
+                      },
+                      {
+                        "FontSize": 22,
+                        "LabelText": "1123123123",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "res/Game/BanCa/BCCommon/BCFonts/UTMFacebookRKT.ttf",
+                          "Plist": ""
+                        },
+                        "HorizontalAlignmentType": "HT_Center",
+                        "VerticalAlignmentType": "VT_Center",
+                        "OutlineColor": {
+                          "R": 102,
+                          "G": 45,
+                          "B": 11
+                        },
+                        "OutlineEnabled": true,
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 33.0,
+                          "Y": 41.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {
+                          "B": 0
+                        },
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "LeftMargin": -17.5,
+                        "RightMargin": -83.5,
+                        "TopMargin": -55.5,
+                        "BottomMargin": 26.5,
+                        "Tag": 2621,
+                        "ActionTag": 569292468,
+                        "Size": {
+                          "X": 101.0,
+                          "Y": 29.0
+                        },
+                        "Name": "TextDisplayName",
+                        "ctype": "TextObjectData"
+                      }
+                    ],
+                    "ActionTag": 402730019,
+                    "Size": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "Name": "PlayerInfo",
+                    "ctype": "SingleNodeObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "ImgGunBorder.png",
+                      "Plist": "res/Game/BanCa/BCUIGames/BC3DUI/BC3DUIAtlas/RES3DGun.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 0.0,
+                      "Y": 15.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": -102.0,
+                    "RightMargin": -102.0,
+                    "TopMargin": -66.5,
+                    "BottomMargin": -36.5,
+                    "Tag": 808,
+                    "ActionTag": -727926023,
+                    "Size": {
+                      "X": 204.0,
+                      "Y": 103.0
+                    },
+                    "Name": "ImgGunBorder",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "ImgGunBase.png",
+                      "Plist": "res/Game/BanCa/BCUIGames/BC3DUI/BC3DUIAtlas/RES3DGun.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": -106.5,
+                    "RightMargin": -106.5,
+                    "TopMargin": -46.5,
+                    "BottomMargin": -46.5,
+                    "Tag": 2658,
+                    "ActionTag": 1413388414,
+                    "Size": {
+                      "X": 213.0,
+                      "Y": 93.0
+                    },
+                    "Name": "ImgGunBase",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": true,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "Tag": 2616,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "PlistSubImage",
+                          "Path": "ImgGunFlash_0.png",
+                          "Plist": "res/Game/BanCa/BCUIGames/BC3DUI/BC3DUIAtlas/RES3DGun.plist"
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 0.0,
+                          "Y": 90.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "LeftMargin": -74.0,
+                        "RightMargin": -74.0,
+                        "TopMargin": -137.5,
+                        "BottomMargin": 42.5,
+                        "Tag": 2697,
+                        "ActionTag": 373686958,
+                        "Size": {
+                          "X": 148.0,
+                          "Y": 95.0
+                        },
+                        "Name": "FlashFire",
+                        "ctype": "SpriteObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "PlistSubImage",
+                          "Path": "ImgGun_0.png",
+                          "Plist": "res/Game/BanCa/BCUIGames/BC3DUI/BC3DUIAtlas/RES3DGun.plist"
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 0.0,
+                          "Y": 20.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "LeftMargin": -76.0,
+                        "RightMargin": -76.0,
+                        "TopMargin": -85.5,
+                        "BottomMargin": -45.5,
+                        "Tag": 2617,
+                        "ActionTag": -1020716649,
+                        "Size": {
+                          "X": 152.0,
+                          "Y": 131.0
+                        },
+                        "Name": "Barrel",
+                        "ctype": "SpriteObjectData"
+                      }
+                    ],
+                    "ActionTag": 226889687,
+                    "Size": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "Name": "Gun",
+                    "ctype": "SingleNodeObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "ImgGunMask.png",
+                      "Plist": "res/Game/BanCa/BCUIGames/BC3DUI/BC3DUIAtlas/RES3DGun.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 0.0,
+                      "Y": -25.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": -45.5,
+                    "RightMargin": -45.5,
+                    "TopMargin": 13.5,
+                    "BottomMargin": -36.5,
+                    "Tag": 2618,
+                    "Children": [
+                      {
+                        "CharWidth": 13,
+                        "CharHeight": 16,
+                        "LabelText": "0",
+                        "StartChar": ".",
+                        "LabelAtlasFileImage_CNB": {
+                          "Type": "Normal",
+                          "Path": "res/Game/BanCa/BCCommon/BCFonts/ImgTextGun.png",
+                          "Plist": ""
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 45.5,
+                          "Y": 11.5
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.5
+                        },
+                        "PreSize": {
+                          "X": 0.1429,
+                          "Y": 0.6957
+                        },
+                        "LeftMargin": 39.0,
+                        "RightMargin": 39.0,
+                        "TopMargin": 3.5,
+                        "BottomMargin": 3.5,
+                        "Tag": 632,
+                        "ActionTag": -1186459628,
+                        "Size": {
+                          "X": 13.0,
+                          "Y": 16.0
+                        },
+                        "Name": "TextBulletValue",
+                        "ctype": "TextAtlasObjectData"
+                      }
+                    ],
+                    "ActionTag": -105138491,
+                    "Size": {
+                      "X": 91.0,
+                      "Y": 23.0
+                    },
+                    "Name": "GunMask",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "ImgBtnGunPlus.png",
+                      "Plist": "res/Game/BanCa/BCUIGames/BC3DUI/BC3DUIAtlas/RES3DGun.plist"
+                    },
+                    "Scale9OriginX": 13,
+                    "Scale9OriginY": 13,
+                    "Scale9Width": 18,
+                    "Scale9Height": 18,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 78.0,
+                      "Y": 0.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 56.0,
+                    "RightMargin": -100.0,
+                    "TopMargin": -22.0,
+                    "BottomMargin": -22.0,
+                    "Tag": 66,
+                    "ActionTag": -567741249,
+                    "Size": {
+                      "X": 44.0,
+                      "Y": 44.0
+                    },
+                    "Name": "BtnGunPlus",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "ImgBtnGunMius.png",
+                      "Plist": "res/Game/BanCa/BCUIGames/BC3DUI/BC3DUIAtlas/RES3DGun.plist"
+                    },
+                    "Scale9OriginX": 13,
+                    "Scale9OriginY": 13,
+                    "Scale9Width": 18,
+                    "Scale9Height": 18,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": -78.0,
+                      "Y": 0.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": -100.0,
+                    "RightMargin": 56.0,
+                    "TopMargin": -22.0,
+                    "BottomMargin": -22.0,
+                    "Tag": 258,
+                    "ActionTag": 1929353623,
+                    "Size": {
+                      "X": 44.0,
+                      "Y": 44.0
+                    },
+                    "Name": "BtnGunMinus",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "ImgGunAimBg.png",
+                      "Plist": "res/Game/BanCa/BCUIGames/BC3DUI/BC3DUIAtlas/RES3DGun.plist"
+                    },
+                    "Scale9OriginX": 23,
+                    "Scale9OriginY": 19,
+                    "Scale9Width": 26,
+                    "Scale9Height": 21,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 145.0,
+                      "Y": 0.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 109.0,
+                    "RightMargin": -181.0,
+                    "TopMargin": -29.5,
+                    "BottomMargin": -29.5,
+                    "Tag": 176,
+                    "Children": [
+                      {
+                        "IsCustomSize": true,
+                        "FontSize": 20,
+                        "LabelText": "Hủy Khóa",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "res/Game/BanCa/BCCommon/BCFonts/arial.ttf",
+                          "Plist": ""
+                        },
+                        "HorizontalAlignmentType": "HT_Center",
+                        "VerticalAlignmentType": "VT_Center",
+                        "OutlineColor": {
+                          "R": 127,
+                          "G": 127,
+                          "B": 127
+                        },
+                        "OutlineEnabled": true,
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 36.0,
+                          "Y": 29.5
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.5
+                        },
+                        "PreSize": {
+                          "X": 1.3611,
+                          "Y": 0.4915
+                        },
+                        "LeftMargin": -13.0,
+                        "RightMargin": -13.0,
+                        "TopMargin": 15.0,
+                        "BottomMargin": 15.0,
+                        "Tag": 251,
+                        "ActionTag": -682678901,
+                        "Size": {
+                          "X": 98.0,
+                          "Y": 29.0
+                        },
+                        "Name": "TextLock",
+                        "ctype": "TextObjectData"
+                      }
+                    ],
+                    "ActionTag": -8504706,
+                    "Size": {
+                      "X": 72.0,
+                      "Y": 59.0
+                    },
+                    "Name": "BtnAim",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "ImgSkillBarBG.png",
+                      "Plist": "res/Game/BanCa/BCUIGames/BC3DUI/BC3DUIAtlas/RES3DGun.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 220.0,
+                      "Y": 0.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "RotationSkewX": -90.0,
+                    "RotationSkewY": -90.0,
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 183.0,
+                    "RightMargin": -257.0,
+                    "TopMargin": -36.5,
+                    "BottomMargin": -36.5,
+                    "Tag": 177,
+                    "Children": [
+                      {
+                        "ProgressInfo": 0,
+                        "ImageFileData": {
+                          "Type": "PlistSubImage",
+                          "Path": "ImgSkillBar.png",
+                          "Plist": "res/Game/BanCa/BCUIGames/BC3DUI/BC3DUIAtlas/RES3DGun.plist"
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 37.0,
+                          "Y": 36.5
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.5
+                        },
+                        "PreSize": {
+                          "X": 0.8378,
+                          "Y": 0.8356
+                        },
+                        "LeftMargin": 6.0,
+                        "RightMargin": 6.0,
+                        "TopMargin": 6.0,
+                        "BottomMargin": 6.0,
+                        "Tag": 89,
+                        "ActionTag": 2084553663,
+                        "Size": {
+                          "X": 62.0,
+                          "Y": 61.0
+                        },
+                        "Name": "Loading",
+                        "ctype": "LoadingBarObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "PlistSubImage",
+                          "Path": "ImgIconLazer.png",
+                          "Plist": "res/Game/BanCa/BCUIGames/BC3DUI/BC3DUIAtlas/RES3DGun.plist"
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 37.0,
+                          "Y": 36.5
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.5
+                        },
+                        "PreSize": {
+                          "X": 0.8378,
+                          "Y": 0.8356
+                        },
+                        "LeftMargin": 6.0,
+                        "RightMargin": 6.0,
+                        "TopMargin": 6.0,
+                        "BottomMargin": 6.0,
+                        "Tag": 90,
+                        "ActionTag": -2096868826,
+                        "Size": {
+                          "X": 62.0,
+                          "Y": 61.0
+                        },
+                        "VisibleForFrame": false,
+                        "Name": "IconSkill",
+                        "ctype": "SpriteObjectData"
+                      }
+                    ],
+                    "ActionTag": -2041746353,
+                    "Size": {
+                      "X": 74.0,
+                      "Y": 73.0
+                    },
+                    "Name": "GunSkill",
+                    "ctype": "SpriteObjectData"
+                  }
+                ],
+                "ActionTag": -2061931226,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "UIGun_0",
+                "ctype": "SingleNodeObjectData"
+              },
+              {
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 950.0,
+                  "Y": 37.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": true,
+                "PrePosition": {
+                  "X": 0.7422,
+                  "Y": 0.0514
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 950.0,
+                "RightMargin": 330.0,
+                "TopMargin": 683.0,
+                "BottomMargin": 37.0,
+                "Tag": 2660,
+                "Children": [
+                  {
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 220.0,
+                      "Y": 0.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": true,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 220.0,
+                    "RightMargin": -220.0,
+                    "Tag": 715,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "PlistSubImage",
+                          "Path": "ImgGunBgPlayer.png",
+                          "Plist": "res/Game/BanCa/BCUIGames/BC3DUI/BC3DUIAtlas/RES3DGun.plist"
+                        },
+                        "Scale9Enable": true,
+                        "Scale9OriginX": 50,
+                        "Scale9OriginY": 22,
+                        "Scale9Width": 67,
+                        "Scale9Height": 40,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": -20.0,
+                          "Y": 20.0
+                        },
+                        "Scale": {
+                          "ScaleX": -1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "LeftMargin": -103.5,
+                        "RightMargin": -63.5,
+                        "TopMargin": -62.0,
+                        "BottomMargin": -22.0,
+                        "Tag": 716,
+                        "ActionTag": 416832561,
+                        "Size": {
+                          "X": 167.0,
+                          "Y": 84.0
+                        },
+                        "Name": "Background",
+                        "ctype": "ImageViewObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "Default",
+                          "Path": "res/Lobby/Default/ImageFile.png",
+                          "Plist": ""
+                        },
+                        "Scale9OriginX": 9,
+                        "Scale9OriginY": 9,
+                        "Scale9Width": 28,
+                        "Scale9Height": 28,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 57.0,
+                          "Y": 18.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "LeftMargin": -0.5,
+                        "RightMargin": -114.5,
+                        "TopMargin": -75.5,
+                        "BottomMargin": -39.5,
+                        "Tag": 450,
+                        "ActionTag": -86492490,
+                        "Size": {
+                          "X": 115.0,
+                          "Y": 115.0
+                        },
+                        "VisibleForFrame": false,
+                        "Name": "Avatar",
+                        "ctype": "ImageViewObjectData"
+                      },
+                      {
+                        "FontSize": 19,
+                        "LabelText": "0",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "res/Game/BanCa/BCCommon/BCFonts/UTMFacebookRKT.ttf",
+                          "Plist": ""
+                        },
+                        "HorizontalAlignmentType": "HT_Center",
+                        "VerticalAlignmentType": "VT_Center",
+                        "OutlineColor": {
+                          "R": 0,
+                          "G": 0,
+                          "B": 0
+                        },
+                        "OutlineEnabled": true,
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 41.0,
+                          "Y": 41.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "LeftMargin": 34.0,
+                        "RightMargin": -48.0,
+                        "TopMargin": -53.5,
+                        "BottomMargin": 28.5,
+                        "Tag": 718,
+                        "ActionTag": 14175977,
+                        "Size": {
+                          "X": 14.0,
+                          "Y": 25.0
+                        },
+                        "Name": "TextLevel",
+                        "ctype": "TextObjectData"
+                      },
+                      {
+                        "FontSize": 22,
+                        "LabelText": "1",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "res/Game/BanCa/BCCommon/BCFonts/UTMFacebookRKT.ttf",
+                          "Plist": ""
+                        },
+                        "HorizontalAlignmentType": "HT_Center",
+                        "VerticalAlignmentType": "VT_Center",
+                        "OutlineColor": {
+                          "R": 84,
+                          "G": 38,
+                          "B": 9
+                        },
+                        "OutlineEnabled": true,
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": -33.0,
+                          "Y": 41.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {
+                          "B": 0
+                        },
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "LeftMargin": -38.5,
+                        "RightMargin": 27.5,
+                        "TopMargin": -55.5,
+                        "BottomMargin": 26.5,
+                        "Tag": 719,
+                        "ActionTag": -72262626,
+                        "Size": {
+                          "X": 11.0,
+                          "Y": 29.0
+                        },
+                        "Name": "TextDisplayName",
+                        "ctype": "TextObjectData"
+                      },
+                      {
+                        "FontSize": 18,
+                        "LabelText": "999.999.999",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "res/Game/BanCa/BCCommon/BCFonts/UTMFacebookRKT.ttf",
+                          "Plist": ""
+                        },
+                        "HorizontalAlignmentType": "HT_Center",
+                        "VerticalAlignmentType": "VT_Center",
+                        "OutlineColor": {
+                          "R": 91,
+                          "G": 41,
+                          "B": 10
+                        },
+                        "OutlineEnabled": true,
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": -34.0,
+                          "Y": 3.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {
+                          "B": 0
+                        },
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "LeftMargin": -81.5,
+                        "RightMargin": -13.5,
+                        "TopMargin": -15.0,
+                        "BottomMargin": -9.0,
+                        "Tag": 196,
+                        "ActionTag": -856252949,
+                        "Size": {
+                          "X": 95.0,
+                          "Y": 24.0
+                        },
+                        "Name": "TextGold",
+                        "ctype": "TextObjectData"
+                      }
+                    ],
+                    "ActionTag": -1717241661,
+                    "Size": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "Name": "PlayerInfo",
+                    "ctype": "SingleNodeObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "ImgGunBorder.png",
+                      "Plist": "res/Game/BanCa/BCUIGames/BC3DUI/BC3DUIAtlas/RES3DGun.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 0.0,
+                      "Y": 15.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": -102.0,
+                    "RightMargin": -102.0,
+                    "TopMargin": -66.5,
+                    "BottomMargin": -36.5,
+                    "Tag": 809,
+                    "ActionTag": -1695474293,
+                    "Size": {
+                      "X": 204.0,
+                      "Y": 103.0
+                    },
+                    "Name": "ImgGunBorder",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "ImgGunBase.png",
+                      "Plist": "res/Game/BanCa/BCUIGames/BC3DUI/BC3DUIAtlas/RES3DGun.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": -106.5,
+                    "RightMargin": -106.5,
+                    "TopMargin": -46.5,
+                    "BottomMargin": -46.5,
+                    "Tag": 2665,
+                    "ActionTag": 226987460,
+                    "Size": {
+                      "X": 213.0,
+                      "Y": 93.0
+                    },
+                    "Name": "ImgGunBase",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": true,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "Tag": 2668,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "PlistSubImage",
+                          "Path": "ImgGunFlash_0.png",
+                          "Plist": "res/Game/BanCa/BCUIGames/BC3DUI/BC3DUIAtlas/RES3DGun.plist"
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 0.0,
+                          "Y": 90.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "LeftMargin": -74.0,
+                        "RightMargin": -74.0,
+                        "TopMargin": -137.5,
+                        "BottomMargin": 42.5,
+                        "Tag": 2698,
+                        "ActionTag": -1471636949,
+                        "Size": {
+                          "X": 148.0,
+                          "Y": 95.0
+                        },
+                        "Name": "FlashFire",
+                        "ctype": "SpriteObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "PlistSubImage",
+                          "Path": "ImgGun_0.png",
+                          "Plist": "res/Game/BanCa/BCUIGames/BC3DUI/BC3DUIAtlas/RES3DGun.plist"
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 0.0,
+                          "Y": 20.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "LeftMargin": -76.0,
+                        "RightMargin": -76.0,
+                        "TopMargin": -85.5,
+                        "BottomMargin": -45.5,
+                        "Tag": 2669,
+                        "ActionTag": 502307543,
+                        "Size": {
+                          "X": 152.0,
+                          "Y": 131.0
+                        },
+                        "Name": "Barrel",
+                        "ctype": "SpriteObjectData"
+                      }
+                    ],
+                    "ActionTag": -346856575,
+                    "Size": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "Name": "Gun",
+                    "ctype": "SingleNodeObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "ImgGunMask.png",
+                      "Plist": "res/Game/BanCa/BCUIGames/BC3DUI/BC3DUIAtlas/RES3DGun.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 0.0,
+                      "Y": -25.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": -45.5,
+                    "RightMargin": -45.5,
+                    "TopMargin": 13.5,
+                    "BottomMargin": -36.5,
+                    "Tag": 2670,
+                    "Children": [
+                      {
+                        "CharWidth": 13,
+                        "CharHeight": 16,
+                        "LabelText": "0",
+                        "StartChar": ".",
+                        "LabelAtlasFileImage_CNB": {
+                          "Type": "Normal",
+                          "Path": "res/Game/BanCa/BCCommon/BCFonts/ImgTextGun.png",
+                          "Plist": ""
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 45.5,
+                          "Y": 11.5
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.5
+                        },
+                        "PreSize": {
+                          "X": 0.1429,
+                          "Y": 0.6957
+                        },
+                        "LeftMargin": 39.0,
+                        "RightMargin": 39.0,
+                        "TopMargin": 3.5,
+                        "BottomMargin": 3.5,
+                        "Tag": 88,
+                        "ActionTag": -2044630336,
+                        "Size": {
+                          "X": 13.0,
+                          "Y": 16.0
+                        },
+                        "Name": "TextBulletValue",
+                        "ctype": "TextAtlasObjectData"
+                      }
+                    ],
+                    "ActionTag": -1276798357,
+                    "Size": {
+                      "X": 91.0,
+                      "Y": 23.0
+                    },
+                    "Name": "GunMask",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "ImgBtnGunPlus.png",
+                      "Plist": "res/Game/BanCa/BCUIGames/BC3DUI/BC3DUIAtlas/RES3DGun.plist"
+                    },
+                    "Scale9OriginX": 13,
+                    "Scale9OriginY": 13,
+                    "Scale9Width": 18,
+                    "Scale9Height": 18,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 79.0,
+                      "Y": 0.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 57.0,
+                    "RightMargin": -101.0,
+                    "TopMargin": -22.0,
+                    "BottomMargin": -22.0,
+                    "Tag": 68,
+                    "ActionTag": -121297523,
+                    "Size": {
+                      "X": 44.0,
+                      "Y": 44.0
+                    },
+                    "Name": "BtnGunPlus",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "ImgBtnGunMius.png",
+                      "Plist": "res/Game/BanCa/BCUIGames/BC3DUI/BC3DUIAtlas/RES3DGun.plist"
+                    },
+                    "Scale9OriginX": 13,
+                    "Scale9OriginY": 13,
+                    "Scale9Width": 18,
+                    "Scale9Height": 18,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": -78.0,
+                      "Y": 0.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": -100.0,
+                    "RightMargin": 56.0,
+                    "TopMargin": -22.0,
+                    "BottomMargin": -22.0,
+                    "Tag": 67,
+                    "ActionTag": -1787645499,
+                    "Size": {
+                      "X": 44.0,
+                      "Y": 44.0
+                    },
+                    "Name": "BtnGunMinus",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "ImgGunAimBg.png",
+                      "Plist": "res/Game/BanCa/BCUIGames/BC3DUI/BC3DUIAtlas/RES3DGun.plist"
+                    },
+                    "Scale9OriginX": 23,
+                    "Scale9OriginY": 19,
+                    "Scale9Width": 26,
+                    "Scale9Height": 21,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": -145.0,
+                      "Y": 0.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": -181.0,
+                    "RightMargin": 109.0,
+                    "TopMargin": -29.5,
+                    "BottomMargin": -29.5,
+                    "Tag": 91,
+                    "Children": [
+                      {
+                        "IsCustomSize": true,
+                        "FontSize": 20,
+                        "LabelText": "Hủy Khóa",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "res/Game/BanCa/BCCommon/BCFonts/arial.ttf",
+                          "Plist": ""
+                        },
+                        "HorizontalAlignmentType": "HT_Center",
+                        "VerticalAlignmentType": "VT_Center",
+                        "OutlineColor": {
+                          "R": 127,
+                          "G": 127,
+                          "B": 127
+                        },
+                        "OutlineEnabled": true,
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 36.0,
+                          "Y": 29.5
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.5
+                        },
+                        "PreSize": {
+                          "X": 1.3611,
+                          "Y": 0.4915
+                        },
+                        "LeftMargin": -13.0,
+                        "RightMargin": -13.0,
+                        "TopMargin": 15.0,
+                        "BottomMargin": 15.0,
+                        "Tag": 252,
+                        "ActionTag": 2023376376,
+                        "Size": {
+                          "X": 98.0,
+                          "Y": 29.0
+                        },
+                        "Name": "TextLock",
+                        "ctype": "TextObjectData"
+                      }
+                    ],
+                    "ActionTag": -1936088929,
+                    "Size": {
+                      "X": 72.0,
+                      "Y": 59.0
+                    },
+                    "Name": "BtnAim",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "ImgSkillBarBG.png",
+                      "Plist": "res/Game/BanCa/BCUIGames/BC3DUI/BC3DUIAtlas/RES3DGun.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": -220.0,
+                      "Y": 0.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "RotationSkewX": -90.0,
+                    "RotationSkewY": -90.0,
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": -257.0,
+                    "RightMargin": 183.0,
+                    "TopMargin": -36.5,
+                    "BottomMargin": -36.5,
+                    "Tag": 94,
+                    "Children": [
+                      {
+                        "ProgressInfo": 100,
+                        "ImageFileData": {
+                          "Type": "PlistSubImage",
+                          "Path": "ImgSkillBar.png",
+                          "Plist": "res/Game/BanCa/BCUIGames/BC3DUI/BC3DUIAtlas/RES3DGun.plist"
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 37.0,
+                          "Y": 36.5
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.5
+                        },
+                        "PreSize": {
+                          "X": 0.8378,
+                          "Y": 0.8356
+                        },
+                        "LeftMargin": 6.0,
+                        "RightMargin": 6.0,
+                        "TopMargin": 6.0,
+                        "BottomMargin": 6.0,
+                        "Tag": 95,
+                        "ActionTag": -637184400,
+                        "Size": {
+                          "X": 62.0,
+                          "Y": 61.0
+                        },
+                        "Name": "Loading",
+                        "ctype": "LoadingBarObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "PlistSubImage",
+                          "Path": "ImgIconLazer.png",
+                          "Plist": "res/Game/BanCa/BCUIGames/BC3DUI/BC3DUIAtlas/RES3DGun.plist"
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 37.0,
+                          "Y": 36.5
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.5
+                        },
+                        "PreSize": {
+                          "X": 0.8378,
+                          "Y": 0.8356
+                        },
+                        "LeftMargin": 6.0,
+                        "RightMargin": 6.0,
+                        "TopMargin": 6.0,
+                        "BottomMargin": 6.0,
+                        "Tag": 96,
+                        "ActionTag": 1854816211,
+                        "Size": {
+                          "X": 62.0,
+                          "Y": 61.0
+                        },
+                        "Name": "IconSkill",
+                        "ctype": "SpriteObjectData"
+                      }
+                    ],
+                    "ActionTag": -1190880963,
+                    "Size": {
+                      "X": 74.0,
+                      "Y": 73.0
+                    },
+                    "Name": "GunSkill",
+                    "ctype": "SpriteObjectData"
+                  }
+                ],
+                "ActionTag": -1548178027,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "UIGun_1",
+                "ctype": "SingleNodeObjectData"
+              },
+              {
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 950.0,
+                  "Y": 683.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": true,
+                "PrePosition": {
+                  "X": 0.7422,
+                  "Y": 0.9486
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 950.0,
+                "RightMargin": 330.0,
+                "TopMargin": 37.0,
+                "BottomMargin": 683.0,
+                "Tag": 2684,
+                "Children": [
+                  {
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 220.0,
+                      "Y": 25.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": true,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 220.0,
+                    "RightMargin": -220.0,
+                    "TopMargin": -25.0,
+                    "BottomMargin": 25.0,
+                    "Tag": 720,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "PlistSubImage",
+                          "Path": "ImgGunBgPlayer.png",
+                          "Plist": "res/Game/BanCa/BCUIGames/BC3DUI/BC3DUIAtlas/RES3DGun.plist"
+                        },
+                        "Scale9Enable": true,
+                        "Scale9OriginX": 50,
+                        "Scale9OriginY": 22,
+                        "Scale9Width": 67,
+                        "Scale9Height": 40,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": -20.0,
+                          "Y": -40.0
+                        },
+                        "Scale": {
+                          "ScaleX": -1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "LeftMargin": -103.5,
+                        "RightMargin": -63.5,
+                        "TopMargin": -2.0,
+                        "BottomMargin": -82.0,
+                        "Tag": 721,
+                        "ActionTag": -2040114912,
+                        "Size": {
+                          "X": 167.0,
+                          "Y": 84.0
+                        },
+                        "Name": "Background",
+                        "ctype": "ImageViewObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "Default",
+                          "Path": "res/Lobby/Default/ImageFile.png",
+                          "Plist": ""
+                        },
+                        "Scale9OriginX": 9,
+                        "Scale9OriginY": 9,
+                        "Scale9Width": 28,
+                        "Scale9Height": 28,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 56.0,
+                          "Y": -42.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "LeftMargin": -1.5,
+                        "RightMargin": -113.5,
+                        "TopMargin": -15.5,
+                        "BottomMargin": -99.5,
+                        "Tag": 449,
+                        "ActionTag": -296220678,
+                        "Size": {
+                          "X": 115.0,
+                          "Y": 115.0
+                        },
+                        "VisibleForFrame": false,
+                        "Name": "Avatar",
+                        "ctype": "ImageViewObjectData"
+                      },
+                      {
+                        "FontSize": 19,
+                        "LabelText": "0",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "res/Game/BanCa/BCCommon/BCFonts/UTMFacebookRKT.ttf",
+                          "Plist": ""
+                        },
+                        "HorizontalAlignmentType": "HT_Center",
+                        "VerticalAlignmentType": "VT_Center",
+                        "OutlineColor": {
+                          "R": 0,
+                          "G": 0
+                        },
+                        "OutlineEnabled": true,
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 41.0,
+                          "Y": -20.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "LeftMargin": 34.0,
+                        "RightMargin": -48.0,
+                        "TopMargin": 7.5,
+                        "BottomMargin": -32.5,
+                        "Tag": 723,
+                        "ActionTag": -370046615,
+                        "Size": {
+                          "X": 14.0,
+                          "Y": 25.0
+                        },
+                        "Name": "TextLevel",
+                        "ctype": "TextObjectData"
+                      },
+                      {
+                        "FontSize": 22,
+                        "LabelText": "1",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "res/Game/BanCa/BCCommon/BCFonts/UTMFacebookRKT.ttf",
+                          "Plist": ""
+                        },
+                        "HorizontalAlignmentType": "HT_Center",
+                        "VerticalAlignmentType": "VT_Center",
+                        "OutlineColor": {
+                          "R": 93,
+                          "G": 41,
+                          "B": 10
+                        },
+                        "OutlineEnabled": true,
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": -33.0,
+                          "Y": -18.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {
+                          "B": 0
+                        },
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "LeftMargin": -38.5,
+                        "RightMargin": 27.5,
+                        "TopMargin": 3.5,
+                        "BottomMargin": -32.5,
+                        "Tag": 724,
+                        "ActionTag": 1928898383,
+                        "Size": {
+                          "X": 11.0,
+                          "Y": 29.0
+                        },
+                        "Name": "TextDisplayName",
+                        "ctype": "TextObjectData"
+                      },
+                      {
+                        "FontSize": 18,
+                        "LabelText": "999.999.999",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "res/Game/BanCa/BCCommon/BCFonts/UTMFacebookRKT.ttf",
+                          "Plist": ""
+                        },
+                        "HorizontalAlignmentType": "HT_Center",
+                        "VerticalAlignmentType": "VT_Center",
+                        "OutlineColor": {
+                          "R": 90,
+                          "G": 40,
+                          "B": 10
+                        },
+                        "OutlineEnabled": true,
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": -34.0,
+                          "Y": -57.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {
+                          "B": 0
+                        },
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "LeftMargin": -81.5,
+                        "RightMargin": -13.5,
+                        "TopMargin": 45.0,
+                        "BottomMargin": -69.0,
+                        "Tag": 197,
+                        "ActionTag": 978399024,
+                        "Size": {
+                          "X": 95.0,
+                          "Y": 24.0
+                        },
+                        "Name": "TextGold",
+                        "ctype": "TextObjectData"
+                      }
+                    ],
+                    "ActionTag": 1164028418,
+                    "Size": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "Name": "PlayerInfo",
+                    "ctype": "SingleNodeObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "ImgGunBorder.png",
+                      "Plist": "res/Game/BanCa/BCUIGames/BC3DUI/BC3DUIAtlas/RES3DGun.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 0.0,
+                      "Y": -15.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": -1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": -102.0,
+                    "RightMargin": -102.0,
+                    "TopMargin": -36.5,
+                    "BottomMargin": -66.5,
+                    "Tag": 810,
+                    "ActionTag": -1274747226,
+                    "Size": {
+                      "X": 204.0,
+                      "Y": 103.0
+                    },
+                    "Name": "ImgGunBorder",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "ImgGunBase.png",
+                      "Plist": "res/Game/BanCa/BCUIGames/BC3DUI/BC3DUIAtlas/RES3DGun.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": -1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": -106.5,
+                    "RightMargin": -106.5,
+                    "TopMargin": -46.5,
+                    "BottomMargin": -46.5,
+                    "Tag": 2689,
+                    "ActionTag": -180595297,
+                    "Size": {
+                      "X": 213.0,
+                      "Y": 93.0
+                    },
+                    "Name": "ImgGunBase",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "RotationSkewX": 180.0,
+                    "RotationSkewY": 180.0,
+                    "CColor": {},
+                    "IconVisible": true,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "Tag": 2692,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "PlistSubImage",
+                          "Path": "ImgGunFlash_0.png",
+                          "Plist": "res/Game/BanCa/BCUIGames/BC3DUI/BC3DUIAtlas/RES3DGun.plist"
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 0.0,
+                          "Y": 90.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "LeftMargin": -74.0,
+                        "RightMargin": -74.0,
+                        "TopMargin": -137.5,
+                        "BottomMargin": 42.5,
+                        "Tag": 2699,
+                        "ActionTag": -1925995157,
+                        "Size": {
+                          "X": 148.0,
+                          "Y": 95.0
+                        },
+                        "Name": "FlashFire",
+                        "ctype": "SpriteObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "PlistSubImage",
+                          "Path": "ImgGun_0.png",
+                          "Plist": "res/Game/BanCa/BCUIGames/BC3DUI/BC3DUIAtlas/RES3DGun.plist"
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 0.0,
+                          "Y": 20.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "LeftMargin": -76.0,
+                        "RightMargin": -76.0,
+                        "TopMargin": -85.5,
+                        "BottomMargin": -45.5,
+                        "Tag": 2693,
+                        "ActionTag": 1822937986,
+                        "Size": {
+                          "X": 152.0,
+                          "Y": 131.0
+                        },
+                        "Name": "Barrel",
+                        "ctype": "SpriteObjectData"
+                      }
+                    ],
+                    "ActionTag": -790789585,
+                    "Size": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "Name": "Gun",
+                    "ctype": "SingleNodeObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "ImgGunMask.png",
+                      "Plist": "res/Game/BanCa/BCUIGames/BC3DUI/BC3DUIAtlas/RES3DGun.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 0.0,
+                      "Y": 25.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": -45.5,
+                    "RightMargin": -45.5,
+                    "TopMargin": -36.5,
+                    "BottomMargin": 13.5,
+                    "Tag": 2694,
+                    "Children": [
+                      {
+                        "CharWidth": 13,
+                        "CharHeight": 16,
+                        "LabelText": "0",
+                        "StartChar": ".",
+                        "LabelAtlasFileImage_CNB": {
+                          "Type": "Normal",
+                          "Path": "res/Game/BanCa/BCCommon/BCFonts/ImgTextGun.png",
+                          "Plist": ""
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 45.5,
+                          "Y": 11.5
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.5
+                        },
+                        "PreSize": {
+                          "X": 0.1429,
+                          "Y": 0.6957
+                        },
+                        "LeftMargin": 39.0,
+                        "RightMargin": 39.0,
+                        "TopMargin": 3.5,
+                        "BottomMargin": 3.5,
+                        "Tag": 89,
+                        "ActionTag": -574624715,
+                        "Size": {
+                          "X": 13.0,
+                          "Y": 16.0
+                        },
+                        "Name": "TextBulletValue",
+                        "ctype": "TextAtlasObjectData"
+                      }
+                    ],
+                    "ActionTag": -1531367511,
+                    "Size": {
+                      "X": 91.0,
+                      "Y": 23.0
+                    },
+                    "Name": "GunMask",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "ImgBtnGunPlus.png",
+                      "Plist": "res/Game/BanCa/BCUIGames/BC3DUI/BC3DUIAtlas/RES3DGun.plist"
+                    },
+                    "Scale9OriginX": 13,
+                    "Scale9OriginY": 13,
+                    "Scale9Width": 18,
+                    "Scale9Height": 18,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 78.0,
+                      "Y": 0.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 56.0,
+                    "RightMargin": -100.0,
+                    "TopMargin": -22.0,
+                    "BottomMargin": -22.0,
+                    "Tag": 70,
+                    "ActionTag": 454192679,
+                    "Size": {
+                      "X": 44.0,
+                      "Y": 44.0
+                    },
+                    "Name": "BtnGunPlus",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "ImgBtnGunMius.png",
+                      "Plist": "res/Game/BanCa/BCUIGames/BC3DUI/BC3DUIAtlas/RES3DGun.plist"
+                    },
+                    "Scale9OriginX": 13,
+                    "Scale9OriginY": 13,
+                    "Scale9Width": 18,
+                    "Scale9Height": 18,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": -78.0,
+                      "Y": 0.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": -100.0,
+                    "RightMargin": 56.0,
+                    "TopMargin": -22.0,
+                    "BottomMargin": -22.0,
+                    "Tag": 69,
+                    "ActionTag": -250347177,
+                    "Size": {
+                      "X": 44.0,
+                      "Y": 44.0
+                    },
+                    "Name": "BtnGunMinus",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "ImgSkillBarBG.png",
+                      "Plist": "res/Game/BanCa/BCUIGames/BC3DUI/BC3DUIAtlas/RES3DGun.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": -220.0,
+                      "Y": 0.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "RotationSkewX": -90.0,
+                    "RotationSkewY": -90.0,
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": -257.0,
+                    "RightMargin": 183.0,
+                    "TopMargin": -36.5,
+                    "BottomMargin": -36.5,
+                    "Tag": 97,
+                    "Children": [
+                      {
+                        "ProgressInfo": 100,
+                        "ImageFileData": {
+                          "Type": "PlistSubImage",
+                          "Path": "ImgSkillBar.png",
+                          "Plist": "res/Game/BanCa/BCUIGames/BC3DUI/BC3DUIAtlas/RES3DGun.plist"
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 37.0,
+                          "Y": 36.5
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.5
+                        },
+                        "PreSize": {
+                          "X": 0.8378,
+                          "Y": 0.8356
+                        },
+                        "LeftMargin": 6.0,
+                        "RightMargin": 6.0,
+                        "TopMargin": 6.0,
+                        "BottomMargin": 6.0,
+                        "Tag": 98,
+                        "ActionTag": 1249221820,
+                        "Size": {
+                          "X": 62.0,
+                          "Y": 61.0
+                        },
+                        "Name": "Loading",
+                        "ctype": "LoadingBarObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "PlistSubImage",
+                          "Path": "ImgIconLazer.png",
+                          "Plist": "res/Game/BanCa/BCUIGames/BC3DUI/BC3DUIAtlas/RES3DGun.plist"
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 37.0,
+                          "Y": 36.5
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.5
+                        },
+                        "PreSize": {
+                          "X": 0.8378,
+                          "Y": 0.8356
+                        },
+                        "LeftMargin": 6.0,
+                        "RightMargin": 6.0,
+                        "TopMargin": 6.0,
+                        "BottomMargin": 6.0,
+                        "Tag": 99,
+                        "ActionTag": -1772620641,
+                        "Size": {
+                          "X": 62.0,
+                          "Y": 61.0
+                        },
+                        "Name": "IconSkill",
+                        "ctype": "SpriteObjectData"
+                      }
+                    ],
+                    "ActionTag": 1881945561,
+                    "Size": {
+                      "X": 74.0,
+                      "Y": 73.0
+                    },
+                    "Name": "GunSkill",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "ImgGunAimBg.png",
+                      "Plist": "res/Game/BanCa/BCUIGames/BC3DUI/BC3DUIAtlas/RES3DGun.plist"
+                    },
+                    "Scale9OriginX": 23,
+                    "Scale9OriginY": 19,
+                    "Scale9Width": 26,
+                    "Scale9Height": 21,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": -145.0,
+                      "Y": 0.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": -181.0,
+                    "RightMargin": 109.0,
+                    "TopMargin": -29.5,
+                    "BottomMargin": -29.5,
+                    "Tag": 92,
+                    "Children": [
+                      {
+                        "IsCustomSize": true,
+                        "FontSize": 20,
+                        "LabelText": "Hủy Khóa",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "res/Game/BanCa/BCCommon/BCFonts/arial.ttf",
+                          "Plist": ""
+                        },
+                        "HorizontalAlignmentType": "HT_Center",
+                        "VerticalAlignmentType": "VT_Center",
+                        "OutlineColor": {
+                          "R": 127,
+                          "G": 127,
+                          "B": 127
+                        },
+                        "OutlineEnabled": true,
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 36.0,
+                          "Y": 29.5
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.5
+                        },
+                        "PreSize": {
+                          "X": 1.3611,
+                          "Y": 0.4915
+                        },
+                        "LeftMargin": -13.0,
+                        "RightMargin": -13.0,
+                        "TopMargin": 15.0,
+                        "BottomMargin": 15.0,
+                        "Tag": 253,
+                        "ActionTag": 1537198325,
+                        "Size": {
+                          "X": 98.0,
+                          "Y": 29.0
+                        },
+                        "Name": "TextLock",
+                        "ctype": "TextObjectData"
+                      }
+                    ],
+                    "ActionTag": 1682539915,
+                    "Size": {
+                      "X": 72.0,
+                      "Y": 59.0
+                    },
+                    "Name": "BtnAim",
+                    "ctype": "ImageViewObjectData"
+                  }
+                ],
+                "ActionTag": -1835372139,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "UIGun_2",
+                "ctype": "SingleNodeObjectData"
+              },
+              {
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 330.0,
+                  "Y": 683.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": true,
+                "PrePosition": {
+                  "X": 0.2578,
+                  "Y": 0.9486
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 330.0,
+                "RightMargin": 950.0,
+                "TopMargin": 37.0,
+                "BottomMargin": 683.0,
+                "Tag": 2672,
+                "Children": [
+                  {
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": -220.0,
+                      "Y": 25.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": true,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": -220.0,
+                    "RightMargin": 220.0,
+                    "TopMargin": -25.0,
+                    "BottomMargin": 25.0,
+                    "Tag": 725,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "PlistSubImage",
+                          "Path": "ImgGunBgPlayer.png",
+                          "Plist": "res/Game/BanCa/BCUIGames/BC3DUI/BC3DUIAtlas/RES3DGun.plist"
+                        },
+                        "Scale9Enable": true,
+                        "Scale9OriginX": 50,
+                        "Scale9OriginY": 22,
+                        "Scale9Width": 67,
+                        "Scale9Height": 40,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 20.0,
+                          "Y": -40.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "LeftMargin": -63.5,
+                        "RightMargin": -103.5,
+                        "TopMargin": -2.0,
+                        "BottomMargin": -82.0,
+                        "Tag": 726,
+                        "ActionTag": 94471152,
+                        "Size": {
+                          "X": 167.0,
+                          "Y": 84.0
+                        },
+                        "Name": "Background",
+                        "ctype": "ImageViewObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "Default",
+                          "Path": "res/Lobby/Default/ImageFile.png",
+                          "Plist": ""
+                        },
+                        "Scale9OriginX": 9,
+                        "Scale9OriginY": 9,
+                        "Scale9Width": 28,
+                        "Scale9Height": 28,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": -56.0,
+                          "Y": -42.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "LeftMargin": -113.5,
+                        "RightMargin": -1.5,
+                        "TopMargin": -15.5,
+                        "BottomMargin": -99.5,
+                        "Tag": 448,
+                        "ActionTag": 219264943,
+                        "Size": {
+                          "X": 115.0,
+                          "Y": 115.0
+                        },
+                        "VisibleForFrame": false,
+                        "Name": "Avatar",
+                        "ctype": "ImageViewObjectData"
+                      },
+                      {
+                        "FontSize": 18,
+                        "LabelText": "999.999.999",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "res/Game/BanCa/BCCommon/BCFonts/UTMFacebookRKT.ttf",
+                          "Plist": ""
+                        },
+                        "OutlineColor": {
+                          "R": 96,
+                          "G": 42,
+                          "B": 11
+                        },
+                        "OutlineEnabled": true,
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 34.0,
+                          "Y": -57.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {
+                          "B": 0
+                        },
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "LeftMargin": -13.5,
+                        "RightMargin": -81.5,
+                        "TopMargin": 45.0,
+                        "BottomMargin": -69.0,
+                        "Tag": 195,
+                        "ActionTag": 2093952096,
+                        "Size": {
+                          "X": 95.0,
+                          "Y": 24.0
+                        },
+                        "Name": "TextGold",
+                        "ctype": "TextObjectData"
+                      },
+                      {
+                        "FontSize": 19,
+                        "LabelText": "0",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "res/Game/BanCa/BCCommon/BCFonts/UTMFacebookRKT.ttf",
+                          "Plist": ""
+                        },
+                        "HorizontalAlignmentType": "HT_Center",
+                        "VerticalAlignmentType": "VT_Center",
+                        "OutlineColor": {
+                          "R": 0,
+                          "G": 0
+                        },
+                        "OutlineEnabled": true,
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": -41.0,
+                          "Y": -20.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "LeftMargin": -48.0,
+                        "RightMargin": 34.0,
+                        "TopMargin": 7.5,
+                        "BottomMargin": -32.5,
+                        "Tag": 728,
+                        "ActionTag": 2040713692,
+                        "Size": {
+                          "X": 14.0,
+                          "Y": 25.0
+                        },
+                        "Name": "TextLevel",
+                        "ctype": "TextObjectData"
+                      },
+                      {
+                        "FontSize": 22,
+                        "LabelText": "1",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "res/Game/BanCa/BCCommon/BCFonts/UTMFacebookRKT.ttf",
+                          "Plist": ""
+                        },
+                        "OutlineColor": {
+                          "R": 96,
+                          "G": 42,
+                          "B": 10
+                        },
+                        "OutlineEnabled": true,
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 31.0,
+                          "Y": -18.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {
+                          "B": 0
+                        },
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "LeftMargin": 25.5,
+                        "RightMargin": -36.5,
+                        "TopMargin": 3.5,
+                        "BottomMargin": -32.5,
+                        "Tag": 729,
+                        "ActionTag": 654665647,
+                        "Size": {
+                          "X": 11.0,
+                          "Y": 29.0
+                        },
+                        "Name": "TextDisplayName",
+                        "ctype": "TextObjectData"
+                      }
+                    ],
+                    "ActionTag": 41887659,
+                    "Size": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "Name": "PlayerInfo",
+                    "ctype": "SingleNodeObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "ImgGunBorder.png",
+                      "Plist": "res/Game/BanCa/BCUIGames/BC3DUI/BC3DUIAtlas/RES3DGun.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 0.0,
+                      "Y": -15.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": -1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": -102.0,
+                    "RightMargin": -102.0,
+                    "TopMargin": -36.5,
+                    "BottomMargin": -66.5,
+                    "Tag": 811,
+                    "ActionTag": 745668789,
+                    "Size": {
+                      "X": 204.0,
+                      "Y": 103.0
+                    },
+                    "Name": "ImgGunBorder",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "ImgGunBase.png",
+                      "Plist": "res/Game/BanCa/BCUIGames/BC3DUI/BC3DUIAtlas/RES3DGun.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": -1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": -106.5,
+                    "RightMargin": -106.5,
+                    "TopMargin": -46.5,
+                    "BottomMargin": -46.5,
+                    "Tag": 2677,
+                    "ActionTag": -878702206,
+                    "Size": {
+                      "X": 213.0,
+                      "Y": 93.0
+                    },
+                    "Name": "ImgGunBase",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "RotationSkewX": 180.0,
+                    "RotationSkewY": 180.0,
+                    "CColor": {},
+                    "IconVisible": true,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "Tag": 2680,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "PlistSubImage",
+                          "Path": "ImgGunFlash_0.png",
+                          "Plist": "res/Game/BanCa/BCUIGames/BC3DUI/BC3DUIAtlas/RES3DGun.plist"
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 0.0,
+                          "Y": 90.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "LeftMargin": -74.0,
+                        "RightMargin": -74.0,
+                        "TopMargin": -137.5,
+                        "BottomMargin": 42.5,
+                        "Tag": 2700,
+                        "ActionTag": -1694152710,
+                        "Size": {
+                          "X": 148.0,
+                          "Y": 95.0
+                        },
+                        "Name": "FlashFire",
+                        "ctype": "SpriteObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "PlistSubImage",
+                          "Path": "ImgGun_0.png",
+                          "Plist": "res/Game/BanCa/BCUIGames/BC3DUI/BC3DUIAtlas/RES3DGun.plist"
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 0.0,
+                          "Y": 20.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "LeftMargin": -76.0,
+                        "RightMargin": -76.0,
+                        "TopMargin": -85.5,
+                        "BottomMargin": -45.5,
+                        "Tag": 2681,
+                        "ActionTag": 1642105595,
+                        "Size": {
+                          "X": 152.0,
+                          "Y": 131.0
+                        },
+                        "Name": "Barrel",
+                        "ctype": "SpriteObjectData"
+                      }
+                    ],
+                    "ActionTag": 511273275,
+                    "Size": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "Name": "Gun",
+                    "ctype": "SingleNodeObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "ImgGunMask.png",
+                      "Plist": "res/Game/BanCa/BCUIGames/BC3DUI/BC3DUIAtlas/RES3DGun.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 0.0,
+                      "Y": 25.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": -45.5,
+                    "RightMargin": -45.5,
+                    "TopMargin": -36.5,
+                    "BottomMargin": 13.5,
+                    "Tag": 2682,
+                    "Children": [
+                      {
+                        "CharWidth": 13,
+                        "CharHeight": 16,
+                        "LabelText": "0",
+                        "StartChar": ".",
+                        "LabelAtlasFileImage_CNB": {
+                          "Type": "Normal",
+                          "Path": "res/Game/BanCa/BCCommon/BCFonts/ImgTextGun.png",
+                          "Plist": ""
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 45.5,
+                          "Y": 11.5
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.5
+                        },
+                        "PreSize": {
+                          "X": 0.1429,
+                          "Y": 0.6957
+                        },
+                        "LeftMargin": 39.0,
+                        "RightMargin": 39.0,
+                        "TopMargin": 3.5,
+                        "BottomMargin": 3.5,
+                        "Tag": 90,
+                        "ActionTag": -390990733,
+                        "Size": {
+                          "X": 13.0,
+                          "Y": 16.0
+                        },
+                        "Name": "TextBulletValue",
+                        "ctype": "TextAtlasObjectData"
+                      }
+                    ],
+                    "ActionTag": 1066508399,
+                    "Size": {
+                      "X": 91.0,
+                      "Y": 23.0
+                    },
+                    "Name": "GunMask",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "ImgBtnGunPlus.png",
+                      "Plist": "res/Game/BanCa/BCUIGames/BC3DUI/BC3DUIAtlas/RES3DGun.plist"
+                    },
+                    "Scale9OriginX": 13,
+                    "Scale9OriginY": 13,
+                    "Scale9Width": 18,
+                    "Scale9Height": 18,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 78.0,
+                      "Y": 0.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 56.0,
+                    "RightMargin": -100.0,
+                    "TopMargin": -22.0,
+                    "BottomMargin": -22.0,
+                    "Tag": 72,
+                    "ActionTag": -2097484447,
+                    "Size": {
+                      "X": 44.0,
+                      "Y": 44.0
+                    },
+                    "Name": "BtnGunPlus",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "ImgBtnGunMius.png",
+                      "Plist": "res/Game/BanCa/BCUIGames/BC3DUI/BC3DUIAtlas/RES3DGun.plist"
+                    },
+                    "Scale9OriginX": 13,
+                    "Scale9OriginY": 13,
+                    "Scale9Width": 18,
+                    "Scale9Height": 18,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": -78.0,
+                      "Y": 0.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": -100.0,
+                    "RightMargin": 56.0,
+                    "TopMargin": -22.0,
+                    "BottomMargin": -22.0,
+                    "Tag": 71,
+                    "ActionTag": -325118152,
+                    "Size": {
+                      "X": 44.0,
+                      "Y": 44.0
+                    },
+                    "Name": "BtnGunMinus",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "ImgSkillBarBG.png",
+                      "Plist": "res/Game/BanCa/BCUIGames/BC3DUI/BC3DUIAtlas/RES3DGun.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 220.0,
+                      "Y": 0.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "RotationSkewX": -90.0,
+                    "RotationSkewY": -90.0,
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 183.0,
+                    "RightMargin": -257.0,
+                    "TopMargin": -36.5,
+                    "BottomMargin": -36.5,
+                    "Tag": 100,
+                    "Children": [
+                      {
+                        "ProgressInfo": 100,
+                        "ImageFileData": {
+                          "Type": "PlistSubImage",
+                          "Path": "ImgSkillBar.png",
+                          "Plist": "res/Game/BanCa/BCUIGames/BC3DUI/BC3DUIAtlas/RES3DGun.plist"
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 37.0,
+                          "Y": 36.5
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.5
+                        },
+                        "PreSize": {
+                          "X": 0.8378,
+                          "Y": 0.8356
+                        },
+                        "LeftMargin": 6.0,
+                        "RightMargin": 6.0,
+                        "TopMargin": 6.0,
+                        "BottomMargin": 6.0,
+                        "Tag": 101,
+                        "ActionTag": -767273294,
+                        "Size": {
+                          "X": 62.0,
+                          "Y": 61.0
+                        },
+                        "Name": "Loading",
+                        "ctype": "LoadingBarObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "PlistSubImage",
+                          "Path": "ImgIconLazer.png",
+                          "Plist": "res/Game/BanCa/BCUIGames/BC3DUI/BC3DUIAtlas/RES3DGun.plist"
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 37.0,
+                          "Y": 36.5
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.5
+                        },
+                        "PreSize": {
+                          "X": 0.8378,
+                          "Y": 0.8356
+                        },
+                        "LeftMargin": 6.0,
+                        "RightMargin": 6.0,
+                        "TopMargin": 6.0,
+                        "BottomMargin": 6.0,
+                        "Tag": 102,
+                        "ActionTag": -2134747897,
+                        "Size": {
+                          "X": 62.0,
+                          "Y": 61.0
+                        },
+                        "Name": "IconSkill",
+                        "ctype": "SpriteObjectData"
+                      }
+                    ],
+                    "ActionTag": -446893515,
+                    "Size": {
+                      "X": 74.0,
+                      "Y": 73.0
+                    },
+                    "Name": "GunSkill",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "ImgGunAimBg.png",
+                      "Plist": "res/Game/BanCa/BCUIGames/BC3DUI/BC3DUIAtlas/RES3DGun.plist"
+                    },
+                    "Scale9OriginX": 23,
+                    "Scale9OriginY": 19,
+                    "Scale9Width": 26,
+                    "Scale9Height": 21,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 145.0,
+                      "Y": 0.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 109.0,
+                    "RightMargin": -181.0,
+                    "TopMargin": -29.5,
+                    "BottomMargin": -29.5,
+                    "Tag": 93,
+                    "Children": [
+                      {
+                        "IsCustomSize": true,
+                        "FontSize": 20,
+                        "LabelText": "Hủy Khóa",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "res/Game/BanCa/BCCommon/BCFonts/arial.ttf",
+                          "Plist": ""
+                        },
+                        "HorizontalAlignmentType": "HT_Center",
+                        "VerticalAlignmentType": "VT_Center",
+                        "OutlineColor": {
+                          "R": 127,
+                          "G": 127,
+                          "B": 127
+                        },
+                        "OutlineEnabled": true,
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 36.0,
+                          "Y": 29.5
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.5
+                        },
+                        "PreSize": {
+                          "X": 1.3611,
+                          "Y": 0.4915
+                        },
+                        "LeftMargin": -13.0,
+                        "RightMargin": -13.0,
+                        "TopMargin": 15.0,
+                        "BottomMargin": 15.0,
+                        "Tag": 254,
+                        "ActionTag": 1372999910,
+                        "Size": {
+                          "X": 98.0,
+                          "Y": 29.0
+                        },
+                        "Name": "TextLock",
+                        "ctype": "TextObjectData"
+                      }
+                    ],
+                    "ActionTag": -485174013,
+                    "Size": {
+                      "X": 72.0,
+                      "Y": 59.0
+                    },
+                    "Name": "BtnAim",
+                    "ctype": "ImageViewObjectData"
+                  }
+                ],
+                "ActionTag": 267974340,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "UIGun_3",
+                "ctype": "SingleNodeObjectData"
+              },
+              {
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 1316.0,
+                  "Y": 360.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": true,
+                "PrePosition": {
+                  "X": 1.0281,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 1316.0,
+                "RightMargin": -36.0,
+                "TopMargin": 360.0,
+                "BottomMargin": 360.0,
+                "Tag": 172,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "ImgMenuRightInGameBG.png",
+                      "Plist": "res/Game/BanCa/BCUIComponent/BCUIComponentAtlas/RESComponent.plist"
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 25,
+                    "Scale9OriginY": 37,
+                    "Scale9Width": 18,
+                    "Scale9Height": 190,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 0.0,
+                      "Y": -5.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": -34.0,
+                    "RightMargin": -34.0,
+                    "TopMargin": -125.5,
+                    "BottomMargin": -135.5,
+                    "Tag": 1028,
+                    "ActionTag": 839810647,
+                    "Size": {
+                      "X": 68.0,
+                      "Y": 261.0
+                    },
+                    "Name": "ImgBg",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "ImgBtnZoomInGame.png",
+                      "Plist": "res/Game/BanCa/BCUIComponent/BCUIComponentAtlas/RESComponent.plist"
+                    },
+                    "Scale9OriginX": 23,
+                    "Scale9OriginY": 22,
+                    "Scale9Width": 2,
+                    "Scale9Height": 4,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 0.0,
+                      "Y": 90.34
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": -24.0,
+                    "RightMargin": -24.0,
+                    "TopMargin": -114.34,
+                    "BottomMargin": 66.34,
+                    "Tag": 257,
+                    "ActionTag": -841885832,
+                    "Size": {
+                      "X": 48.0,
+                      "Y": 48.0
+                    },
+                    "Name": "BtnZoom",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "ImgBtnFishInGame.png",
+                      "Plist": "res/Game/BanCa/BCUIComponent/BCUIComponentAtlas/RESComponent.plist"
+                    },
+                    "Scale9OriginX": 17,
+                    "Scale9OriginY": 16,
+                    "Scale9Width": 6,
+                    "Scale9Height": 6,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 0.0,
+                      "Y": 26.5599
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": -24.0,
+                    "RightMargin": -24.0,
+                    "TopMargin": -50.5599,
+                    "BottomMargin": 2.5599,
+                    "Tag": 259,
+                    "ActionTag": 386570512,
+                    "Size": {
+                      "X": 48.0,
+                      "Y": 48.0
+                    },
+                    "Name": "BtnFish",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "ImgBtnSoundInGame.png",
+                      "Plist": "res/Game/BanCa/BCUIComponent/BCUIComponentAtlas/RESComponent.plist"
+                    },
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 20,
+                    "Scale9Width": 8,
+                    "Scale9Height": 2,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 0.0,
+                      "Y": -37.22
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": -24.0,
+                    "RightMargin": -24.0,
+                    "TopMargin": 13.22,
+                    "BottomMargin": -61.22,
+                    "Tag": 260,
+                    "ActionTag": -891516751,
+                    "Size": {
+                      "X": 48.0,
+                      "Y": 48.0
+                    },
+                    "Name": "BtnSound",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "ImgBtnExitInGame.png",
+                      "Plist": "res/Game/BanCa/BCUIComponent/BCUIComponentAtlas/RESComponent.plist"
+                    },
+                    "Scale9OriginX": 21,
+                    "Scale9OriginY": 6,
+                    "Scale9Width": 2,
+                    "Scale9Height": 16,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 0.0,
+                      "Y": -101.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": -24.0,
+                    "RightMargin": -24.0,
+                    "TopMargin": 77.0,
+                    "BottomMargin": -125.0,
+                    "Tag": 262,
+                    "ActionTag": 1920147378,
+                    "Size": {
+                      "X": 48.0,
+                      "Y": 48.0
+                    },
+                    "Name": "BtnExit",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "ImgBtnMenuRightInGame.png",
+                      "Plist": "res/Game/BanCa/BCUIComponent/BCUIComponentAtlas/RESComponent.plist"
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 16,
+                    "Scale9OriginY": 29,
+                    "Scale9Width": 7,
+                    "Scale9Height": 15,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": -56.0,
+                      "Y": 0.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": -75.5,
+                    "RightMargin": 36.5,
+                    "TopMargin": -28.0,
+                    "BottomMargin": -28.0,
+                    "Tag": 263,
+                    "ActionTag": -1272800490,
+                    "Size": {
+                      "X": 39.0,
+                      "Y": 56.0
+                    },
+                    "Name": "BtnExtendInGame",
+                    "ctype": "ImageViewObjectData"
+                  }
+                ],
+                "ActionTag": -1316618656,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "UIMenuBoard",
+                "ctype": "SingleNodeObjectData"
+              }
+            ],
+            "ActionTag": 2119310687,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "Name": "UIController",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "RightMargin": 1280.0,
+            "TopMargin": 720.0,
+            "Tag": 129,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "ImgBossNotify.png",
+                  "Plist": "res/Game/BanCa/BCUIComponent/BCUIComponentAtlas/RESComponent.plist"
+                },
+                "Scale9OriginX": 46,
+                "Scale9OriginY": 3,
+                "Scale9Width": 360,
+                "Scale9Height": 40,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": -428.0,
+                  "Y": 360.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": -856.0,
+                "TopMargin": -401.0,
+                "BottomMargin": 319.0,
+                "Tag": 473,
+                "Children": [
+                  {
+                    "FontSize": 36,
+                    "LabelText": "X70",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "res/Game/BanCa/BCCommon/BCFonts/arialbd.ttf",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Center",
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineColor": {
+                      "R": 209,
+                      "G": 56,
+                      "B": 49
+                    },
+                    "OutlineEnabled": true,
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 711.2036,
+                      "Y": 39.0578
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "B": 0
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.8308,
+                      "Y": 0.4763
+                    },
+                    "PreSize": {
+                      "X": 0.0771,
+                      "Y": 0.5244
+                    },
+                    "LeftMargin": 678.2036,
+                    "RightMargin": 111.7964,
+                    "TopMargin": 21.4422,
+                    "BottomMargin": 17.5578,
+                    "Tag": 475,
+                    "ActionTag": -1181509211,
+                    "Size": {
+                      "X": 66.0,
+                      "Y": 43.0
+                    },
+                    "VisibleForFrame": false,
+                    "Name": "TextRate",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": -269234789,
+                "Size": {
+                  "X": 856.0,
+                  "Y": 82.0
+                },
+                "Name": "UIBossNotify",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "ImgArenaInfoBg.png",
+                  "Plist": "res/Game/BanCa/BCUIComponent/BCUIComponentAtlas/RESComponent.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 20,
+                "Scale9OriginY": 12,
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 640.0,
+                  "Y": 360.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 390.0,
+                "RightMargin": -890.0,
+                "TopMargin": -395.0,
+                "BottomMargin": 325.0,
+                "Tag": 160,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "ImgTextActiveSkill.png",
+                      "Plist": "res/Game/BanCa/BCUIComponent/BCUIComponentAtlas/RESComponent.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 250.0,
+                      "Y": 35.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.92,
+                      "Y": 0.7429
+                    },
+                    "LeftMargin": 20.0,
+                    "RightMargin": 20.0,
+                    "TopMargin": 9.0,
+                    "BottomMargin": 9.0,
+                    "Tag": 162,
+                    "ActionTag": -352942121,
+                    "Size": {
+                      "X": 460.0,
+                      "Y": 52.0
+                    },
+                    "Name": "ImgTextActiveSkill",
+                    "ctype": "SpriteObjectData"
+                  }
+                ],
+                "ActionTag": -1373985626,
+                "Size": {
+                  "X": 500.0,
+                  "Y": 70.0
+                },
+                "Name": "UISkillNotify",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 640.0,
+                  "Y": 360.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": true,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 640.0,
+                "RightMargin": -640.0,
+                "TopMargin": -360.0,
+                "BottomMargin": 360.0,
+                "Tag": 101,
+                "ActionTag": 667212896,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "JackpotWin",
+                "ctype": "SingleNodeObjectData"
+              }
+            ],
+            "ActionTag": 1905607789,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "UIFx",
+            "ctype": "SingleNodeObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "../../../../../../res/Lobby/Default/ImageFile.png",
+        "../../../BCCommon/BCFonts/arial.ttf",
+        "../../../BCCommon/BCFonts/arialbd.ttf",
+        "../../../BCCommon/BCFonts/ImgTextGun.png",
+        "../../../BCCommon/BCFonts/UTMFacebookRKT.ttf",
+        "../../../BCUIComponent/BCUIComponentAtlas/auto_off.png",
+        "../../../BCUIComponent/BCUIComponentAtlas/RESComponent.plist",
+        "../../../BCUIComponent/BCUIComponentAtlas/RESComponent.png",
+        "../BC3DUIAtlas/BCBG1.jpg",
+        "../BC3DUIAtlas/RES3DGun.plist",
+        "../BC3DUIAtlas/RES3DGun.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

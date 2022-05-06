@@ -1,0 +1,920 @@
+[
+    [
+        {
+            "ActionTag": 825883673,
+            "Property": "Position",
+            "Frames": [
+                {
+                    "X": 1420.9009,
+                    "Y": 378.465,
+                    "FrameIndex": 0,
+                    "EasingData": {
+                        "Type": 0
+                    },
+                    "ctype": "PointFrameData"
+                },
+                {
+                    "X": -1276.5823,
+                    "Y": 378.4597,
+                    "FrameIndex": 1800,
+                    "EasingData": {
+                        "Type": 0
+                    },
+                    "ctype": "PointFrameData"
+                }
+            ],
+            "ctype": "TimelineData"
+        }
+    ],
+    [
+        {
+            "ActionTag": 479900462,
+            "Property": "Position",
+            "Frames": [
+                {
+                    "X": 1422.9487,
+                    "Y": 443.4642,
+                    "FrameIndex": 0,
+                    "EasingData": {
+                        "Type": 0
+                    },
+                    "ctype": "PointFrameData"
+                },
+                {
+                    "X": -1274.5342,
+                    "Y": 443.459,
+                    "FrameIndex": 1800,
+                    "EasingData": {
+                        "Type": 0
+                    },
+                    "ctype": "PointFrameData"
+                }
+            ],
+            "ctype": "TimelineData"
+        }
+    ],
+    [
+        {
+            "ActionTag": -1958168717,
+            "Property": "Position",
+            "Frames": [
+                {
+                    "X": 1421.9307,
+                    "Y": 314.3062,
+                    "FrameIndex": 0,
+                    "EasingData": {
+                        "Type": 0
+                    },
+                    "ctype": "PointFrameData"
+                },
+                {
+                    "X": -1275.5525,
+                    "Y": 314.3054,
+                    "FrameIndex": 1800,
+                    "EasingData": {
+                        "Type": 0
+                    },
+                    "ctype": "PointFrameData"
+                }
+            ],
+            "ctype": "TimelineData"
+        }
+    ],
+    [
+        {
+            "ActionTag": -705864918,
+            "Property": "Position",
+            "Frames": [
+                {
+                    "X": 1360.5483,
+                    "Y": 377.7878,
+                    "FrameIndex": 0,
+                    "EasingData": {
+                        "Type": 0
+                    },
+                    "ctype": "PointFrameData"
+                },
+                {
+                    "X": -1336.9351,
+                    "Y": 377.783,
+                    "FrameIndex": 1800,
+                    "EasingData": {
+                        "Type": 0
+                    },
+                    "ctype": "PointFrameData"
+                }
+            ],
+            "ctype": "TimelineData"
+        }
+    ],
+    [
+        {
+            "ActionTag": 1874537422,
+            "Property": "Position",
+            "Frames": [
+                {
+                    "X": 1483.9526,
+                    "Y": 378.4655,
+                    "FrameIndex": 0,
+                    "EasingData": {
+                        "Type": 0
+                    },
+                    "ctype": "PointFrameData"
+                },
+                {
+                    "X": -1213.5312,
+                    "Y": 378.4602,
+                    "FrameIndex": 1800,
+                    "EasingData": {
+                        "Type": 0
+                    },
+                    "ctype": "PointFrameData"
+                }
+            ],
+            "ctype": "TimelineData"
+        }
+    ],
+    [
+        {
+            "ActionTag": 39841884,
+            "Property": "Position",
+            "Frames": [
+                {
+                    "X": 1552.4615,
+                    "Y": 280.4578,
+                    "FrameIndex": 0,
+                    "EasingData": {
+                        "Type": 0
+                    },
+                    "ctype": "PointFrameData"
+                },
+                {
+                    "X": -1145.0217,
+                    "Y": 280.4575,
+                    "FrameIndex": 1800,
+                    "EasingData": {
+                        "Type": 0
+                    },
+                    "ctype": "PointFrameData"
+                }
+            ],
+            "ctype": "TimelineData"
+        }
+    ],
+    [
+        {
+            "ActionTag": -701023163,
+            "Property": "Position",
+            "Frames": [
+                {
+                    "X": 1549.702,
+                    "Y": 476.4636,
+                    "FrameIndex": 0,
+                    "EasingData": {
+                        "Type": 0
+                    },
+                    "ctype": "PointFrameData"
+                },
+                {
+                    "X": -1147.7815,
+                    "Y": 476.4585,
+                    "FrameIndex": 1800,
+                    "EasingData": {
+                        "Type": 0
+                    },
+                    "ctype": "PointFrameData"
+                }
+            ],
+            "ctype": "TimelineData"
+        }
+    ],
+    [
+        {
+            "ActionTag": 34782440,
+            "Property": "Position",
+            "Frames": [
+                {
+                    "X": 1642.113,
+                    "Y": 379.0562,
+                    "FrameIndex": 0,
+                    "EasingData": {
+                        "Type": 0
+                    },
+                    "ctype": "PointFrameData"
+                },
+                {
+                    "X": -1055.3704,
+                    "Y": 376.6138,
+                    "FrameIndex": 1800,
+                    "EasingData": {
+                        "Type": 0
+                    },
+                    "ctype": "PointFrameData"
+                }
+            ],
+            "ctype": "TimelineData"
+        }
+    ],
+    [
+        {
+            "ActionTag": -1380478940,
+            "Property": "Position",
+            "Frames": [
+                {
+                    "X": 1549.4612,
+                    "Y": 539.9579,
+                    "FrameIndex": 0,
+                    "EasingData": {
+                        "Type": 0
+                    },
+                    "ctype": "PointFrameData"
+                },
+                {
+                    "X": -1148.0242,
+                    "Y": 539.9526,
+                    "FrameIndex": 1800,
+                    "EasingData": {
+                        "Type": 0
+                    },
+                    "ctype": "PointFrameData"
+                }
+            ],
+            "ctype": "TimelineData"
+        }
+    ],
+    [
+        {
+            "ActionTag": -954916039,
+            "Property": "Position",
+            "Frames": [
+                {
+                    "X": 1722.1372,
+                    "Y": 477.4642,
+                    "FrameIndex": 0,
+                    "EasingData": {
+                        "Type": 0
+                    },
+                    "ctype": "PointFrameData"
+                },
+                {
+                    "X": -975.3477,
+                    "Y": 477.4592,
+                    "FrameIndex": 1800,
+                    "EasingData": {
+                        "Type": 0
+                    },
+                    "ctype": "PointFrameData"
+                }
+            ],
+            "ctype": "TimelineData"
+        }
+    ],
+    [
+        {
+            "ActionTag": 1505827742,
+            "Property": "Position",
+            "Frames": [
+                {
+                    "X": 1721.0688,
+                    "Y": 280.4593,
+                    "FrameIndex": 0,
+                    "EasingData": {
+                        "Type": 0
+                    },
+                    "ctype": "PointFrameData"
+                },
+                {
+                    "X": -976.4152,
+                    "Y": 280.4581,
+                    "FrameIndex": 1800,
+                    "EasingData": {
+                        "Type": 0
+                    },
+                    "ctype": "PointFrameData"
+                }
+            ],
+            "ctype": "TimelineData"
+        }
+    ],
+    [
+        {
+            "ActionTag": -1623229127,
+            "Property": "Position",
+            "Frames": [
+                {
+                    "X": 1722.6069,
+                    "Y": 376.618,
+                    "FrameIndex": 0,
+                    "EasingData": {
+                        "Type": 0
+                    },
+                    "ctype": "PointFrameData"
+                },
+                {
+                    "X": -974.876,
+                    "Y": 376.6133,
+                    "FrameIndex": 1800,
+                    "EasingData": {
+                        "Type": 0
+                    },
+                    "ctype": "PointFrameData"
+                }
+            ],
+            "ctype": "TimelineData"
+        }
+    ],
+    [
+        {
+            "ActionTag": -1373870691,
+            "Property": "Position",
+            "Frames": [
+                {
+                    "X": 1552.4653,
+                    "Y": 216.8743,
+                    "FrameIndex": 0,
+                    "EasingData": {
+                        "Type": 0
+                    },
+                    "ctype": "PointFrameData"
+                },
+                {
+                    "X": -1145.0183,
+                    "Y": 216.8739,
+                    "FrameIndex": 1800,
+                    "EasingData": {
+                        "Type": 0
+                    },
+                    "ctype": "PointFrameData"
+                }
+            ],
+            "ctype": "TimelineData"
+        }
+    ],
+    [
+        {
+            "ActionTag": 2076532082,
+            "Property": "Position",
+            "Frames": [
+                {
+                    "X": 1552.467,
+                    "Y": 377.6177,
+                    "FrameIndex": 0,
+                    "EasingData": {
+                        "Type": 0
+                    },
+                    "ctype": "PointFrameData"
+                },
+                {
+                    "X": -1145.0171,
+                    "Y": 377.6128,
+                    "FrameIndex": 1800,
+                    "EasingData": {
+                        "Type": 0
+                    },
+                    "ctype": "PointFrameData"
+                }
+            ],
+            "ctype": "TimelineData"
+        }
+    ],
+    [
+        {
+            "ActionTag": -245241169,
+            "Property": "Position",
+            "Frames": [
+                {
+                    "X": 1803.9714,
+                    "Y": 373.6194,
+                    "FrameIndex": 0,
+                    "EasingData": {
+                        "Type": 0
+                    },
+                    "ctype": "PointFrameData"
+                },
+                {
+                    "X": -893.5148,
+                    "Y": 373.6148,
+                    "FrameIndex": 1800,
+                    "EasingData": {
+                        "Type": 0
+                    },
+                    "ctype": "PointFrameData"
+                }
+            ],
+            "ctype": "TimelineData"
+        }
+    ],
+    [
+        {
+            "ActionTag": -1682447717,
+            "Property": "Position",
+            "Frames": [
+                {
+                    "X": 1868.1731,
+                    "Y": 374.6226,
+                    "FrameIndex": 0,
+                    "EasingData": {
+                        "Type": 0
+                    },
+                    "ctype": "PointFrameData"
+                },
+                {
+                    "X": -829.3107,
+                    "Y": 374.6178,
+                    "FrameIndex": 1800,
+                    "EasingData": {
+                        "Type": 0
+                    },
+                    "ctype": "PointFrameData"
+                }
+            ],
+            "ctype": "TimelineData"
+        }
+    ],
+    [
+        {
+            "ActionTag": -692281572,
+            "Property": "Position",
+            "Frames": [
+                {
+                    "X": 1932.5176,
+                    "Y": 373.6206,
+                    "FrameIndex": 0,
+                    "EasingData": {
+                        "Type": 0
+                    },
+                    "ctype": "PointFrameData"
+                },
+                {
+                    "X": -764.9675,
+                    "Y": 373.6158,
+                    "FrameIndex": 1800,
+                    "EasingData": {
+                        "Type": 0
+                    },
+                    "ctype": "PointFrameData"
+                }
+            ],
+            "ctype": "TimelineData"
+        }
+    ],
+    [
+        {
+            "ActionTag": 1625635708,
+            "Property": "Position",
+            "Frames": [
+                {
+                    "X": 1995.8892,
+                    "Y": 373.5105,
+                    "FrameIndex": 0,
+                    "EasingData": {
+                        "Type": 0
+                    },
+                    "ctype": "PointFrameData"
+                },
+                {
+                    "X": -701.5962,
+                    "Y": 373.5055,
+                    "FrameIndex": 1800,
+                    "EasingData": {
+                        "Type": 0
+                    },
+                    "ctype": "PointFrameData"
+                }
+            ],
+            "ctype": "TimelineData"
+        }
+    ],
+    [
+        {
+            "ActionTag": 889238815,
+            "Property": "Position",
+            "Frames": [
+                {
+                    "X": 2052.5586,
+                    "Y": 372.2831,
+                    "FrameIndex": 0,
+                    "EasingData": {
+                        "Type": 0
+                    },
+                    "ctype": "PointFrameData"
+                },
+                {
+                    "X": -644.927,
+                    "Y": 372.2785,
+                    "FrameIndex": 1800,
+                    "EasingData": {
+                        "Type": 0
+                    },
+                    "ctype": "PointFrameData"
+                }
+            ],
+            "ctype": "TimelineData"
+        }
+    ],
+    [
+        {
+            "ActionTag": -346949861,
+            "Property": "Position",
+            "Frames": [
+                {
+                    "X": 2177.7424,
+                    "Y": 371.9247,
+                    "FrameIndex": 0,
+                    "EasingData": {
+                        "Type": 0
+                    },
+                    "ctype": "PointFrameData"
+                },
+                {
+                    "X": -519.7449,
+                    "Y": 371.9199,
+                    "FrameIndex": 1800,
+                    "EasingData": {
+                        "Type": 0
+                    },
+                    "ctype": "PointFrameData"
+                }
+            ],
+            "ctype": "TimelineData"
+        }
+    ],
+    [
+        {
+            "ActionTag": -1214974829,
+            "Property": "Position",
+            "Frames": [
+                {
+                    "X": 2179.79,
+                    "Y": 436.9233,
+                    "FrameIndex": 0,
+                    "EasingData": {
+                        "Type": 0
+                    },
+                    "ctype": "PointFrameData"
+                },
+                {
+                    "X": -517.6949,
+                    "Y": 436.918,
+                    "FrameIndex": 1800,
+                    "EasingData": {
+                        "Type": 0
+                    },
+                    "ctype": "PointFrameData"
+                }
+            ],
+            "ctype": "TimelineData"
+        }
+    ],
+    [
+        {
+            "ActionTag": 39823011,
+            "Property": "Position",
+            "Frames": [
+                {
+                    "X": 2114.9519,
+                    "Y": 371.2475,
+                    "FrameIndex": 0,
+                    "EasingData": {
+                        "Type": 0
+                    },
+                    "ctype": "PointFrameData"
+                },
+                {
+                    "X": -580.097,
+                    "Y": 371.2426,
+                    "FrameIndex": 1800,
+                    "EasingData": {
+                        "Type": 0
+                    },
+                    "ctype": "PointFrameData"
+                }
+            ],
+            "ctype": "TimelineData"
+        }
+    ],
+    [
+        {
+            "ActionTag": -1210467115,
+            "Property": "Position",
+            "Frames": [
+                {
+                    "X": 2178.7715,
+                    "Y": 307.7649,
+                    "FrameIndex": 0,
+                    "EasingData": {
+                        "Type": 0
+                    },
+                    "ctype": "PointFrameData"
+                },
+                {
+                    "X": -518.7141,
+                    "Y": 307.7627,
+                    "FrameIndex": 1800,
+                    "EasingData": {
+                        "Type": 0
+                    },
+                    "ctype": "PointFrameData"
+                }
+            ],
+            "ctype": "TimelineData"
+        }
+    ],
+    [
+        {
+            "ActionTag": 315756556,
+            "Property": "Position",
+            "Frames": [
+                {
+                    "X": 2240.7917,
+                    "Y": 371.925,
+                    "FrameIndex": 0,
+                    "EasingData": {
+                        "Type": 0
+                    },
+                    "ctype": "PointFrameData"
+                },
+                {
+                    "X": -456.695,
+                    "Y": 371.9203,
+                    "FrameIndex": 1800,
+                    "EasingData": {
+                        "Type": 0
+                    },
+                    "ctype": "PointFrameData"
+                }
+            ],
+            "ctype": "TimelineData"
+        }
+    ],
+    [
+        {
+            "ActionTag": -2008369427,
+            "Property": "Position",
+            "Frames": [
+                {
+                    "X": 2309.304,
+                    "Y": 273.9154,
+                    "FrameIndex": 0,
+                    "EasingData": {
+                        "Type": 0
+                    },
+                    "ctype": "PointFrameData"
+                },
+                {
+                    "X": -388.1839,
+                    "Y": 273.9149,
+                    "FrameIndex": 1800,
+                    "EasingData": {
+                        "Type": 0
+                    },
+                    "ctype": "PointFrameData"
+                }
+            ],
+            "ctype": "TimelineData"
+        }
+    ],
+    [
+        {
+            "ActionTag": -410866622,
+            "Property": "Position",
+            "Frames": [
+                {
+                    "X": 2398.9578,
+                    "Y": 370.0783,
+                    "FrameIndex": 0,
+                    "EasingData": {
+                        "Type": 0
+                    },
+                    "ctype": "PointFrameData"
+                },
+                {
+                    "X": -298.5304,
+                    "Y": 370.0735,
+                    "FrameIndex": 1800,
+                    "EasingData": {
+                        "Type": 0
+                    },
+                    "ctype": "PointFrameData"
+                }
+            ],
+            "ctype": "TimelineData"
+        }
+    ],
+    [
+        {
+            "ActionTag": -2068787655,
+            "Property": "Position",
+            "Frames": [
+                {
+                    "X": 2306.5437,
+                    "Y": 469.9223,
+                    "FrameIndex": 0,
+                    "EasingData": {
+                        "Type": 0
+                    },
+                    "ctype": "PointFrameData"
+                },
+                {
+                    "X": -390.9437,
+                    "Y": 469.917,
+                    "FrameIndex": 1800,
+                    "EasingData": {
+                        "Type": 0
+                    },
+                    "ctype": "PointFrameData"
+                }
+            ],
+            "ctype": "TimelineData"
+        }
+    ],
+    [
+        {
+            "ActionTag": 1332336980,
+            "Property": "Position",
+            "Frames": [
+                {
+                    "X": 2309.3105,
+                    "Y": 371.0774,
+                    "FrameIndex": 0,
+                    "EasingData": {
+                        "Type": 0
+                    },
+                    "ctype": "PointFrameData"
+                },
+                {
+                    "X": -388.176,
+                    "Y": 371.0726,
+                    "FrameIndex": 1800,
+                    "EasingData": {
+                        "Type": 0
+                    },
+                    "ctype": "PointFrameData"
+                }
+            ],
+            "ctype": "TimelineData"
+        }
+    ],
+    [
+        {
+            "ActionTag": 1547403488,
+            "Property": "Position",
+            "Frames": [
+                {
+                    "X": 2306.3018,
+                    "Y": 533.4156,
+                    "FrameIndex": 0,
+                    "EasingData": {
+                        "Type": 0
+                    },
+                    "ctype": "PointFrameData"
+                },
+                {
+                    "X": -391.1863,
+                    "Y": 533.4105,
+                    "FrameIndex": 1800,
+                    "EasingData": {
+                        "Type": 0
+                    },
+                    "ctype": "PointFrameData"
+                }
+            ],
+            "ctype": "TimelineData"
+        }
+    ],
+    [
+        {
+            "ActionTag": -760361941,
+            "Property": "Position",
+            "Frames": [
+                {
+                    "X": 2309.3105,
+                    "Y": 210.332,
+                    "FrameIndex": 0,
+                    "EasingData": {
+                        "Type": 0
+                    },
+                    "ctype": "PointFrameData"
+                },
+                {
+                    "X": -388.176,
+                    "Y": 210.3312,
+                    "FrameIndex": 1800,
+                    "EasingData": {
+                        "Type": 0
+                    },
+                    "ctype": "PointFrameData"
+                }
+            ],
+            "ctype": "TimelineData"
+        }
+    ],
+    [
+        {
+            "ActionTag": 1693534258,
+            "Property": "Position",
+            "Frames": [
+                {
+                    "X": 2560.804,
+                    "Y": 367.0791,
+                    "FrameIndex": 0,
+                    "EasingData": {
+                        "Type": 0
+                    },
+                    "ctype": "PointFrameData"
+                },
+                {
+                    "X": -136.6919,
+                    "Y": 367.0742,
+                    "FrameIndex": 1800,
+                    "EasingData": {
+                        "Type": 0
+                    },
+                    "ctype": "PointFrameData"
+                }
+            ],
+            "ctype": "TimelineData"
+        }
+    ],
+    [
+        {
+            "ActionTag": 715346599,
+            "Property": "Position",
+            "Frames": [
+                {
+                    "X": 2478.9819,
+                    "Y": 470.9231,
+                    "FrameIndex": 0,
+                    "EasingData": {
+                        "Type": 0
+                    },
+                    "ctype": "PointFrameData"
+                },
+                {
+                    "X": -218.5063,
+                    "Y": 470.9178,
+                    "FrameIndex": 1800,
+                    "EasingData": {
+                        "Type": 0
+                    },
+                    "ctype": "PointFrameData"
+                }
+            ],
+            "ctype": "TimelineData"
+        }
+    ],
+    [
+        {
+            "ActionTag": 998722875,
+            "Property": "Position",
+            "Frames": [
+                {
+                    "X": 2477.9131,
+                    "Y": 273.9168,
+                    "FrameIndex": 0,
+                    "EasingData": {
+                        "Type": 0
+                    },
+                    "ctype": "PointFrameData"
+                },
+                {
+                    "X": -219.5783,
+                    "Y": 273.9154,
+                    "FrameIndex": 1800,
+                    "EasingData": {
+                        "Type": 0
+                    },
+                    "ctype": "PointFrameData"
+                }
+            ],
+            "ctype": "TimelineData"
+        }
+    ],
+    [
+        {
+            "ActionTag": 246086022,
+            "Property": "Position",
+            "Frames": [
+                {
+                    "X": 2479.4514,
+                    "Y": 370.0778,
+                    "FrameIndex": 0,
+                    "EasingData": {
+                        "Type": 0
+                    },
+                    "ctype": "PointFrameData"
+                },
+                {
+                    "X": -218.037,
+                    "Y": 370.073,
+                    "FrameIndex": 1800,
+                    "EasingData": {
+                        "Type": 0
+                    },
+                    "ctype": "PointFrameData"
+                }
+            ],
+            "ctype": "TimelineData"
+        }
+    ]
+]

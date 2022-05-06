@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!--Honghaier Game Editor : Version 1.0 -->
+<plist version="1.0">
+	<dict>
+		<key>animations</key>
+		<dict>
+			<key>gun_2_fire</key>
+			<dict>
+				<key>delay</key>
+				<real>0.02</real>
+				<key>frames</key>
+				<array>
+					<string>gun104fire0.png</string>
+					<string>gun104fire1.png</string>
+					<string>gun104fire2.png</string>
+					<string>gun104fire3.png</string>
+					<string>gun104fire4.png</string>
+					<string>gun104fire5.png</string>
+					<string>gun104fire6.png</string>
+					<string>gun104fire7.png</string>
+					<string>gun104fire8.png</string>
+					<string>gun104fire9.png</string>
+				</array>
+			</dict>
+		</dict>
+	</dict>
+</plist>

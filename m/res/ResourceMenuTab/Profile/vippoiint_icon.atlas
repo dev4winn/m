@@ -1,0 +1,40 @@
+
+vippoiint_icon.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bien
+  rotate: true
+  xy: 1, 116
+  size: 225, 112
+  orig: 227, 114
+  offset: 1, 1
+  index: -1
+kawwa
+  rotate: false
+  xy: 121, 1
+  size: 171, 116
+  orig: 171, 116
+  offset: 0, 0
+  index: -1
+light
+  rotate: true
+  xy: 114, 118
+  size: 223, 142
+  orig: 225, 144
+  offset: 1, 1
+  index: -1
+maz
+  rotate: true
+  xy: 257, 126
+  size: 215, 100
+  orig: 217, 102
+  offset: 1, 1
+  index: -1
+sh
+  rotate: true
+  xy: 1, 12
+  size: 103, 119
+  orig: 105, 121
+  offset: 1, 1
+  index: -1

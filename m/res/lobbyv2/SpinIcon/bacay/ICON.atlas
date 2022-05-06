@@ -1,0 +1,41 @@
+
+ICON.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+3CAYCARD1
+  rotate: false
+  xy: 201, 24
+  size: 138, 130
+  orig: 138, 130
+  offset: 0, 0
+  index: -1
+3CAYCHIP
+  rotate: false
+  xy: 397, 143
+  size: 95, 94
+  orig: 95, 94
+  offset: 0, 0
+  index: -1
+3CAYTEXT
+  rotate: false
+  xy: 2, 2
+  size: 142, 50
+  orig: 142, 50
+  offset: 0, 0
+  index: -1
+BG
+  rotate: false
+  xy: 2, 54
+  size: 197, 183
+  orig: 197, 183
+  offset: 0, 0
+  index: -1
+FRAME
+  rotate: false
+  xy: 201, 156
+  size: 194, 81
+  orig: 194, 81
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,123 @@
+
+Nuchienthan.png
+size: 925,1023
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG
+  rotate: true
+  xy: 2, 94
+  size: 213, 415
+  orig: 213, 415
+  offset: 0, 0
+  index: -1
+NV01
+  rotate: false
+  xy: 716, 614
+  size: 207, 407
+  orig: 207, 407
+  offset: 0, 0
+  index: -1
+NV02
+  rotate: false
+  xy: 716, 205
+  size: 207, 407
+  orig: 207, 407
+  offset: 0, 0
+  index: -1
+Nu_Chien_Than
+  rotate: false
+  xy: 419, 178
+  size: 292, 129
+  orig: 292, 129
+  offset: 0, 0
+  index: -1
+Quay
+  rotate: false
+  xy: 2, 309
+  size: 712, 712
+  orig: 712, 712
+  offset: 0, 0
+  index: -1
+SD
+  rotate: false
+  xy: 713, 2
+  size: 207, 201
+  orig: 207, 201
+  offset: 0, 0
+  index: -1
+
+Nuchienthan2.png
+size: 838,820
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+NV03
+  rotate: false
+  xy: 2, 411
+  size: 207, 407
+  orig: 207, 407
+  offset: 0, 0
+  index: -1
+NV04
+  rotate: false
+  xy: 2, 2
+  size: 207, 407
+  orig: 207, 407
+  offset: 0, 0
+  index: -1
+NV05
+  rotate: false
+  xy: 211, 411
+  size: 207, 407
+  orig: 207, 407
+  offset: 0, 0
+  index: -1
+NV06
+  rotate: false
+  xy: 211, 2
+  size: 207, 407
+  orig: 207, 407
+  offset: 0, 0
+  index: -1
+NV07
+  rotate: false
+  xy: 420, 411
+  size: 207, 407
+  orig: 207, 407
+  offset: 0, 0
+  index: -1
+NV08
+  rotate: false
+  xy: 420, 2
+  size: 207, 407
+  orig: 207, 407
+  offset: 0, 0
+  index: -1
+NV09
+  rotate: false
+  xy: 629, 411
+  size: 207, 407
+  orig: 207, 407
+  offset: 0, 0
+  index: -1
+NV10
+  rotate: false
+  xy: 629, 2
+  size: 207, 407
+  orig: 207, 407
+  offset: 0, 0
+  index: -1
+
+Nuchienthan3.png
+size: 211,411
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+NV11
+  rotate: false
+  xy: 2, 2
+  size: 207, 407
+  orig: 207, 407
+  offset: 0, 0
+  index: -1

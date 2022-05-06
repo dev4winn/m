@@ -1,0 +1,99 @@
+
+x2_nap_landau.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+L?N N?P ??U TIÊN
+  rotate: true
+  xy: 863, 209
+  size: 801, 138
+  orig: 803, 140
+  offset: 1, 1
+  index: -1
+X2
+  rotate: false
+  xy: 2, 453
+  size: 859, 557
+  orig: 861, 559
+  offset: 1, 1
+  index: -1
+coin
+  rotate: false
+  xy: 2, 19
+  size: 627, 432
+  orig: 629, 434
+  offset: 1, 1
+  index: -1
+t1
+  rotate: true
+  xy: 941, 2
+  size: 94, 62
+  orig: 96, 64
+  offset: 1, 1
+  index: -1
+t2
+  rotate: true
+  xy: 941, 98
+  size: 109, 75
+  orig: 111, 77
+  offset: 1, 1
+  index: -1
+t3
+  rotate: false
+  xy: 810, 82
+  size: 129, 125
+  orig: 131, 127
+  offset: 1, 1
+  index: -1
+vt_500
+  rotate: true
+  xy: 631, 11
+  size: 196, 177
+  orig: 198, 179
+  offset: 1, 1
+  index: -1
+
+x2_nap_landau2.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+g1
+  rotate: true
+  xy: 537, 2
+  size: 332, 363
+  orig: 334, 365
+  offset: 1, 1
+  index: -1
+g2
+  rotate: false
+  xy: 2, 106
+  size: 533, 603
+  orig: 535, 605
+  offset: 1, 1
+  index: -1
+momo
+  rotate: false
+  xy: 537, 336
+  size: 374, 373
+  orig: 376, 375
+  offset: 1, 1
+  index: -1
+vien duoi
+  rotate: false
+  xy: 2, 711
+  size: 997, 236
+  orig: 999, 238
+  offset: 1, 1
+  index: -1
+
+x2_nap_landau3.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+vang
+  rotate: false
+  xy: 2, 2
+  size: 337, 331
+  orig: 339, 333
+  offset: 1, 1
+  index: -1

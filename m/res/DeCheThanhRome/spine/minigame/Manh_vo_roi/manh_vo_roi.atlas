@@ -1,0 +1,83 @@
+
+manh_vo_roi.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+manhvo_00000
+  rotate: false
+  xy: 572, 101
+  size: 112, 153
+  orig: 112, 153
+  offset: 0, 0
+  index: -1
+manhvo_00001
+  rotate: false
+  xy: 686, 110
+  size: 112, 144
+  orig: 112, 144
+  offset: 0, 0
+  index: -1
+manhvo_00002
+  rotate: false
+  xy: 800, 120
+  size: 112, 134
+  orig: 112, 134
+  offset: 0, 0
+  index: -1
+manhvo_00003
+  rotate: false
+  xy: 344, 96
+  size: 112, 158
+  orig: 112, 158
+  offset: 0, 0
+  index: -1
+manhvo_00004
+  rotate: false
+  xy: 230, 79
+  size: 112, 175
+  orig: 112, 175
+  offset: 0, 0
+  index: -1
+manhvo_00005
+  rotate: false
+  xy: 116, 72
+  size: 112, 182
+  orig: 112, 182
+  offset: 0, 0
+  index: -1
+manhvo_00006
+  rotate: false
+  xy: 2, 65
+  size: 112, 189
+  orig: 112, 189
+  offset: 0, 0
+  index: -1
+manhvo_00007
+  rotate: false
+  xy: 458, 99
+  size: 112, 155
+  orig: 112, 155
+  offset: 0, 0
+  index: -1
+manhvo_00008
+  rotate: true
+  xy: 800, 6
+  size: 112, 121
+  orig: 112, 121
+  offset: 0, 0
+  index: -1
+manhvo_00009
+  rotate: false
+  xy: 686, 2
+  size: 112, 106
+  orig: 112, 106
+  offset: 0, 0
+  index: -1
+manhvo_00010
+  rotate: true
+  xy: 914, 142
+  size: 112, 106
+  orig: 112, 106
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!--Honghaier Game Editor : Version 1.0 -->
+<plist version="1.0">
+	<dict>
+		<key>animations</key>
+		<dict>
+			<key>coinwin_1</key>
+			<dict>
+				<key>delay</key>
+				<real>0.03500</real>
+				<key>frames</key>
+				<array>
+					<string>CoinWin0.png</string>
+					<string>CoinWin1.png</string>
+					<string>CoinWin2.png</string>
+					<string>CoinWin3.png</string>
+					<string>CoinWin4.png</string>
+					<string>CoinWin5.png</string>
+					<string>CoinWin6.png</string>
+					<string>CoinWin7.png</string>
+				</array>
+			</dict>
+		</dict>
+	</dict>
+</plist>

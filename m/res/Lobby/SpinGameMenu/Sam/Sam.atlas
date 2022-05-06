@@ -1,0 +1,55 @@
+
+Sam.png
+size: 809,227
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+A
+  rotate: false
+  xy: 449, 86
+  size: 109, 139
+  orig: 109, 139
+  offset: 0, 0
+  index: -1
+BG
+  rotate: true
+  xy: 238, 7
+  size: 218, 209
+  orig: 218, 209
+  offset: 0, 0
+  index: -1
+J
+  rotate: true
+  xy: 669, 118
+  size: 107, 138
+  orig: 107, 138
+  offset: 0, 0
+  index: -1
+K
+  rotate: true
+  xy: 669, 9
+  size: 107, 138
+  orig: 107, 138
+  offset: 0, 0
+  index: -1
+Light
+  rotate: false
+  xy: 2, 2
+  size: 234, 223
+  orig: 234, 223
+  offset: 0, 0
+  index: -1
+Q
+  rotate: false
+  xy: 560, 86
+  size: 107, 139
+  orig: 107, 139
+  offset: 0, 0
+  index: -1
+Sam_Loc
+  rotate: false
+  xy: 449, 30
+  size: 173, 54
+  orig: 173, 54
+  offset: 0, 0
+  index: -1

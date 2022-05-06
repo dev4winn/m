@@ -1,0 +1,48 @@
+
+MTDH.png
+size: 886,227
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG
+  rotate: true
+  xy: 461, 7
+  size: 218, 209
+  orig: 218, 209
+  offset: 0, 0
+  index: -1
+Hoang_Da
+  rotate: false
+  xy: 672, 20
+  size: 144, 34
+  orig: 144, 34
+  offset: 0, 0
+  index: -1
+Light
+  rotate: false
+  xy: 2, 2
+  size: 234, 223
+  orig: 234, 223
+  offset: 0, 0
+  index: -1
+Mien_Tay
+  rotate: false
+  xy: 672, 56
+  size: 197, 53
+  orig: 197, 53
+  offset: 0, 0
+  index: -1
+NV
+  rotate: false
+  xy: 238, 2
+  size: 221, 223
+  orig: 221, 223
+  offset: 0, 0
+  index: -1
+SD
+  rotate: false
+  xy: 672, 111
+  size: 212, 114
+  orig: 212, 114
+  offset: 0, 0
+  index: -1

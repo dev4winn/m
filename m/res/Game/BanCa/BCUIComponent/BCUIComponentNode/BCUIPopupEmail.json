@@ -1,0 +1,962 @@
+{
+  "ID": "28f10294-7810-4b73-82ca-448c8ff675ca",
+  "Version": "3.10.0.0",
+  "Name": "BCUIPopupEmail",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 75,
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 153,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 134,
+            "ActionTag": -1888249456,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "Alpha": 153,
+            "Name": "PanelBackground",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "res/Game/BanCa/BCUIComponent/BCUIComponentAtlas/ImgPanelPopup.png",
+              "Plist": ""
+            },
+            "Scale9OriginX": 355,
+            "Scale9OriginY": 206,
+            "Scale9Width": 358,
+            "Scale9Height": 200,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 640.0,
+              "Y": 360.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 0.9359,
+              "Y": 0.9583
+            },
+            "LeftMargin": 41.0,
+            "RightMargin": 41.0,
+            "TopMargin": 15.0,
+            "BottomMargin": 15.0,
+            "Tag": 107,
+            "Children": [
+              {
+                "IsCustomSize": true,
+                "FontSize": 48,
+                "LabelText": "HỘP THƯ",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "res/Game/BanCa/BCCommon/BCFonts/UTMFacebookBKT.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "R": 0,
+                  "G": 0
+                },
+                "OutlineEnabled": true,
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 0.0,
+                "ShadowOffsetY": 0.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 599.0,
+                  "Y": 641.7
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.93
+                },
+                "PreSize": {
+                  "X": 0.2312,
+                  "Y": 0.1101
+                },
+                "LeftMargin": 460.5,
+                "RightMargin": 460.5,
+                "TopMargin": 10.3,
+                "BottomMargin": 603.7,
+                "Tag": 146,
+                "ActionTag": 921066717,
+                "Size": {
+                  "X": 277.0,
+                  "Y": 76.0
+                },
+                "Name": "Title",
+                "ctype": "TextObjectData"
+              },
+              {
+                "ClipAble": false,
+                "BackColorAlpha": 102,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 100.0,
+                  "Y": 71.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0835,
+                  "Y": 0.1029
+                },
+                "PreSize": {
+                  "X": 0.8347,
+                  "Y": 0.7609
+                },
+                "LeftMargin": 100.0,
+                "RightMargin": 98.0,
+                "TopMargin": 94.0,
+                "BottomMargin": 71.0,
+                "Tag": 15,
+                "Children": [
+                  {
+                    "DirectionType": "Vertical",
+                    "IsBounceEnabled": true,
+                    "ScrollDirectionType": 0,
+                    "ClipAble": true,
+                    "BackColorAlpha": 102,
+                    "SingleColor": {
+                      "R": 150,
+                      "G": 150
+                    },
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 150
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "Scale9Width": 1,
+                    "Scale9Height": 1,
+                    "TouchEnable": true,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PercentWidthEnable": true,
+                    "PercentWidthEnabled": true,
+                    "PreSize": {
+                      "X": 1.0,
+                      "Y": 0.9524
+                    },
+                    "TopMargin": 25.0,
+                    "Tag": 149,
+                    "Children": [
+                      {
+                        "ClipAble": false,
+                        "BackColorAlpha": 102,
+                        "SingleColor": {
+                          "R": 150,
+                          "G": 200
+                        },
+                        "FirstColor": {
+                          "R": 150,
+                          "G": 200
+                        },
+                        "EndColor": {},
+                        "ColorVector": {
+                          "ScaleY": 1.0
+                        },
+                        "Scale9Enable": true,
+                        "Scale9OriginX": -105,
+                        "Scale9OriginY": -23,
+                        "Scale9Width": 210,
+                        "Scale9Height": 46,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                          "X": 0.0,
+                          "Y": 395.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.0,
+                          "Y": 0.79
+                        },
+                        "PreSize": {
+                          "X": 1.0,
+                          "Y": 0.21
+                        },
+                        "BottomMargin": 395.0,
+                        "Tag": 162,
+                        "Children": [
+                          {
+                            "FontSize": 18,
+                            "LabelText": "Text Label",
+                            "FontResource": {
+                              "Type": "Normal",
+                              "Path": "res/Game/BanCa/BCCommon/BCFonts/UTMFacebookRKT.ttf",
+                              "Plist": ""
+                            },
+                            "OutlineColor": {
+                              "R": 0,
+                              "G": 0
+                            },
+                            "ShadowColor": {
+                              "R": 110,
+                              "G": 110,
+                              "B": 110
+                            },
+                            "ShadowOffsetX": 2.0,
+                            "ShadowOffsetY": -2.0,
+                            "AnchorPoint": {
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": 59.3323,
+                              "Y": 79.34
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {},
+                            "IconVisible": false,
+                            "PrePosition": {
+                              "X": 0.0593,
+                              "Y": 0.7556
+                            },
+                            "PreSize": {
+                              "X": 0.08,
+                              "Y": 0.2095
+                            },
+                            "LeftMargin": 59.3323,
+                            "RightMargin": 860.6677,
+                            "TopMargin": 14.66,
+                            "BottomMargin": 68.34,
+                            "Tag": 164,
+                            "ActionTag": 1590427195,
+                            "Size": {
+                              "X": 80.0,
+                              "Y": 22.0
+                            },
+                            "Name": "TextTitle",
+                            "ctype": "TextObjectData"
+                          },
+                          {
+                            "FontSize": 18,
+                            "LabelText": "Text Label",
+                            "FontResource": {
+                              "Type": "Normal",
+                              "Path": "res/Game/BanCa/BCCommon/BCFonts/UTMFacebookRKT.ttf",
+                              "Plist": ""
+                            },
+                            "OutlineColor": {
+                              "G": 0,
+                              "B": 0
+                            },
+                            "ShadowColor": {
+                              "R": 110,
+                              "G": 110,
+                              "B": 110
+                            },
+                            "ShadowOffsetX": 2.0,
+                            "ShadowOffsetY": -2.0,
+                            "AnchorPoint": {
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": 60.0,
+                              "Y": 43.64
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {},
+                            "IconVisible": false,
+                            "PrePosition": {
+                              "X": 0.06,
+                              "Y": 0.4156
+                            },
+                            "PreSize": {
+                              "X": 0.08,
+                              "Y": 0.2095
+                            },
+                            "LeftMargin": 60.0,
+                            "RightMargin": 860.0,
+                            "TopMargin": 50.36,
+                            "BottomMargin": 32.64,
+                            "Tag": 165,
+                            "ActionTag": 1115653924,
+                            "Size": {
+                              "X": 80.0,
+                              "Y": 22.0
+                            },
+                            "Name": "TextDate",
+                            "ctype": "TextObjectData"
+                          },
+                          {
+                            "FileData": {
+                              "Type": "PlistSubImage",
+                              "Path": "ImgBtnX.png",
+                              "Plist": "res/Game/BanCa/BCUIComponent/BCUIComponentAtlas/RESPopup.plist"
+                            },
+                            "Scale9OriginX": 9,
+                            "Scale9Width": 10,
+                            "Scale9Height": 30,
+                            "TouchEnable": true,
+                            "AnchorPoint": {
+                              "ScaleX": 0.5,
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": 950.0,
+                              "Y": 52.5
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {},
+                            "IconVisible": false,
+                            "PositionPercentXEnabled": true,
+                            "PositionPercentYEnabled": true,
+                            "PrePosition": {
+                              "X": 0.95,
+                              "Y": 0.5
+                            },
+                            "PreSize": {
+                              "X": 0.028,
+                              "Y": 0.2857
+                            },
+                            "LeftMargin": 936.0,
+                            "RightMargin": 36.0,
+                            "TopMargin": 37.5,
+                            "BottomMargin": 37.5,
+                            "Tag": 635,
+                            "ActionTag": -1116414988,
+                            "Size": {
+                              "X": 28.0,
+                              "Y": 30.0
+                            },
+                            "Name": "BtnDeleteEmail",
+                            "ctype": "ImageViewObjectData"
+                          },
+                          {
+                            "FileData": {
+                              "Type": "PlistSubImage",
+                              "Path": "ImgShopInfoLine.png",
+                              "Plist": "res/Game/BanCa/BCUIComponent/BCUIComponentAtlas/RESPopup.plist"
+                            },
+                            "Scale9Enable": true,
+                            "Scale9OriginX": 1,
+                            "Scale9OriginY": 3,
+                            "Scale9Width": 1,
+                            "Scale9Height": 6,
+                            "AnchorPoint": {
+                              "ScaleX": 0.5,
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": 500.0,
+                              "Y": 7.0
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {},
+                            "IconVisible": false,
+                            "PositionPercentXEnabled": true,
+                            "PrePosition": {
+                              "X": 0.5,
+                              "Y": 0.0667
+                            },
+                            "PercentWidthEnable": true,
+                            "PercentWidthEnabled": true,
+                            "PreSize": {
+                              "X": 1.0,
+                              "Y": 0.1143
+                            },
+                            "TopMargin": 92.0,
+                            "BottomMargin": 1.0,
+                            "Tag": 133,
+                            "ActionTag": 1629269192,
+                            "Size": {
+                              "X": 1000.0,
+                              "Y": 12.0
+                            },
+                            "Name": "Line",
+                            "ctype": "ImageViewObjectData"
+                          }
+                        ],
+                        "ActionTag": -438457713,
+                        "Size": {
+                          "X": 1000.0,
+                          "Y": 105.0
+                        },
+                        "Name": "Item_0",
+                        "ctype": "PanelObjectData"
+                      }
+                    ],
+                    "ActionTag": -275008146,
+                    "Size": {
+                      "X": 1000.0,
+                      "Y": 500.0
+                    },
+                    "Name": "ListEmail",
+                    "ctype": "ListViewObjectData"
+                  },
+                  {
+                    "DirectionType": "Vertical",
+                    "IsBounceEnabled": true,
+                    "ScrollDirectionType": 0,
+                    "ClipAble": true,
+                    "BackColorAlpha": 102,
+                    "SingleColor": {
+                      "R": 150,
+                      "G": 150
+                    },
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 150
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "Scale9Width": 1,
+                    "Scale9Height": 1,
+                    "TouchEnable": true,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 0.0,
+                      "Y": 48.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0914
+                    },
+                    "PercentWidthEnable": true,
+                    "PercentWidthEnabled": true,
+                    "PreSize": {
+                      "X": 1.0,
+                      "Y": 0.8381
+                    },
+                    "TopMargin": 37.0,
+                    "BottomMargin": 48.0,
+                    "Tag": 16,
+                    "Children": [
+                      {
+                        "ClipAble": true,
+                        "BackColorAlpha": 102,
+                        "SingleColor": {
+                          "R": 150,
+                          "G": 200
+                        },
+                        "FirstColor": {
+                          "R": 150,
+                          "G": 200
+                        },
+                        "EndColor": {},
+                        "ColorVector": {
+                          "ScaleY": 1.0
+                        },
+                        "Scale9Width": 1,
+                        "Scale9Height": 1,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "PreSize": {
+                          "X": 0.73,
+                          "Y": 1.0
+                        },
+                        "RightMargin": 270.0,
+                        "Tag": 21,
+                        "Children": [
+                          {
+                            "FontSize": 18,
+                            "LabelText": "Text Label",
+                            "FontResource": {
+                              "Type": "Normal",
+                              "Path": "res/Game/BanCa/BCCommon/BCFonts/UTMFacebookKTItalic.ttf",
+                              "Plist": ""
+                            },
+                            "OutlineColor": {
+                              "G": 0,
+                              "B": 0
+                            },
+                            "ShadowColor": {
+                              "R": 110,
+                              "G": 110,
+                              "B": 110
+                            },
+                            "ShadowOffsetX": 2.0,
+                            "ShadowOffsetY": -2.0,
+                            "AnchorPoint": {
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": 32.9549,
+                              "Y": 420.93
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {},
+                            "IconVisible": false,
+                            "PrePosition": {
+                              "X": 0.0451,
+                              "Y": 0.9567
+                            },
+                            "PreSize": {
+                              "X": 0.1082,
+                              "Y": 0.05
+                            },
+                            "LeftMargin": 32.9549,
+                            "RightMargin": 618.0451,
+                            "TopMargin": 8.07,
+                            "BottomMargin": 409.93,
+                            "Tag": 24,
+                            "ActionTag": -892158650,
+                            "Size": {
+                              "X": 79.0,
+                              "Y": 22.0
+                            },
+                            "Name": "TextDate",
+                            "ctype": "TextObjectData"
+                          },
+                          {
+                            "IsCustomSize": true,
+                            "FontSize": 18,
+                            "LabelText": "Text Label",
+                            "FontResource": {
+                              "Type": "Normal",
+                              "Path": "res/Game/BanCa/BCCommon/BCFonts/UTMFacebookRKT.ttf",
+                              "Plist": ""
+                            },
+                            "OutlineColor": {
+                              "G": 0,
+                              "B": 0
+                            },
+                            "ShadowColor": {
+                              "R": 110,
+                              "G": 110,
+                              "B": 110
+                            },
+                            "ShadowOffsetX": 2.0,
+                            "ShadowOffsetY": -2.0,
+                            "AnchorPoint": {
+                              "ScaleY": 1.0
+                            },
+                            "Position": {
+                              "X": 32.9549,
+                              "Y": 391.6
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {},
+                            "IconVisible": false,
+                            "PositionPercentYEnabled": true,
+                            "PrePosition": {
+                              "X": 0.0451,
+                              "Y": 0.89
+                            },
+                            "PreSize": {
+                              "X": 0.8904,
+                              "Y": 0.8773
+                            },
+                            "LeftMargin": 32.9549,
+                            "RightMargin": 47.0451,
+                            "TopMargin": 48.4,
+                            "BottomMargin": 5.6,
+                            "Tag": 23,
+                            "ActionTag": -1981275922,
+                            "Size": {
+                              "X": 650.0,
+                              "Y": 386.0
+                            },
+                            "Name": "TextContent",
+                            "ctype": "TextObjectData"
+                          }
+                        ],
+                        "ActionTag": 1413444695,
+                        "Size": {
+                          "X": 730.0,
+                          "Y": 440.0
+                        },
+                        "Name": "Content",
+                        "ctype": "PanelObjectData"
+                      }
+                    ],
+                    "ActionTag": 1278042314,
+                    "Size": {
+                      "X": 1000.0,
+                      "Y": 440.0
+                    },
+                    "VisibleForFrame": false,
+                    "Name": "EmailDetail",
+                    "ctype": "ListViewObjectData"
+                  },
+                  {
+                    "FontSize": 24,
+                    "ButtonText": "",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "res/Game/BanCa/BCCommon/BCFonts/UTMFacebookBKT.ttf",
+                      "Plist": ""
+                    },
+                    "TextColor": {},
+                    "NormalFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "ImgLoginBtnRed.png",
+                      "Plist": "res/Game/BanCa/BCUIComponent/BCUIComponentAtlas/RESPopup.plist"
+                    },
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 161,
+                    "Scale9Height": 32,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 500.0,
+                      "Y": -4.92
+                    },
+                    "Scale": {
+                      "ScaleX": 0.6,
+                      "ScaleY": 0.6
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": -0.0094
+                    },
+                    "PreSize": {
+                      "X": 0.191,
+                      "Y": 0.1029
+                    },
+                    "LeftMargin": 404.5,
+                    "RightMargin": 404.5,
+                    "TopMargin": 502.92,
+                    "BottomMargin": -31.92,
+                    "Tag": 559,
+                    "Children": [
+                      {
+                        "IsCustomSize": true,
+                        "FontSize": 36,
+                        "LabelText": "Trở Lại",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "res/Game/BanCa/BCCommon/BCFonts/UTMFacebookBKT.ttf",
+                          "Plist": ""
+                        },
+                        "HorizontalAlignmentType": "HT_Center",
+                        "VerticalAlignmentType": "VT_Center",
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 95.5,
+                          "Y": 29.7
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.55
+                        },
+                        "PreSize": {
+                          "X": 0.733,
+                          "Y": 0.7778
+                        },
+                        "LeftMargin": 25.5,
+                        "RightMargin": 25.5,
+                        "TopMargin": 3.3,
+                        "BottomMargin": 8.7,
+                        "Tag": 36,
+                        "ActionTag": -1248419788,
+                        "Size": {
+                          "X": 140.0,
+                          "Y": 42.0
+                        },
+                        "Name": "Text",
+                        "ctype": "TextObjectData"
+                      }
+                    ],
+                    "ActionTag": -74639504,
+                    "Size": {
+                      "X": 191.0,
+                      "Y": 54.0
+                    },
+                    "VisibleForFrame": false,
+                    "Name": "BtnBackEmailDetail",
+                    "ctype": "ButtonObjectData"
+                  }
+                ],
+                "ActionTag": -389867563,
+                "Size": {
+                  "X": 1000.0,
+                  "Y": 525.0
+                },
+                "Name": "EmailContent",
+                "ctype": "PanelObjectData"
+              }
+            ],
+            "ActionTag": -658188882,
+            "Size": {
+              "X": 1198.0,
+              "Y": 690.0
+            },
+            "Name": "PanelContent",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "ImgShopBtnClose.png",
+              "Plist": "res/Game/BanCa/BCUIComponent/BCUIComponentAtlas/RESPopup.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 56,
+            "Scale9Height": 64,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 1202.525,
+              "Y": 659.3267
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.9395,
+              "Y": 0.9157
+            },
+            "PreSize": {
+              "X": 0.0672,
+              "Y": 0.1194
+            },
+            "LeftMargin": 1159.525,
+            "RightMargin": 34.475,
+            "TopMargin": 17.6733,
+            "BottomMargin": 616.3267,
+            "Tag": 106,
+            "ActionTag": 465204768,
+            "Size": {
+              "X": 86.0,
+              "Y": 86.0
+            },
+            "Name": "BtnClose",
+            "ctype": "ButtonObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "../../BCCommon/BCFonts/UTMFacebookBKT.ttf",
+        "../../BCCommon/BCFonts/UTMFacebookKTItalic.ttf",
+        "../../BCCommon/BCFonts/UTMFacebookRKT.ttf",
+        "../BCUIComponentAtlas/ImgPanelPopup.png",
+        "../BCUIComponentAtlas/RESPopup.plist",
+        "../BCUIComponentAtlas/RESPopup.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

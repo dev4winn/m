@@ -1,0 +1,33 @@
+
+daily120.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+120%
+  rotate: false
+  xy: 502, 130
+  size: 203, 121
+  orig: 205, 123
+  offset: 1, 1
+  index: -1
+GIA TRI
+  rotate: false
+  xy: 502, 55
+  size: 151, 74
+  orig: 153, 76
+  offset: 1, 1
+  index: -1
+Layer 1
+  rotate: false
+  xy: 1, 1
+  size: 250, 250
+  orig: 252, 252
+  offset: 1, 1
+  index: -1
+Layer 2
+  rotate: false
+  xy: 252, 1
+  size: 249, 250
+  orig: 251, 252
+  offset: 1, 1
+  index: -1

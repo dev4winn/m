@@ -1,0 +1,99 @@
+{
+  "ID": "0b16d47c-7fcf-49f4-a31c-8bf9fecc490b",
+  "Version": "3.10.0.0",
+  "Name": "MoneyChooser",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 9,
+        "Children": [
+          {
+            "BackGroundData": {
+              "Type": "Default",
+              "Path": "Default/Slider_Back.png",
+              "Plist": ""
+            },
+            "ProgressBarData": {
+              "Type": "Default",
+              "Path": "Default/Slider_PressBar.png",
+              "Plist": ""
+            },
+            "BallNormalData": {
+              "Type": "Default",
+              "Path": "Default/SliderNode_Normal.png",
+              "Plist": ""
+            },
+            "BallPressedData": {
+              "Type": "Default",
+              "Path": "Default/SliderNode_Press.png",
+              "Plist": ""
+            },
+            "BallDisabledData": {
+              "Type": "Default",
+              "Path": "Default/SliderNode_Disable.png",
+              "Plist": ""
+            },
+            "PercentInfo": 50,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 939.1065,
+              "Y": 606.514
+            },
+            "Scale": {
+              "ScaleX": 3.8626,
+              "ScaleY": 3.8626
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4891,
+              "Y": 0.5616
+            },
+            "PreSize": {
+              "X": 0.1042,
+              "Y": 0.013
+            },
+            "LeftMargin": 839.1065,
+            "RightMargin": 880.8936,
+            "TopMargin": 466.486,
+            "BottomMargin": 599.514,
+            "Tag": 10,
+            "ActionTag": -1650494739,
+            "Size": {
+              "X": 200.0,
+              "Y": 14.0
+            },
+            "Name": "Slider_1",
+            "ctype": "SliderObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1920.0,
+          "Y": 1080.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "Default/Slider_Back.png",
+        "Default/Slider_PressBar.png",
+        "Default/SliderNode_Disable.png",
+        "Default/SliderNode_Normal.png",
+        "Default/SliderNode_Press.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

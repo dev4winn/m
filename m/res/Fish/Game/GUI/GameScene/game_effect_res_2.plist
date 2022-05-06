@@ -1,0 +1,192 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>ccs/game_effect/game_ui_emo_effect_0.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{822,531},{208,300}}</string>
+				<key>offset</key>
+				<string>{-1,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{300,300}</string>
+			</dict>
+			<key>ccs/game_effect/game_ui_emo_effect_1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{599,1},{235,298}}</string>
+				<key>offset</key>
+				<string>{-3,-1}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{300,300}</string>
+			</dict>
+			<key>ccs/game_effect/game_ui_emo_effect_10.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,598},{285,292}}</string>
+				<key>offset</key>
+				<string>{0,-4}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{300,300}</string>
+			</dict>
+			<key>ccs/game_effect/game_ui_emo_effect_11.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{822,833},{298,179}}</string>
+				<key>offset</key>
+				<string>{0,-58}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{300,300}</string>
+			</dict>
+			<key>ccs/game_effect/game_ui_emo_effect_12.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{580,266},{240,300}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{300,300}</string>
+			</dict>
+			<key>ccs/game_effect/game_ui_emo_effect_13.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{822,238},{229,291}}</string>
+				<key>offset</key>
+				<string>{0,1}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{300,300}</string>
+			</dict>
+			<key>ccs/game_effect/game_ui_emo_effect_14.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,301},{295,292}}</string>
+				<key>offset</key>
+				<string>{-3,-4}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{300,300}</string>
+			</dict>
+			<key>ccs/game_effect/game_ui_emo_effect_2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{298,294}}</string>
+				<key>offset</key>
+				<string>{-1,-3}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{300,300}</string>
+			</dict>
+			<key>ccs/game_effect/game_ui_emo_effect_3.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{295,301},{283,283}}</string>
+				<key>offset</key>
+				<string>{-1,-8}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{300,300}</string>
+			</dict>
+			<key>ccs/game_effect/game_ui_emo_effect_4.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{563,586},{257,294}}</string>
+				<key>offset</key>
+				<string>{-3,-3}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{300,300}</string>
+			</dict>
+			<key>ccs/game_effect/game_ui_emo_effect_5.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{297,1},{263,300}}</string>
+				<key>offset</key>
+				<string>{-1,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{300,300}</string>
+			</dict>
+			<key>ccs/game_effect/game_ui_emo_effect_6.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1122,814},{285,198}}</string>
+				<key>offset</key>
+				<string>{-1,-51}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{300,300}</string>
+			</dict>
+			<key>ccs/game_effect/game_ui_emo_effect_7.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{288,598},{296,273}}</string>
+				<key>offset</key>
+				<string>{1,-13}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{300,300}</string>
+			</dict>
+			<key>ccs/game_effect/game_ui_emo_effect_8.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{899,1},{296,218}}</string>
+				<key>offset</key>
+				<string>{0,-41}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{300,300}</string>
+			</dict>
+			<key>ccs/game_effect/game_ui_emo_effect_9.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1032,531},{204,281}}</string>
+				<key>offset</key>
+				<string>{0,-9}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{300,300}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>game_effect_res_2.png</string>
+			<key>realTextureFileName</key>
+			<string>game_effect_res_2.png</string>
+			<key>size</key>
+			<string>{1408,1013}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>1408</integer>
+			<key>height</key>
+			<integer>1013</integer>
+		</dict>
+	</dict>
+</plist>

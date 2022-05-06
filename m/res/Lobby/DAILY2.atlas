@@ -1,0 +1,48 @@
+
+DAILY2.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BUTTON
+  rotate: false
+  xy: 2, 2
+  size: 285, 105
+  orig: 287, 107
+  offset: 1, 1
+  index: -1
+CHIP
+  rotate: false
+  xy: 390, 100
+  size: 102, 89
+  orig: 104, 91
+  offset: 1, 1
+  index: -1
+GOLD
+  rotate: true
+  xy: 289, 6
+  size: 126, 99
+  orig: 128, 101
+  offset: 1, 1
+  index: -1
+LIGHT
+  rotate: false
+  xy: 2, 109
+  size: 279, 144
+  orig: 281, 146
+  offset: 1, 1
+  index: -1
+LIGHT2
+  rotate: true
+  xy: 283, 134
+  size: 55, 92
+  orig: 55, 92
+  offset: 0, 0
+  index: -1
+NAPWIN
+  rotate: false
+  xy: 283, 191
+  size: 225, 62
+  orig: 227, 64
+  offset: 1, 1
+  index: -1

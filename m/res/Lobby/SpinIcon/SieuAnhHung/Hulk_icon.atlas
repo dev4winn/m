@@ -1,0 +1,137 @@
+
+Hulk_icon.png
+size: 997,1007
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Hulk_00004
+  rotate: true
+  xy: 2, 4
+  size: 252, 425
+  orig: 252, 425
+  offset: 0, 0
+  index: -1
+Hulk_00008
+  rotate: false
+  xy: 429, 260
+  size: 316, 425
+  orig: 316, 425
+  offset: 0, 0
+  index: -1
+Hulk_00009
+  rotate: true
+  xy: 2, 258
+  size: 320, 425
+  orig: 320, 425
+  offset: 0, 0
+  index: -1
+Hulk_00010
+  rotate: false
+  xy: 2, 580
+  size: 321, 425
+  orig: 321, 425
+  offset: 0, 0
+  index: -1
+Hulk_00011
+  rotate: true
+  xy: 325, 687
+  size: 318, 425
+  orig: 318, 425
+  offset: 0, 0
+  index: -1
+Hulk_00014
+  rotate: true
+  xy: 429, 2
+  size: 256, 425
+  orig: 256, 425
+  offset: 0, 0
+  index: -1
+Hulk_00015
+  rotate: false
+  xy: 747, 260
+  size: 248, 425
+  orig: 248, 425
+  offset: 0, 0
+  index: -1
+
+Hulk_icon2.png
+size: 948,1008
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Hulk_00002
+  rotate: false
+  xy: 714, 284
+  size: 232, 425
+  orig: 232, 425
+  offset: 0, 0
+  index: -1
+Hulk_00003
+  rotate: true
+  xy: 2, 33
+  size: 243, 425
+  orig: 243, 425
+  offset: 0, 0
+  index: -1
+Hulk_00005
+  rotate: false
+  xy: 429, 284
+  size: 283, 425
+  orig: 283, 425
+  offset: 0, 0
+  index: -1
+Hulk_00006
+  rotate: true
+  xy: 307, 711
+  size: 295, 425
+  orig: 295, 425
+  offset: 0, 0
+  index: -1
+Hulk_00007
+  rotate: false
+  xy: 2, 581
+  size: 303, 425
+  orig: 303, 425
+  offset: 0, 0
+  index: -1
+Hulk_00012
+  rotate: true
+  xy: 2, 278
+  size: 301, 425
+  orig: 301, 425
+  offset: 0, 0
+  index: -1
+Hulk_00013
+  rotate: true
+  xy: 429, 2
+  size: 280, 425
+  orig: 280, 425
+  offset: 0, 0
+  index: -1
+
+Hulk_icon3.png
+size: 683,429
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Hulk_00000
+  rotate: false
+  xy: 2, 2
+  size: 225, 425
+  orig: 225, 425
+  offset: 0, 0
+  index: -1
+Hulk_00001
+  rotate: false
+  xy: 229, 2
+  size: 225, 425
+  orig: 225, 425
+  offset: 0, 0
+  index: -1
+Hulk_00016
+  rotate: false
+  xy: 456, 2
+  size: 225, 425
+  orig: 225, 425
+  offset: 0, 0
+  index: -1

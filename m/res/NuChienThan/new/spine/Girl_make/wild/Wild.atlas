@@ -1,0 +1,220 @@
+
+Wild.png
+size: 988,978
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Wild_00010
+  rotate: true
+  xy: 492, 8
+  size: 240, 492
+  orig: 240, 492
+  offset: 0, 0
+  index: -1
+Wild_00011
+  rotate: true
+  xy: 492, 250
+  size: 241, 490
+  orig: 241, 490
+  offset: 0, 0
+  index: -1
+Wild_00012
+  rotate: false
+  xy: 2, 489
+  size: 243, 487
+  orig: 243, 487
+  offset: 0, 0
+  index: -1
+Wild_00013
+  rotate: false
+  xy: 247, 493
+  size: 245, 483
+  orig: 245, 483
+  offset: 0, 0
+  index: -1
+Wild_00023
+  rotate: true
+  xy: 494, 736
+  size: 240, 492
+  orig: 240, 492
+  offset: 0, 0
+  index: -1
+Wild_00024
+  rotate: true
+  xy: 494, 494
+  size: 240, 492
+  orig: 240, 492
+  offset: 0, 0
+  index: -1
+Wild_00025
+  rotate: false
+  xy: 248, 3
+  size: 242, 488
+  orig: 242, 488
+  offset: 0, 0
+  index: -1
+Wild_00026
+  rotate: false
+  xy: 2, 2
+  size: 244, 485
+  orig: 244, 485
+  offset: 0, 0
+  index: -1
+
+Wild2.png
+size: 970,988
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Wild_00000
+  rotate: false
+  xy: 241, 505
+  size: 245, 481
+  orig: 245, 481
+  offset: 0, 0
+  index: -1
+Wild_00001
+  rotate: false
+  xy: 488, 25
+  size: 240, 479
+  orig: 240, 479
+  offset: 0, 0
+  index: -1
+Wild_00002
+  rotate: false
+  xy: 730, 16
+  size: 235, 477
+  orig: 235, 477
+  offset: 0, 0
+  index: -1
+Wild_00008
+  rotate: false
+  xy: 735, 495
+  size: 233, 491
+  orig: 233, 491
+  offset: 0, 0
+  index: -1
+Wild_00009
+  rotate: false
+  xy: 2, 495
+  size: 237, 491
+  orig: 237, 491
+  offset: 0, 0
+  index: -1
+Wild_00014
+  rotate: false
+  xy: 488, 506
+  size: 245, 480
+  orig: 245, 480
+  offset: 0, 0
+  index: -1
+Wild_00022
+  rotate: false
+  xy: 2, 2
+  size: 237, 491
+  orig: 237, 491
+  offset: 0, 0
+  index: -1
+Wild_00027
+  rotate: false
+  xy: 241, 22
+  size: 245, 481
+  orig: 245, 481
+  offset: 0, 0
+  index: -1
+
+Wild3.png
+size: 932,986
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Wild_00003
+  rotate: false
+  xy: 473, 507
+  size: 228, 477
+  orig: 228, 477
+  offset: 0, 0
+  index: -1
+Wild_00005
+  rotate: false
+  xy: 692, 23
+  size: 225, 482
+  orig: 225, 482
+  offset: 0, 0
+  index: -1
+Wild_00006
+  rotate: false
+  xy: 464, 19
+  size: 226, 486
+  orig: 226, 486
+  offset: 0, 0
+  index: -1
+Wild_00007
+  rotate: false
+  xy: 2, 2
+  size: 229, 489
+  orig: 229, 489
+  offset: 0, 0
+  index: -1
+Wild_00015
+  rotate: false
+  xy: 237, 507
+  size: 234, 477
+  orig: 234, 477
+  offset: 0, 0
+  index: -1
+Wild_00016
+  rotate: false
+  xy: 703, 507
+  size: 227, 477
+  orig: 227, 477
+  offset: 0, 0
+  index: -1
+Wild_00020
+  rotate: false
+  xy: 233, 2
+  size: 229, 489
+  orig: 229, 489
+  offset: 0, 0
+  index: -1
+Wild_00021
+  rotate: false
+  xy: 2, 493
+  size: 233, 491
+  orig: 233, 491
+  offset: 0, 0
+  index: -1
+
+Wild4.png
+size: 903,486
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Wild_00004
+  rotate: false
+  xy: 453, 7
+  size: 223, 477
+  orig: 223, 477
+  offset: 0, 0
+  index: -1
+Wild_00017
+  rotate: false
+  xy: 678, 7
+  size: 223, 477
+  orig: 223, 477
+  offset: 0, 0
+  index: -1
+Wild_00018
+  rotate: false
+  xy: 228, 6
+  size: 223, 478
+  orig: 223, 478
+  offset: 0, 0
+  index: -1
+Wild_00019
+  rotate: false
+  xy: 2, 2
+  size: 224, 482
+  orig: 224, 482
+  offset: 0, 0
+  index: -1

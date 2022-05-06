@@ -1,0 +1,55 @@
+
+thanbien_PJ.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG
+  rotate: false
+  xy: 2, 60
+  size: 213, 415
+  orig: 213, 415
+  offset: 0, 0
+  index: -1
+Poseidon
+  rotate: false
+  xy: 217, 72
+  size: 207, 403
+  orig: 207, 403
+  offset: 0, 0
+  index: -1
+SD
+  rotate: false
+  xy: 426, 271
+  size: 207, 204
+  orig: 207, 204
+  offset: 0, 0
+  index: -1
+Toc1
+  rotate: true
+  xy: 635, 279
+  size: 53, 76
+  orig: 53, 76
+  offset: 0, 0
+  index: -1
+text_bien
+  rotate: false
+  xy: 635, 334
+  size: 217, 141
+  orig: 217, 141
+  offset: 0, 0
+  index: -1
+text_than
+  rotate: false
+  xy: 426, 170
+  size: 152, 99
+  orig: 152, 99
+  offset: 0, 0
+  index: -1
+toc2
+  rotate: true
+  xy: 2, 2
+  size: 56, 98
+  orig: 56, 98
+  offset: 0, 0
+  index: -1
