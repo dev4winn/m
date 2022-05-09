@@ -34,6 +34,21 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
+            <key>res/resourcemenutabv2/email/btn_null.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{-3.5,3.5}</string>
+                <key>spriteSize</key>
+                <string>{3,3}</string>
+                <key>spriteSourceSize</key>
+                <string>{10,10}</string>
+                <key>textureRect</key>
+                <string>{{961,168},{3,3}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
             <key>res/resourcemenutabv2/email/ic_email_read.png</key>
             <dict>
                 <key>aliases</key>
@@ -123,7 +138,7 @@
             <key>size</key>
             <string>{971,233}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:108bb6a388bd04553270a3d80788d760:720229cda946f4f118432b60c71590a2:8d861f4daeeaf65b81d30ceff073fe21$</string>
+            <string>$TexturePacker:SmartUpdate:1099f10edc70522135c0e20f0c2080e2:0d4130ca5fbbb4b087247ff4976b6625:8d861f4daeeaf65b81d30ceff073fe21$</string>
             <key>textureFileName</key>
             <string>EmailPlist.png</string>
         </dict>

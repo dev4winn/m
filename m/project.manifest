@@ -846,14 +846,8 @@
         "res/AvengerTopNoHu.json": {
             "md5": "99566fc1e2effb5fc08a35306a1ef446"
         }, 
-        "res/Base/Lobby/GUI/lobby-bg.jpg": {
-            "md5": "4c165f6539593ad3b8d013ab2b5eb787"
-        }, 
         "res/Base/Lobby/GUI/lobby_bg.png": {
             "md5": "5a95afbd5cfce9545eb0cda97f872a43"
-        }, 
-        "res/Base/Lobby/GUI/mobile-lobby-bg.jpg": {
-            "md5": "4c165f6539593ad3b8d013ab2b5eb787"
         }, 
         "res/CardGame/BaCay/PlistBaCay.plist": {
             "md5": "420a03ca0cbed26525638c231a7590bd"
@@ -5157,9 +5151,6 @@
         "res/GameCo/Caro/Sound/win.mp3": {
             "md5": "5ec51b2effb10fcac913c83ccc37c74e"
         }, 
-        "res/GameCo/Caro/background-57b53dc4bc835.png": {
-            "md5": "7fd9ecb785bee1411b6458bf695d9eb6"
-        }, 
         "res/GameCo/Caro/background.png": {
             "md5": "7fd9ecb785bee1411b6458bf695d9eb6"
         }, 
@@ -5208,18 +5199,6 @@
         "res/GameCo/CoUp/latquando.png": {
             "md5": "1004ca9da8bed7dfe646e8e967021d48"
         }, 
-        "res/LoadingUI/ICON_MOBI.png": {
-            "md5": "7e0371a681f61c7b54392fae9a36d714"
-        }, 
-        "res/LoadingUI/LogoG.atlas": {
-            "md5": "16711a0f0f300f79b4c54453027e4851"
-        }, 
-        "res/LoadingUI/LogoG.json": {
-            "md5": "ba5b4d69aef85081df1aa1dbac7e091d"
-        }, 
-        "res/LoadingUI/LogoG.png": {
-            "md5": "c25c89ed45b752085b1ef7ac8daf2008"
-        }, 
         "res/LoadingUI/bar-frame.png": {
             "md5": "23d19011f97a4c6afc9a60f6c9133324"
         }, 
@@ -5246,9 +5225,6 @@
         }, 
         "res/LoadingUI/logo.png": {
             "md5": "a572715d6914c83223c588d1912c05c0"
-        }, 
-        "res/LoadingUI/manvipclub.png": {
-            "md5": "37cfe6a0978791cd1af86c6d715e3acc"
         }, 
         "res/LoadingUI/rota1.png": {
             "md5": "0c72a6f34c451fedd2c40fd5553412ad"
@@ -9693,6 +9669,15 @@
         "res/loading.js": {
             "md5": "47321a61bec8998b48b3bf428b5a1ded"
         }, 
+        "res/lobbyv2/SpinIcon/avatar/ICON.atlas": {
+            "md5": "b5db40ff9d3e104f9a72483b39a3fa5e"
+        }, 
+        "res/lobbyv2/SpinIcon/avatar/ICON.json": {
+            "md5": "d9c327be7112763e9eb11008ca1fef79"
+        }, 
+        "res/lobbyv2/SpinIcon/avatar/ICON.png": {
+            "md5": "ff3f6e49e1e1154d15537ad2874426fc"
+        }, 
         "res/lobbyv2/SpinIcon/bacay/ICON.atlas": {
             "md5": "8c31f344b2187dad4cd0fae5accf4814"
         }, 
@@ -9757,13 +9742,13 @@
             "md5": "a1f3fffe5acea7deda1c69bf05ebd6cf"
         }, 
         "res/lobbyv2/SpinIcon/deposit/ICON.atlas": {
-            "md5": "f37534c1d1a7d8bf77299c8b22f39ca7"
+            "md5": "1c5a9bc96ca61909f5bc3ea1cf328694"
         }, 
         "res/lobbyv2/SpinIcon/deposit/ICON.json": {
-            "md5": "218c595e61e84ddde1bb3bc3c87a3de0"
+            "md5": "a8aaccc0a738f90618bde757f4ca3a90"
         }, 
         "res/lobbyv2/SpinIcon/deposit/ICON.png": {
-            "md5": "9cfeee23aefc9e649ebe2fa46e92d584"
+            "md5": "da0d16ea9d231aa714f25d4b59486e88"
         }, 
         "res/lobbyv2/SpinIcon/lieng/ICON.atlas": {
             "md5": "90329d362219622c22ffadfe8f39f5a0"
@@ -9928,10 +9913,10 @@
             "md5": "aab2560b0b59d3ce9439b26d44ce3aa5"
         }, 
         "res/lobbyv2/subpot/SubpotPlist.plist": {
-            "md5": "891d19522e4f4bb7cfaaf5bcd07bd1de"
+            "md5": "be0a4a8ac2daa4a50bac2f8a996244e5"
         }, 
         "res/lobbyv2/subpot/SubpotPlist.png": {
-            "md5": "e8f79d6d7dd4fbea630aedbe44082780"
+            "md5": "160dbb012f9a294f17ef305a7fb8ac93"
         }, 
         "res/menuv2/changepassword/ChangePasswordPlist.plist": {
             "md5": "ede3da3d562c666dd24a1469112fab61"
@@ -9976,7 +9961,7 @@
             "md5": "b0506ec14a6da330f57f5fcdaad10982"
         }, 
         "res/resourcemenutabv2/email/EmailPlist.plist": {
-            "md5": "b9f6038b19fbfe481dddf78c76dc511c"
+            "md5": "a90d4d80962ec8f31507b3c45591aa0a"
         }, 
         "res/resourcemenutabv2/email/EmailPlist.png": {
             "md5": "3745e75cc4ec27afa9b9debe92893ec5"
@@ -10042,7 +10027,7 @@
             "md5": "9939dea77b44fe4a5f7c3a7a72ac5de3"
         }, 
         "src/Engine/GUI/BaseLayer_en.jsc": {
-            "md5": "43892da051a1b300f449efbe59655825"
+            "md5": "01f23b8fb8ea7e96537f912fe7f08a5b"
         }, 
         "src/Engine/GUI/BaseLobby_en.jsc": {
             "md5": "e455504e5927351c334dc4860b9c6a79"
@@ -10684,7 +10669,7 @@
             "md5": "2a0a7126fd73dc8b5d8188de4a9c1f44"
         }, 
         "src/Game/Lobby/Content/MenuDefine_en.jsc": {
-            "md5": "f6c044f321d41d06f98cea11d0685d79"
+            "md5": "8acaf986da97f66a1c15ceb23bfcfce8"
         }, 
         "src/Game/Lobby/Content/UserInfo_en.jsc": {
             "md5": "40f7310bc9c0e382e191a8f8a8d47df9"
@@ -10705,10 +10690,10 @@
             "md5": "a44ed01f3af8a7456090a65d478710a1"
         }, 
         "src/Game/Lobby/Gui/LoginLayer_en.jsc": {
-            "md5": "a9ecd55fb6d53a12eac5f351ea1c2cd1"
+            "md5": "313996416c3ed21ef0105a691022f8a0"
         }, 
         "src/Game/Lobby/Gui/MenuLayer_en.jsc": {
-            "md5": "097c324fef2fbf250c5bbb8da6a4e767"
+            "md5": "9bcbe9fa3aea3e1c8a81bc3aa81a9fbe"
         }, 
         "src/Game/Lobby/Gui/OtpGameBaiLayer_en.jsc": {
             "md5": "8c7f0a7b57988b5d4091eb45c9462e44"
@@ -10729,7 +10714,7 @@
             "md5": "e6e929f1282f746e09303ddc78bd9d02"
         }, 
         "src/Game/Lobby/Gui/QuenMatKhau/NhapUsername_en.jsc": {
-            "md5": "1a0a1cd54ba5c689bc6062106f7dac49"
+            "md5": "da613ece2ce800b3cd620b355668b33c"
         }, 
         "src/Game/Lobby/Gui/QuenMatKhau/OtpQuenMatKhau_en.jsc": {
             "md5": "bb0a4c3b1f0cd3fb2fc286dff5865833"
@@ -10741,10 +10726,10 @@
             "md5": "87f3c6322e95b41dbd73deba7d0c933b"
         }, 
         "src/Game/Lobby/Gui/RegisterLayer_en.jsc": {
-            "md5": "9b92f8528098b34135ca0edb61ee180b"
+            "md5": "429e431338255714fcb4d9494d1d02e9"
         }, 
         "src/Game/Lobby/Gui/SubpotLayer_en.jsc": {
-            "md5": "6824486867bb6fc69aea1e31976f2d6e"
+            "md5": "59e3cc6d790c516c4c586b4ce92f4b67"
         }, 
         "src/Game/Lobby/lobby_en.jsc": {
             "md5": "3667202134bb2274982973f1f6171f96"
@@ -10864,13 +10849,13 @@
             "md5": "76dd202612e5a9c80cef731e12e41c83"
         }, 
         "src/Game/MenuInfo/Mail/code_mail_info_en.jsc": {
-            "md5": "3d2aaa9557c53ecde843fffbfde2f88c"
+            "md5": "b41d8bd80cebe4d30776d95bfe8518f8"
         }, 
         "src/Game/MenuInfo/MenuInfoLayer_en.jsc": {
-            "md5": "f201f38e84b18693719190deb9422bf5"
+            "md5": "224ae00e323573fdd4c7b750fa5c2525"
         }, 
         "src/Game/MenuInfo/MenuTab/BigWinLayer_en.jsc": {
-            "md5": "7138429544845e37ab476aac919c8f0b"
+            "md5": "32ff23e3663a676544ccb92bb4ec05d0"
         }, 
         "src/Game/MenuInfo/MenuTab/Content/UserManagerDefine_en.jsc": {
             "md5": "ad132d91c849ce95ce51328682f99a1b"
@@ -10885,22 +10870,22 @@
             "md5": "692b34708baab58c8c80ca6a08ac442a"
         }, 
         "src/Game/MenuInfo/MenuTab/UserManagerLayer_en.jsc": {
-            "md5": "489d2990c83a15b317aa91448fd815ee"
+            "md5": "215b064489a3ac0ef420e33397e811f3"
         }, 
         "src/Game/MenuInfo/Profile/BirthdayLayer_en.jsc": {
             "md5": "c5993e972e6627a7780a978c9589dadf"
         }, 
         "src/Game/MenuInfo/Profile/ChangeAvatarLayer_en.jsc": {
-            "md5": "6c2df2469244bb736311d2b2f0e1806f"
+            "md5": "81d29f2e944003b1527d99158ee71a08"
         }, 
         "src/Game/MenuInfo/Profile/ChangePassword_en.jsc": {
-            "md5": "bbe1e85a13ead627ab6e70ad328be435"
+            "md5": "75e0818b0be67d885986de5af75e4cb0"
         }, 
         "src/Game/MenuInfo/Profile/ConfigProfile_en.jsc": {
             "md5": "1968a4e4b1abc96d1e2532c2a35481ae"
         }, 
         "src/Game/MenuInfo/Profile/HoSoLayer_en.jsc": {
-            "md5": "9d2884d9f5209332fe2186f9eb9e2aec"
+            "md5": "cb6d5fc8dae799f7c5f9d93eadbdd253"
         }, 
         "src/Game/MenuInfo/Profile/ProfileLayer_en.jsc": {
             "md5": "e8ee1f78c06a0cf861ca096917f6d4f7"
@@ -10915,16 +10900,16 @@
             "md5": "094ccd2b69ba882c1ff767e3eacca345"
         }, 
         "src/Game/MenuInfo/Sercurity/BaoMatDangNhapLayer_en.jsc": {
-            "md5": "e4387c40113710aa9bc07642450fd01d"
+            "md5": "e9737f9a0ebc250d66804be56181292e"
         }, 
         "src/Game/MenuInfo/Sercurity/ChangeMobileLayer_en.jsc": {
-            "md5": "06a4d8ba27e962c094878c92cc084e6c"
+            "md5": "662830b359ea2cc0261a3688da0b404e"
         }, 
         "src/Game/MenuInfo/Sercurity/ConfigSercurity_en.jsc": {
             "md5": "d06332cd7d3d46874307615eeaf31784"
         }, 
         "src/Game/MenuInfo/Sercurity/InformationLayer_en.jsc": {
-            "md5": "7ceb3019e208f36161d4f231e0460735"
+            "md5": "39d55e54cdff26734dae6f15684613b4"
         }, 
         "src/Game/MenuInfo/Sercurity/KetAnToanLayer_en.jsc": {
             "md5": "f4e20190dbcf03c970c972bb9500ded6"
@@ -10933,13 +10918,10 @@
             "md5": "b1ea8e5e53856de8844eb439ac4a30cc"
         }, 
         "src/Game/MenuInfo/Sercurity/SercurityLayer_en.jsc": {
-            "md5": "197da59af5807d0f83f07c1cfad91edc"
-        }, 
-        "src/Game/MenuInfo/Sercurity/SmsPlusLayer_en.jsc": {
-            "md5": "193668defd90ca1556a1a8374e246271"
+            "md5": "6249e952bbce27b6ff8aeb77e17aa87a"
         }, 
         "src/Game/MenuInfo/Shopping/ChuyenKhoanLayer_en.jsc": {
-            "md5": "ce202c07ec5e5231dc319ae2a858b7d3"
+            "md5": "7e5066ec0feeb508165bb596b05a299e"
         }, 
         "src/Game/MenuInfo/Shopping/ConfigShopping_en.jsc": {
             "md5": "89cd03a78f0e59850ab73ce3c3779346"
@@ -10975,22 +10957,22 @@
             "md5": "f069ae1d6e59f12039df1f88297cd733"
         }, 
         "src/Game/MenuInfo/Shopping/NapVinTheLayer_en.jsc": {
-            "md5": "80fa28140ed797561e504288def5083a"
+            "md5": "2f860e8af8792f78b59a98bccee7a877"
         }, 
         "src/Game/MenuInfo/Shopping/NapXuLayer_en.jsc": {
             "md5": "b14e2ca498f3486937e485c2d5c23255"
         }, 
         "src/Game/MenuInfo/Shopping/RutBankLayer_en.jsc": {
-            "md5": "4ec46941476d15d7de976622b810d0ba"
+            "md5": "9dbc1b2a838651beca8b58e53b1e0916"
         }, 
         "src/Game/MenuInfo/Shopping/RutMomoLayer_en.jsc": {
-            "md5": "d39cbb038d260f59c98f9623d396f0b0"
+            "md5": "f86a73209a06d658c348709a3c2fe9ec"
         }, 
         "src/Game/MenuInfo/Shopping/ShoppingLayer_en.jsc": {
             "md5": "d05f9499697cdc390226c9eed016936c"
         }, 
         "src/Game/MenuInfo/Shopping/TieuVinLayer_en.jsc": {
-            "md5": "efc15229d89bddb5bb5d4f4f23b57d20"
+            "md5": "eeb19282aef4c304a982684602fd1150"
         }, 
         "src/Game/MenuInfo/Shopping/UngVinLayer_en.jsc": {
             "md5": "eb1bfb39c1bbbd54da4e887f7594499b"
@@ -11002,7 +10984,7 @@
             "md5": "c65f184e0699d1e4d0507eaf1e488e55"
         }, 
         "src/Game/MenuInfo/code_pn_otp_en.jsc": {
-            "md5": "c667dad54a5a0d5c0049ab1e8dd2638e"
+            "md5": "aa0274d590189f6502e16f5fa3ee49a1"
         }, 
         "src/Game/MenuInfo/responseMenu_en.jsc": {
             "md5": "bab3316cd21e766253471469919bd583"
@@ -11062,7 +11044,7 @@
             "md5": "8a5c3c3b217efc59a2b547bad59fe25a"
         }, 
         "src/Game/Minigame/MagicDoor_en.jsc": {
-            "md5": "be5754ca4af7a0006e506307dda8f83c"
+            "md5": "5653ff364ad10f999f254412fc1ed4ec"
         }, 
         "src/Game/Minigame/MiniGameBaseLayer_en.jsc": {
             "md5": "e4f01cc7d56fab938b7402d3332841bf"
@@ -11128,7 +11110,7 @@
             "md5": "7095d533a1a712055165782c0d35163c"
         }, 
         "src/Game/Minigame/VQMM/codeVQMM_en.jsc": {
-            "md5": "075d40f11a47b1e401a7d37be149db92"
+            "md5": "6e1964bbe9504814d5a55eb8db9dd262"
         }, 
         "src/Game/Minigame/VQMM/codeVQMM_lichsu_en.jsc": {
             "md5": "1fdbfdecc45246e8f4a8e505f34d3b20"
@@ -11326,7 +11308,7 @@
             "md5": "c568588fa5ca661b714afa8052346a41"
         }, 
         "src/Game/Popup/popup_en.jsc": {
-            "md5": "7acca4033c420413d7ff7a3089443795"
+            "md5": "8a5f73a6b273388f10044d8acc1c36ac"
         }, 
         "src/Game/Sam/Constant_en.jsc": {
             "md5": "f326392cfe4776d641ba984fede853d1"
@@ -11926,13 +11908,13 @@
             "md5": "bc99f4f8bcc49c1ca9044c70f13c984c"
         }, 
         "src/resource_en.jsc": {
-            "md5": "28b39f1ecf48470167eac232cc8e97a0"
+            "md5": "a88359bd6f9febec0136801eee243aee"
         }
     }, 
     "engineVersion": "3.17", 
-    "packageUrl": "http://resources.win4games.com/m/", 
-    "remoteManifestUrl": "http://resources.win4games.com/m/project.manifest", 
-    "remoteVersionUrl": "http://resources.win4games.com/m/version.manifest", 
+    "packageUrl": "https://raw.githubusercontent.com/dev4winn/m/main/m/", 
+    "remoteManifestUrl": "https://raw.githubusercontent.com/dev4winn/m/main/m/project.manifest", 
+    "remoteVersionUrl": "https://raw.githubusercontent.com/dev4winn/m/main/m/version.manifest", 
     "searchPaths": [], 
-    "version": "1.6.3"
+    "version": "1.6.8"
 }
