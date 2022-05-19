@@ -1,5 +1,5 @@
 {
-"skeleton": { "hash": "kVY9pcoVq8DZGXnp2QEqOXoFXlw", "spine": "3.6.53", "width": 332.77, "height": 159.83, "images": "../Images/" },
+"skeleton": { "hash": "AhMvmXwGT7swxXHPsD/jvzADVPM", "spine": "3.6.53", "width": 332.77, "height": 159.83, "images": "../Images/" },
 "bones": [
 	{ "name": "root" },
 	{ "name": "bone", "parent": "root", "length": 101.84, "rotation": 91.2, "x": -214.04, "y": -22.01 },
@@ -7,7 +7,7 @@
 	{ "name": "bone3", "parent": "root", "length": 54.7, "rotation": -168.38, "x": 25.41, "y": 45.61 },
 	{ "name": "bone4", "parent": "root", "length": 65.74, "rotation": 180, "x": 12.49, "y": -61.55 },
 	{ "name": "bone5", "parent": "root", "length": 38.08, "rotation": -90, "x": 131.96, "y": 20.17 },
-	{ "name": "bone17", "parent": "root", "length": 42.2, "rotation": 91.45, "x": -20.47, "y": -18.2 }
+	{ "name": "bone17", "parent": "root", "length": 42.2, "rotation": 91.45, "x": -20.96, "y": -16.72, "scaleX": 0.9, "scaleY": 0.9 }
 ],
 "slots": [
 	{ "name": "BG2", "bone": "bone", "attachment": "BG" },
@@ -35,7 +35,7 @@
 			"BG": { "x": 17.52, "y": -214.45, "rotation": -91.2, "width": 283, "height": 139 }
 		},
 		"DL2": {
-			"DL": { "x": 4.95, "y": -37, "rotation": -91.45, "width": 143, "height": 47 }
+			"DL": { "x": 4.95, "y": -37, "rotation": -91.45, "width": 210, "height": 53 }
 		}
 	}
 },

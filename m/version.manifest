@@ -5239,13 +5239,13 @@
             "md5": "20d76cdd53ce0bc51c41a88a7e36fee8"
         }, 
         "res/LoadingUIV2/EFFECT.atlas": {
-            "md5": "aa51fce7bd889be3b92fea4d65b508fa"
+            "md5": "3c468bbd3d6ac2c229a61e62a2e31fcc"
         }, 
         "res/LoadingUIV2/EFFECT.json": {
-            "md5": "858f5da5aa5e50df9ff43e24591eb357"
+            "md5": "e8c665d4136d88be5b514df547d8bf9c"
         }, 
         "res/LoadingUIV2/EFFECT.png": {
-            "md5": "6003b6cc228752deafe7fffeab01fec0"
+            "md5": "b8ccac54787e3d222f8f28effacdfc4e"
         }, 
         "res/Lobby/AllGameHover.png": {
             "md5": "edd91609b13ca35317efd8f0a41e5053"
@@ -9742,13 +9742,13 @@
             "md5": "a1f3fffe5acea7deda1c69bf05ebd6cf"
         }, 
         "res/lobbyv2/SpinIcon/deposit/ICON.atlas": {
-            "md5": "1c5a9bc96ca61909f5bc3ea1cf328694"
+            "md5": "cf73e75e071d87ed6284d697afd8906d"
         }, 
         "res/lobbyv2/SpinIcon/deposit/ICON.json": {
-            "md5": "a8aaccc0a738f90618bde757f4ca3a90"
+            "md5": "81f9d1e1ede737a0cda4a7bfb0b9e54c"
         }, 
         "res/lobbyv2/SpinIcon/deposit/ICON.png": {
-            "md5": "da0d16ea9d231aa714f25d4b59486e88"
+            "md5": "e0ae01280bf1eeb291e9b3f3751cd35b"
         }, 
         "res/lobbyv2/SpinIcon/lieng/ICON.atlas": {
             "md5": "90329d362219622c22ffadfe8f39f5a0"
@@ -9907,22 +9907,22 @@
             "md5": "67e51748c7fe46051ffc3ac1e571e69e"
         }, 
         "res/lobbyv2/register/RegisterPlist.plist": {
-            "md5": "d9545c6926f0925b13c68501f921cb61"
+            "md5": "0deafe28cc686c9b8e9a585a88266626"
         }, 
         "res/lobbyv2/register/RegisterPlist.png": {
-            "md5": "aab2560b0b59d3ce9439b26d44ce3aa5"
+            "md5": "38bac0e337ec62d6c7e07209ef81a210"
         }, 
         "res/lobbyv2/subpot/SubpotPlist.plist": {
-            "md5": "be0a4a8ac2daa4a50bac2f8a996244e5"
+            "md5": "a1041bee12f372c5e6e8e8fc331ab1eb"
         }, 
         "res/lobbyv2/subpot/SubpotPlist.png": {
-            "md5": "160dbb012f9a294f17ef305a7fb8ac93"
+            "md5": "4340e169a55158de12dda11079ce444d"
         }, 
         "res/menuv2/changepassword/ChangePasswordPlist.plist": {
-            "md5": "ede3da3d562c666dd24a1469112fab61"
+            "md5": "b8f7279c686f6dca018f557db713767f"
         }, 
         "res/menuv2/changepassword/ChangePasswordPlist.png": {
-            "md5": "2810a576068b55af14e256b9ddaaccf6"
+            "md5": "6a82022bedf1787a45f06958c68d44bb"
         }, 
         "res/menuv2/otp/OtpPlist.plist": {
             "md5": "4a56c580363de41e5e8cf4a2038a92d7"
@@ -9973,10 +9973,10 @@
             "md5": "6ef37cef980f674a4e117e8ffe1eb68b"
         }, 
         "res/resourcemenutabv2/profile/ProfilePlist.plist": {
-            "md5": "86f15e314d65b4cddca8b6db232715d6"
+            "md5": "b75ce30662468310776d776de76b840f"
         }, 
         "res/resourcemenutabv2/profile/ProfilePlist.png": {
-            "md5": "b930d378674a2ba16f14c1b6f0f1279a"
+            "md5": "d762bf9c33a98e3e55a74227c7d9434f"
         }, 
         "res/resourcemenutabv2/setting/SettingPlist.plist": {
             "md5": "e475ce8cb1c5f6a8b2b5edbf54ef2d05"
@@ -10015,7 +10015,7 @@
             "md5": "86503f54a427e7fb2f5929c17ebac377"
         }, 
         "src/Components/TableLayer/BaseLayerTable_en.jsc": {
-            "md5": "71df28e11131a4e142bfb11eb7c44a9b"
+            "md5": "9f46babcf829466e93e2d85dbc088468"
         }, 
         "src/Components/TableLayer/LayoutControlTableView_en.jsc": {
             "md5": "8eb798e5f804c84212a11c5b021c6af0"
@@ -10702,7 +10702,7 @@
             "md5": "779ec0d1d62ad57442f00f32046d0f95"
         }, 
         "src/Game/Lobby/Gui/QuenMatKhau/BaseLayerForgotPassword.jsc": {
-            "md5": "c3ea9fbf379e524866c70d69063acb52"
+            "md5": "11e08bbdfb700e45c278db71e7dad380"
         }, 
         "src/Game/Lobby/Gui/QuenMatKhau/ForgetEmailPhone_en.jsc": {
             "md5": "ce4d3baad187f44034b986a1f6a3f456"
@@ -10726,7 +10726,7 @@
             "md5": "87f3c6322e95b41dbd73deba7d0c933b"
         }, 
         "src/Game/Lobby/Gui/RegisterLayer_en.jsc": {
-            "md5": "429e431338255714fcb4d9494d1d02e9"
+            "md5": "c88544a07b1b638a554a5c804961cbce"
         }, 
         "src/Game/Lobby/Gui/SubpotLayer_en.jsc": {
             "md5": "59e3cc6d790c516c4c586b4ce92f4b67"
@@ -10822,7 +10822,7 @@
             "md5": "51a398bbc4c2ba153577452dbcf63a28"
         }, 
         "src/Game/MenuInfo/EventLayer_en.jsc": {
-            "md5": "59014d7b9c0febe5a515c98215732101"
+            "md5": "20f0e5afd643275d9da6883302dfb2fe"
         }, 
         "src/Game/MenuInfo/EventThanhNhoLayer_en.jsc": {
             "md5": "7f10452c450c6eeaddd1e5847f4af3a4"
@@ -10840,7 +10840,7 @@
             "md5": "3ed40f901beb216ae48a69a0d4689d41"
         }, 
         "src/Game/MenuInfo/LichSuGiaoDich/ChiTietLSGDLayer_en.jsc": {
-            "md5": "3dd1f1e4ec48dd74107d4d54e2cb5f41"
+            "md5": "04e9d07e0734faa1a24cf42db2aa5b63"
         }, 
         "src/Game/MenuInfo/LichSuGiaoDich/LichSuGDLayer_en.jsc": {
             "md5": "126a4309ce0cc4513c675e14a51fcd01"
@@ -10849,13 +10849,13 @@
             "md5": "76dd202612e5a9c80cef731e12e41c83"
         }, 
         "src/Game/MenuInfo/Mail/code_mail_info_en.jsc": {
-            "md5": "b41d8bd80cebe4d30776d95bfe8518f8"
+            "md5": "93013f01c517211ada0d2dc9ad751241"
         }, 
         "src/Game/MenuInfo/MenuInfoLayer_en.jsc": {
             "md5": "224ae00e323573fdd4c7b750fa5c2525"
         }, 
         "src/Game/MenuInfo/MenuTab/BigWinLayer_en.jsc": {
-            "md5": "32ff23e3663a676544ccb92bb4ec05d0"
+            "md5": "8ce7c2f153c1065759e66e8b87b9be69"
         }, 
         "src/Game/MenuInfo/MenuTab/Content/UserManagerDefine_en.jsc": {
             "md5": "ad132d91c849ce95ce51328682f99a1b"
@@ -10876,10 +10876,10 @@
             "md5": "c5993e972e6627a7780a978c9589dadf"
         }, 
         "src/Game/MenuInfo/Profile/ChangeAvatarLayer_en.jsc": {
-            "md5": "81d29f2e944003b1527d99158ee71a08"
+            "md5": "7608797184c1ac785f1f8973d1594fbb"
         }, 
         "src/Game/MenuInfo/Profile/ChangePassword_en.jsc": {
-            "md5": "75e0818b0be67d885986de5af75e4cb0"
+            "md5": "427268696f2f3ecb727aeffb2fa21e35"
         }, 
         "src/Game/MenuInfo/Profile/ConfigProfile_en.jsc": {
             "md5": "1968a4e4b1abc96d1e2532c2a35481ae"
@@ -10984,7 +10984,7 @@
             "md5": "c65f184e0699d1e4d0507eaf1e488e55"
         }, 
         "src/Game/MenuInfo/code_pn_otp_en.jsc": {
-            "md5": "aa0274d590189f6502e16f5fa3ee49a1"
+            "md5": "a1b8e17c4b7d3a41ae6384b4257e76b1"
         }, 
         "src/Game/MenuInfo/responseMenu_en.jsc": {
             "md5": "bab3316cd21e766253471469919bd583"
@@ -11110,7 +11110,7 @@
             "md5": "7095d533a1a712055165782c0d35163c"
         }, 
         "src/Game/Minigame/VQMM/codeVQMM_en.jsc": {
-            "md5": "6e1964bbe9504814d5a55eb8db9dd262"
+            "md5": "274a8264dae0753ad256450ae8e86b3c"
         }, 
         "src/Game/Minigame/VQMM/codeVQMM_lichsu_en.jsc": {
             "md5": "1fdbfdecc45246e8f4a8e505f34d3b20"
@@ -11916,5 +11916,5 @@
     "remoteManifestUrl": "https://raw.githubusercontent.com/dev4winn/m/main/m/project.manifest", 
     "remoteVersionUrl": "https://raw.githubusercontent.com/dev4winn/m/main/m/version.manifest", 
     "searchPaths": [], 
-    "version": "1.6.8"
+    "version": "1.7.2"
 }
