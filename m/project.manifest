@@ -880,10 +880,10 @@
             "md5": "eab94089fa8d56bc18d1004401b61569"
         }, 
         "res/CardGame/CommonResource/BanChoi/bg_banchoi_gamebai_info.png": {
-            "md5": "0a7d55727c75661a0ebe1a7ef119be11"
+            "md5": "483880a89d078717d4f2434edffb54f0"
         }, 
         "res/CardGame/CommonResource/BanChoi/bg_banchoi_gamebai_web.jpg": {
-            "md5": "32875b2d3c7205bdf89d5cc5fd662c59"
+            "md5": "d8b636b44887f67a0daa72754a8e8504"
         }, 
         "res/CardGame/CommonResource/BanChoi/bg_layer_baosam.png": {
             "md5": "7a2c21132437808f18f9fe3dd332986a"
@@ -3753,6 +3753,12 @@
         "res/Fish/Lobby/GUI/DialogGUI.json": {
             "md5": "6fe63307441ccfdd967ebc0cb782ec4c"
         }, 
+        "res/Fish/Lobby/GUI/Fonts/FONTVANG-export.fnt": {
+            "md5": "07b7ddb843d6945fbd77e9ea6f71fd11"
+        }, 
+        "res/Fish/Lobby/GUI/Fonts/FONTVANG-export.png": {
+            "md5": "a06499342c2fae5d409db531af0513c9"
+        }, 
         "res/Fish/Lobby/GUI/Fonts/arial16.fnt": {
             "md5": "af128f688a51225ff02ba6a3c43939ec"
         }, 
@@ -3763,22 +3769,22 @@
             "md5": "2d2c6acc0dadf369c9fe29e3764e9d4c"
         }, 
         "res/Fish/Lobby/GUI/Lobby/Anim/Chien_ngay/skeleton.atlas": {
-            "md5": "63205b9854dd50d0b649e161e285ba87"
+            "md5": "6f71c7e14c1a0894d2304e92a1d519b9"
         }, 
         "res/Fish/Lobby/GUI/Lobby/Anim/Chien_ngay/skeleton.json": {
-            "md5": "290a3c70897d30c249f95cb696c26143"
+            "md5": "f303b9d36d28187b9c210e45b5fec8ad"
         }, 
         "res/Fish/Lobby/GUI/Lobby/Anim/Chien_ngay/skeleton.png": {
-            "md5": "3269abc0f58ddb25bcaab33ca514b1b1"
+            "md5": "5a9bb358bcbe8351a71d819d0d06a1b7"
         }, 
         "res/Fish/Lobby/GUI/Lobby/Anim/Choi_thu/skeleton.atlas": {
-            "md5": "1a0aaa95ceeaf7b3fc343928ec082a54"
+            "md5": "33d7c6377a19a7ae733b60499384dcef"
         }, 
         "res/Fish/Lobby/GUI/Lobby/Anim/Choi_thu/skeleton.json": {
-            "md5": "64c2eb3322223de8ad935c787c812a42"
+            "md5": "1784541bd316c24c620d61ae38fd53cd"
         }, 
         "res/Fish/Lobby/GUI/Lobby/Anim/Choi_thu/skeleton.png": {
-            "md5": "791164461564d6a9a9bc2bcab2d58432"
+            "md5": "f64d8514b7c52c64d39d7df771968123"
         }, 
         "res/Fish/Lobby/GUI/Lobby/Anim/Shop/skeleton.atlas": {
             "md5": "d785e792e64ccf3e415c4419d306c5fa"
@@ -3806,6 +3812,15 @@
         }, 
         "res/Fish/Lobby/GUI/Lobby/Anim/logo/skeleton.png": {
             "md5": "8edb912b44022172ce34615b4c20e51e"
+        }, 
+        "res/Fish/Lobby/GUI/Lobby/Anim/vip/skeleton.atlas": {
+            "md5": "3d9533c32587a877cb113b74f6f0a5b6"
+        }, 
+        "res/Fish/Lobby/GUI/Lobby/Anim/vip/skeleton.json": {
+            "md5": "7fffd037d66770d887d3ede8ae9bc2eb"
+        }, 
+        "res/Fish/Lobby/GUI/Lobby/Anim/vip/skeleton.png": {
+            "md5": "7e3469695876eac3649619ca69235a1f"
         }, 
         "res/Fish/Lobby/GUI/Lobby/ButtonAndIcon_1.png": {
             "md5": "46a533a8d6429c96aef76ecae6a56c80"
@@ -3880,7 +3895,7 @@
             "md5": "98d2d44367f32baddb2a1ffc45d20022"
         }, 
         "res/Fish/Lobby/GUI/Lobby/Popup/bg_thongbao.png": {
-            "md5": "a506827ed3383d073fd55f121e4f90ed"
+            "md5": "c22fdda2346ae9ffe2c4a927a1c0b634"
         }, 
         "res/Fish/Lobby/GUI/Lobby/Popup/bg_topwin.png": {
             "md5": "371e79e1c7eb2180eb0ab1c3d299da53"
@@ -3889,7 +3904,7 @@
             "md5": "eca2e07c0b257768d5f2a420f2b69bdd"
         }, 
         "res/Fish/Lobby/GUI/Lobby/Popup/btn.png": {
-            "md5": "3daf42343cb7b064db5a9c8de66d6d47"
+            "md5": "bb96c99ef50080a6e9d79991a51011b5"
         }, 
         "res/Fish/Lobby/GUI/Lobby/Popup/btn_NapDoi.png": {
             "md5": "bec0e320b3eaeb280b526827c0079a71"
@@ -3915,6 +3930,9 @@
         "res/Fish/Lobby/GUI/Lobby/Popup/close.png": {
             "md5": "94e9bdada1c556b212462ccadad7de85"
         }, 
+        "res/Fish/Lobby/GUI/Lobby/Popup/close_2.png": {
+            "md5": "ba82d4d1a489d2d3509490ee78335e4f"
+        }, 
         "res/Fish/Lobby/GUI/Lobby/Popup/doiman_tab.png": {
             "md5": "b82b98b63a7b282dad88684a8dccb455"
         }, 
@@ -3939,6 +3957,12 @@
         "res/Fish/Lobby/GUI/Lobby/Popup/thread_yellow.png": {
             "md5": "7361e63f5e50f18fa7eb8bf8f5de2f5d"
         }, 
+        "res/Fish/Lobby/GUI/Lobby/Popup/title.png": {
+            "md5": "b15d51a82f3010538f6c4d7cca7ee82b"
+        }, 
+        "res/Fish/Lobby/GUI/Lobby/Popup/txt_title.png": {
+            "md5": "7639711d9090a37d8ee41d90abc6ded7"
+        }, 
         "res/Fish/Lobby/GUI/Lobby/Popup/xacnhan.png": {
             "md5": "422f88bf642bdc3346cc0a37619c38e4"
         }, 
@@ -3946,10 +3970,10 @@
             "md5": "8df10b9ce2593f91405c4ee29dd76006"
         }, 
         "res/Fish/Lobby/GUI/Lobby/avatar_bg_top.png": {
-            "md5": "8b1c1b5fecc8e43e25731ec55226b920"
+            "md5": "10098a90dc2bd13e6e1e29cd4409e007"
         }, 
         "res/Fish/Lobby/GUI/Lobby/avatar_photo.png": {
-            "md5": "d1ef2d06debc1de20bfba71b5bcccbe8"
+            "md5": "08051a8c6b579cbde81564d287a09575"
         }, 
         "res/Fish/Lobby/GUI/Lobby/bg_drag.png": {
             "md5": "b80ea368a8141bf0662e54c9472a679d"
@@ -3958,7 +3982,7 @@
             "md5": "205ec0e5226da3b2ae08c8c976193cdb"
         }, 
         "res/Fish/Lobby/GUI/Lobby/bg_info_bottom.png": {
-            "md5": "5937699472e4fffe606e90c84d87e2ea"
+            "md5": "496f4a2f886a804c8b933364ddeb7cd8"
         }, 
         "res/Fish/Lobby/GUI/Lobby/bg_lobby.jpg": {
             "md5": "e7cfe5a47157b70869d01c134c24bf60"
@@ -3969,8 +3993,14 @@
         "res/Fish/Lobby/GUI/Lobby/btn_FAQ.png": {
             "md5": "f5c90af8af881ff65d363a1d558d2a28"
         }, 
+        "res/Fish/Lobby/GUI/Lobby/btn_guid.png": {
+            "md5": "a510ccebaeb4e5bc3616374d689ca50c"
+        }, 
         "res/Fish/Lobby/GUI/Lobby/btn_history.png": {
             "md5": "2bb7ff29924d64b9c0e6178b907c32b6"
+        }, 
+        "res/Fish/Lobby/GUI/Lobby/btn_join.png": {
+            "md5": "4b99c5d8c4b7ace017454529fa72d264"
         }, 
         "res/Fish/Lobby/GUI/Lobby/btn_logout.png": {
             "md5": "258071f68803ee62d2e81ec312a00e55"
@@ -4065,8 +4095,23 @@
         "res/Fish/Lobby/GUI/Lobby/fish_bottom_right.png": {
             "md5": "1d468bd1431eecde459baf1ba965303f"
         }, 
+        "res/Fish/Lobby/GUI/Lobby/ic_back.png": {
+            "md5": "7c196c8eb3983b91e950dda30cc29465"
+        }, 
+        "res/Fish/Lobby/GUI/Lobby/ic_sound_bg_off.png": {
+            "md5": "047726d2068742d410f711d7d948be16"
+        }, 
+        "res/Fish/Lobby/GUI/Lobby/ic_sound_bg_on.png": {
+            "md5": "02e804e6ce9650dbb8822fb7732bbf5e"
+        }, 
+        "res/Fish/Lobby/GUI/Lobby/ic_sound_off.png": {
+            "md5": "858bf4c2dc120589b78b9838e88fc013"
+        }, 
+        "res/Fish/Lobby/GUI/Lobby/ic_sound_on.png": {
+            "md5": "ea9bbf573193839c32f596821512ee92"
+        }, 
         "res/Fish/Lobby/GUI/Lobby/ico_MAN.png": {
-            "md5": "1e16043d42024d286a862a4ea916b2b8"
+            "md5": "19b35a86f536f98b93c6a24a2b56fab1"
         }, 
         "res/Fish/Lobby/GUI/Lobby/ico_VANG.png": {
             "md5": "f0282af11eb57403f1e108cc3937574c"
@@ -4075,7 +4120,7 @@
             "md5": "ec84b2b485b67fe3716bdedddd065ab2"
         }, 
         "res/Fish/Lobby/GUI/Lobby/input_MAN_bg.png": {
-            "md5": "1fd024974086dea3cb217feeb3d61eaf"
+            "md5": "788301e2727868c83af57254d9d90dae"
         }, 
         "res/Fish/Lobby/GUI/Lobby/input_VANG_bg.png": {
             "md5": "dc998691f4fe176996cca6effb910048"
@@ -4168,7 +4213,7 @@
             "md5": "3030dd9f3de8f127cb3a38ea170cda42"
         }, 
         "res/Fish/Lobby/GUI/LobbyScene.json": {
-            "md5": "9ec578425a9b6bec5c99a7c1a2ae0633"
+            "md5": "b6d36dc387274d359a325da08a92c57e"
         }, 
         "res/Fish/Lobby/GUI/LoginLayer.json": {
             "md5": "0f2fb7f57b9a74bc1e4baf6adad6b2ff"
@@ -4177,7 +4222,7 @@
             "md5": "d6a1fd22b651cb7f0812e5ba098616f0"
         }, 
         "res/Fish/Lobby/GUI/PopupMoney.json": {
-            "md5": "812fd848b940d4d2bfa94386d4adc119"
+            "md5": "684ea2dbabbd5c0057c521153dabeb5a"
         }, 
         "res/Fish/Lobby/GUI/ScreenGame/fish2Dicon.plist": {
             "md5": "cc5aa0bcd22af45494b840f176bf097c"
@@ -4192,7 +4237,7 @@
             "md5": "f12ff178b74db1aab3de22567d23a9b5"
         }, 
         "res/Fish/Lobby/GUI/TWLobby/background3d.png": {
-            "md5": "984f115abefab6051738c8b0d28ea591"
+            "md5": "eaa2c648c14cd3b0dcf7fa87e95b9b66"
         }, 
         "res/Fish/Lobby/GUI/TWLobby/icon_big_light.png": {
             "md5": "4055679166eca01e9e783b0251e9e491"
@@ -4449,6 +4494,18 @@
         "res/Fontv2/button/FONTBUTTON-export.png": {
             "md5": "c9cf2e4430e5d4322735b69b34e03a5f"
         }, 
+        "res/Fontv2/cardgame/FONTHEADER-export.fnt": {
+            "md5": "ad4ea3f3996ef61503a7119b7ddf885d"
+        }, 
+        "res/Fontv2/cardgame/FONTHEADER-export.png": {
+            "md5": "359f46155bf70fad07538474857e909f"
+        }, 
+        "res/Fontv2/cardgame/FONTTITLE-export.fnt": {
+            "md5": "b248661b76d82375d099468f00815ed8"
+        }, 
+        "res/Fontv2/cardgame/FONTTITLE-export.png": {
+            "md5": "1716366cb2007ae3e45fca01d9f921d1"
+        }, 
         "res/Fontv2/gold/FONTVANG-export.fnt": {
             "md5": "07b7ddb843d6945fbd77e9ea6f71fd11"
         }, 
@@ -4460,6 +4517,18 @@
         }, 
         "res/Fontv2/gold/FONTVANGBOLD-export.png": {
             "md5": "56cde75607b1263e51a5493403cadc8a"
+        }, 
+        "res/Fontv2/sicbo/FONTCOUNTDOWN-export.fnt": {
+            "md5": "2a692b503de35c3a7fa7e3fd2b6e182f"
+        }, 
+        "res/Fontv2/sicbo/FONTCOUNTDOWN-export.png": {
+            "md5": "07833217421027d90dc7bbac1d90ee86"
+        }, 
+        "res/Fontv2/sicbo/FONTPHIEN-export.fnt": {
+            "md5": "c4b6a46a7246fad98a1856dea7d042ac"
+        }, 
+        "res/Fontv2/sicbo/FONTPHIEN-export.png": {
+            "md5": "ef58c2d27e435ea2531c6ef01273500f"
         }, 
         "res/Fontv2/text/FONT-export.fnt": {
             "md5": "0271bbc9911b8bf9e226d33b2f7f7ba7"
@@ -6668,6 +6737,63 @@
         }, 
         "res/Minigamev2/magicdoor/MagicDoorPlist.png": {
             "md5": "4790d5cee5819048ad6843da5edb5184"
+        }, 
+        "res/Minigamev2/sicbo/SicboPlist.plist": {
+            "md5": "be30ec9deb63f4fb607a625175381add"
+        }, 
+        "res/Minigamev2/sicbo/SicboPlist.png": {
+            "md5": "146022c626ac62369a2e0177055c2ce8"
+        }, 
+        "res/Minigamev2/sicbo/checkdice/CheckDicePlist.plist": {
+            "md5": "6a146855ab4938e9c69484d081799887"
+        }, 
+        "res/Minigamev2/sicbo/checkdice/CheckDicePlist.png": {
+            "md5": "4701141e639d5e08cac846cda79089c2"
+        }, 
+        "res/Minigamev2/sicbo/detail/HistoryPreferralPlist.plist": {
+            "md5": "754048c0b08abcd042371969692aae62"
+        }, 
+        "res/Minigamev2/sicbo/detail/HistoryPreferralPlist.png": {
+            "md5": "cddaebd84f08d0ae51ac1ef6ac76606e"
+        }, 
+        "res/Minigamev2/sicbo/dice_animation/DiceAnimationPlist.plist": {
+            "md5": "93288f2596edb502d5ed7cc5b5190afa"
+        }, 
+        "res/Minigamev2/sicbo/dice_animation/DiceAnimationPlist.png": {
+            "md5": "c380f2b12eacdaf326b78e7d13a06e83"
+        }, 
+        "res/Minigamev2/sicbo/keyboard/KeyboardPlist.plist": {
+            "md5": "7976ba815a7b7d566cab9e73f7ecf3bc"
+        }, 
+        "res/Minigamev2/sicbo/keyboard/KeyboardPlist.png": {
+            "md5": "e059c7c08934ddd8274e10a7f999b71c"
+        }, 
+        "res/Minigamev2/sicbo/spine_bg/ICON.atlas": {
+            "md5": "cbacdc48c2a44305a5d1c3531473f393"
+        }, 
+        "res/Minigamev2/sicbo/spine_bg/ICON.json": {
+            "md5": "91acd722d479b12ac15882a7de7557b8"
+        }, 
+        "res/Minigamev2/sicbo/spine_bg/ICON.png": {
+            "md5": "079f8c2e25f00232c0b4f656cb9eaf3e"
+        }, 
+        "res/Minigamev2/sicbo/spine_countdown/ICON.atlas": {
+            "md5": "38b8703a44487e8af08a155dcd8d5a8c"
+        }, 
+        "res/Minigamev2/sicbo/spine_countdown/ICON.json": {
+            "md5": "d84fa5fcd10c7dd3cf60979421207c0a"
+        }, 
+        "res/Minigamev2/sicbo/spine_countdown/ICON.png": {
+            "md5": "7b9ecc4a32d73ce1a87246c6d49e5301"
+        }, 
+        "res/Minigamev2/sicbo/spine_side/ICON.atlas": {
+            "md5": "7df51787597638946e508819326832e3"
+        }, 
+        "res/Minigamev2/sicbo/spine_side/ICON.json": {
+            "md5": "58975573e0f0619c72f45e67cbd483b2"
+        }, 
+        "res/Minigamev2/sicbo/spine_side/ICON.png": {
+            "md5": "394508e853c92c5fc7a703bdec0bd481"
         }, 
         "res/Minigamev2/tanthu/TanThuPlist.plist": {
             "md5": "cea5045d036855ad4e9a232cd12e22e8"
@@ -9501,6 +9627,18 @@
         "res/basetablev2/BaseTablePlist.png": {
             "md5": "c882f7ad23c0fcbb78b30eafc26dc0f3"
         }, 
+        "res/cardgamev2/commonresource/selectroom/SelectRoomPlist.plist": {
+            "md5": "161109cf2339e287a31d674976dfc0e0"
+        }, 
+        "res/cardgamev2/commonresource/selectroom/SelectRoomPlist.png": {
+            "md5": "1aa29beb333669024043ec803c710ca3"
+        }, 
+        "res/cardgamev2/commonresource/top/TopPlist.plist": {
+            "md5": "51a891918a670c0aa14b643a06a16d2f"
+        }, 
+        "res/cardgamev2/commonresource/top/TopPlist.png": {
+            "md5": "46bbd5816b252d85b67d0931a93e74c2"
+        }, 
         "res/chat/chatPlist.plist": {
             "md5": "e6b163c410805af863ee4fe93cc3537b"
         }, 
@@ -9651,6 +9789,18 @@
         "res/commonv2/layoutlist/LayoutListPlist.png": {
             "md5": "7bc6a8cd62eb4fafa220c4c85c4b3bd2"
         }, 
+        "res/commonv2/layoutlistsicbo/LayoutListSicboPlist.plist": {
+            "md5": "d24b20fe5e394f4bc28592916fb009da"
+        }, 
+        "res/commonv2/layoutlistsicbo/LayoutListSicboPlist.png": {
+            "md5": "e11054e66ed1ecabd646ee2a7e820533"
+        }, 
+        "res/commonv2/layoutlisttop/LayoutListTopPlist.plist": {
+            "md5": "6a951bab5fc80496f35d349f2210f7b3"
+        }, 
+        "res/commonv2/layoutlisttop/LayoutListTopPlist.png": {
+            "md5": "841054c17227dd29fe7d0fe5da398798"
+        }, 
         "res/commonv2/pagination/PaginationPlist.plist": {
             "md5": "4d454c9c28a34979337c882ec84a28f1"
         }, 
@@ -9663,11 +9813,20 @@
         "res/commonv2/tab/TabPlist.png": {
             "md5": "53097eb07ff1f8aca35dcad1786c6e84"
         }, 
+        "res/event.txt": {
+            "md5": "b0bbea65f366a044db9c504d4b9135be"
+        }, 
         "res/favicon.ico": {
             "md5": "95bf87c709cc1b20db05babbb454d174"
         }, 
         "res/loading.js": {
             "md5": "47321a61bec8998b48b3bf428b5a1ded"
+        }, 
+        "res/lobbyv2/LobbyPlist.plist": {
+            "md5": "9c13218faf5f393c3730198414491cba"
+        }, 
+        "res/lobbyv2/LobbyPlist.png": {
+            "md5": "96cfe1574d9627e7b73189ed52673902"
         }, 
         "res/lobbyv2/SpinIcon/avatar/ICON.atlas": {
             "md5": "b5db40ff9d3e104f9a72483b39a3fa5e"
@@ -9787,22 +9946,22 @@
             "md5": "79d2ff60efeb9f1d899c9f6513ff4400"
         }, 
         "res/lobbyv2/SpinIcon/slots/01/ICON.atlas": {
-            "md5": "f73c5f836ea925bf7056d9989188dafc"
+            "md5": "b352c917ef74a7dc188c850c5ab3c3c5"
         }, 
         "res/lobbyv2/SpinIcon/slots/01/ICON.json": {
-            "md5": "169eb8adb0271a5f3b2c9eda39923aa4"
+            "md5": "03e6f1877545c80555e8767bb02fd0cd"
         }, 
         "res/lobbyv2/SpinIcon/slots/01/ICON.png": {
-            "md5": "a66956aabbe522cf9851c382067b748f"
+            "md5": "0c13ae19035c5506c3534882df80165e"
         }, 
         "res/lobbyv2/SpinIcon/slots/02/ICON.atlas": {
-            "md5": "dc5ca2d4a56e4162be38235583aea3d5"
+            "md5": "87cf446eb75d6efd67b0cf9041b50df1"
         }, 
         "res/lobbyv2/SpinIcon/slots/02/ICON.json": {
-            "md5": "607ae57706674b1d5509ebd2262ab31a"
+            "md5": "3cf34141e6ba69d23a4bce753a31b824"
         }, 
         "res/lobbyv2/SpinIcon/slots/02/ICON.png": {
-            "md5": "aeec305da6a3963086e220ef08be3bd3"
+            "md5": "a17d74726a5ba50f8f2e8c0cb5547034"
         }, 
         "res/lobbyv2/SpinIcon/slots/03/ICON.atlas": {
             "md5": "d14a82439a92e67a0a191467ddce64a9"
@@ -9814,13 +9973,13 @@
             "md5": "4ffe80d1f99a1810173cf6d237ee58d3"
         }, 
         "res/lobbyv2/SpinIcon/slots/04/ICON.atlas": {
-            "md5": "05661067c7e491682fd6806feff6056d"
+            "md5": "59d00aca5ad4e902cbe4d3eade81efe7"
         }, 
         "res/lobbyv2/SpinIcon/slots/04/ICON.json": {
-            "md5": "aaccee39fbd5a0a84a027768510ea1d5"
+            "md5": "4433d5cf147915942b16309470d67f82"
         }, 
         "res/lobbyv2/SpinIcon/slots/04/ICON.png": {
-            "md5": "5ac2534e234c34423a0c7a0b09af3098"
+            "md5": "81adc4d49b82244ba63666571d1924b7"
         }, 
         "res/lobbyv2/SpinIcon/taixiu/ICON.atlas": {
             "md5": "96ab672ae7792ee9f94cd472ad8f9436"
@@ -9868,10 +10027,10 @@
             "md5": "9dfb678bfda37d78669c649fd6adf12c"
         }, 
         "res/lobbyv2/createnn/CreateNNPlist.plist": {
-            "md5": "a018771ccdd701ce1a7d633d16f8b836"
+            "md5": "b559792d524e08d24335c2295ca29456"
         }, 
         "res/lobbyv2/createnn/CreateNNPlist.png": {
-            "md5": "69e663402d2b747542d107d608665b27"
+            "md5": "5d54d16b389fdbb09ae2cf09964e16a4"
         }, 
         "res/lobbyv2/forgotpassword/ForgotPasswordPlist.plist": {
             "md5": "fa01162943c6f6d00fdc3bca20883a10"
@@ -9901,16 +10060,19 @@
             "md5": "fda401badb7d6c56e1d0eed0aae75a72"
         }, 
         "res/lobbyv2/login/LoginPlist.plist": {
-            "md5": "69da636a6851b58736546f1e53e55d09"
+            "md5": "2b81003b18f74416a4a77dec1588848e"
         }, 
         "res/lobbyv2/login/LoginPlist.png": {
-            "md5": "67e51748c7fe46051ffc3ac1e571e69e"
+            "md5": "61a622062e70cdf47decb2c8a5358abc"
         }, 
         "res/lobbyv2/register/RegisterPlist.plist": {
-            "md5": "0deafe28cc686c9b8e9a585a88266626"
+            "md5": "2bf42264d8a87e2019d8dfd1b001c075"
         }, 
         "res/lobbyv2/register/RegisterPlist.png": {
-            "md5": "38bac0e337ec62d6c7e07209ef81a210"
+            "md5": "ec23d4f34ba7e36f5d936089b5e3041b"
+        }, 
+        "res/lobbyv2/sound/main.mp3": {
+            "md5": "b17640d37a7293618724a030392ba400"
         }, 
         "res/lobbyv2/subpot/SubpotPlist.plist": {
             "md5": "a1041bee12f372c5e6e8e8fc331ab1eb"
@@ -9918,11 +10080,17 @@
         "res/lobbyv2/subpot/SubpotPlist.png": {
             "md5": "4340e169a55158de12dda11079ce444d"
         }, 
+        "res/menuslotsv2/MenuSlotsPlist.plist": {
+            "md5": "e334e5a8336781a17656892d29331b20"
+        }, 
+        "res/menuslotsv2/MenuSlotsPlist.png": {
+            "md5": "de65c21db1718990b13eea327b0f6249"
+        }, 
         "res/menuv2/changepassword/ChangePasswordPlist.plist": {
-            "md5": "b8f7279c686f6dca018f557db713767f"
+            "md5": "b876811ef74afbbd858e1899e3057a30"
         }, 
         "res/menuv2/changepassword/ChangePasswordPlist.png": {
-            "md5": "6a82022bedf1787a45f06958c68d44bb"
+            "md5": "da6d5a445e57a16ce2eafc7b7844d273"
         }, 
         "res/menuv2/otp/OtpPlist.plist": {
             "md5": "4a56c580363de41e5e8cf4a2038a92d7"
@@ -9967,10 +10135,10 @@
             "md5": "3745e75cc4ec27afa9b9debe92893ec5"
         }, 
         "res/resourcemenutabv2/event/EventPlist.plist": {
-            "md5": "d171bceafeb8370243c559c6670295c1"
+            "md5": "c32999b13877aceadcdd1d3069f1a515"
         }, 
         "res/resourcemenutabv2/event/EventPlist.png": {
-            "md5": "6ef37cef980f674a4e117e8ffe1eb68b"
+            "md5": "bc508a1234685a7b9e79e62e46f88e7b"
         }, 
         "res/resourcemenutabv2/profile/ProfilePlist.plist": {
             "md5": "b75ce30662468310776d776de76b840f"
@@ -10015,10 +10183,16 @@
             "md5": "86503f54a427e7fb2f5929c17ebac377"
         }, 
         "src/Components/TableLayer/BaseLayerTable_en.jsc": {
-            "md5": "9f46babcf829466e93e2d85dbc088468"
+            "md5": "c31957e2616168b99ddeb22b2857536d"
         }, 
         "src/Components/TableLayer/LayoutControlTableView_en.jsc": {
             "md5": "8eb798e5f804c84212a11c5b021c6af0"
+        }, 
+        "src/Components/TableLayer/LayoutListViewSicbo.jsc": {
+            "md5": "146fa891106ad3b6e88a88bfe41d73df"
+        }, 
+        "src/Components/TableLayer/LayoutListViewTop.jsc": {
+            "md5": "7bb3b4a0066dc67cab0c8774ed14680b"
         }, 
         "src/Components/TableLayer/LayoutListView_en.jsc": {
             "md5": "e47b54e2778a829f902aa22f8ff537d5"
@@ -10027,13 +10201,13 @@
             "md5": "9939dea77b44fe4a5f7c3a7a72ac5de3"
         }, 
         "src/Engine/GUI/BaseLayer_en.jsc": {
-            "md5": "01f23b8fb8ea7e96537f912fe7f08a5b"
+            "md5": "71d6bebed54aa38977dd86cf6af0f2b3"
         }, 
         "src/Engine/GUI/BaseLobby_en.jsc": {
             "md5": "e455504e5927351c334dc4860b9c6a79"
         }, 
         "src/Engine/GUI/BaseScene_en.jsc": {
-            "md5": "972c1a85292413da10d46fb9607b66cf"
+            "md5": "59018996bc1a3ce4072874ee9ec5a7c0"
         }, 
         "src/Engine/GUI/GuiUtil_en.jsc": {
             "md5": "4033c3475a1f0968bfff31f2a104b223"
@@ -10348,7 +10522,7 @@
             "md5": "6411fadd149b2c8bd56e120a049e805b"
         }, 
         "src/Game/BanCa/BanCaNaGaVip_en.jsc": {
-            "md5": "fa817734b7e736803fa99739c2896ecb"
+            "md5": "9c75a33a1c3c41148842bf70d5b7d9f7"
         }, 
         "src/Game/BanCa/BanCaView_en.jsc": {
             "md5": "563ebf8a8bef48164f09752a930617e7"
@@ -10531,10 +10705,10 @@
             "md5": "075197396887d9f0c8931429fcdd17e2"
         }, 
         "src/Game/GameMng/GameData_en.jsc": {
-            "md5": "fb85a56d97c9bdf3ce71d7d6aa7b8759"
+            "md5": "58902a23e9d27921f23071c2e6ca4de7"
         }, 
         "src/Game/GameMng/GameManager_en.jsc": {
-            "md5": "1e82bcd792079c9df5f139a2e441716d"
+            "md5": "13d52fb6c1ff6c28f961d0e0c395da20"
         }, 
         "src/Game/GameMng/GameScenePool_en.jsc": {
             "md5": "ecd5dbbfa06a7e22c66eb0539f8f40be"
@@ -10564,7 +10738,7 @@
             "md5": "764055ac532f514f91af3cac92e23cf8"
         }, 
         "src/Game/GuiCommon/GameLobby_en.jsc": {
-            "md5": "12b095351f6be2ec7459ec6db03d5c9c"
+            "md5": "b948d788e18e9ff51096ed4a585db5a0"
         }, 
         "src/Game/GuiCommon/MoiChoiLayer_en.jsc": {
             "md5": "ad494edfa1253d7c986dd1e80d548d12"
@@ -10588,7 +10762,7 @@
             "md5": "00d017775bc3591bfc017a2945438c88"
         }, 
         "src/Game/GuiCommon/TopGameLayer_en.jsc": {
-            "md5": "697272fa0a250e3c27407e52defdd5f8"
+            "md5": "801330a08afa837b22f6345ced17a625"
         }, 
         "src/Game/GuiCommon/TopServerLayer_en.jsc": {
             "md5": "0fc9e895bb9ddacd7da745799e03a813"
@@ -10663,13 +10837,13 @@
             "md5": "cf02eb45cd95dbb883f3aed9abf45ed6"
         }, 
         "src/Game/Lobby/AudioMenu/LobbyAudio.jsc": {
-            "md5": "3d4fa289ca274d9d5408050e2775eeb8"
+            "md5": "15ee9d05eff9fb4c556aecfdc6b33fe0"
         }, 
         "src/Game/Lobby/Content/ChatDefine_en.jsc": {
             "md5": "2a0a7126fd73dc8b5d8188de4a9c1f44"
         }, 
         "src/Game/Lobby/Content/MenuDefine_en.jsc": {
-            "md5": "8acaf986da97f66a1c15ceb23bfcfce8"
+            "md5": "eb7f5768c75fe2d46495490f374274a6"
         }, 
         "src/Game/Lobby/Content/UserInfo_en.jsc": {
             "md5": "40f7310bc9c0e382e191a8f8a8d47df9"
@@ -10687,13 +10861,13 @@
             "md5": "c5f2012223ecb5f3b4be70f242a5eeea"
         }, 
         "src/Game/Lobby/Gui/ItemGameBai_en.jsc": {
-            "md5": "a44ed01f3af8a7456090a65d478710a1"
+            "md5": "5582d47e21d2e8246e1483b6593290dd"
         }, 
         "src/Game/Lobby/Gui/LoginLayer_en.jsc": {
-            "md5": "313996416c3ed21ef0105a691022f8a0"
+            "md5": "8b9cda517fdd32aa4e6a4030c2263216"
         }, 
         "src/Game/Lobby/Gui/MenuLayer_en.jsc": {
-            "md5": "9bcbe9fa3aea3e1c8a81bc3aa81a9fbe"
+            "md5": "05ddb3074196f4a4a07ec2a716dd25d0"
         }, 
         "src/Game/Lobby/Gui/OtpGameBaiLayer_en.jsc": {
             "md5": "8c7f0a7b57988b5d4091eb45c9462e44"
@@ -10702,7 +10876,7 @@
             "md5": "779ec0d1d62ad57442f00f32046d0f95"
         }, 
         "src/Game/Lobby/Gui/QuenMatKhau/BaseLayerForgotPassword.jsc": {
-            "md5": "11e08bbdfb700e45c278db71e7dad380"
+            "md5": "f3aab81c60b0445de03c5f7db9bcaff8"
         }, 
         "src/Game/Lobby/Gui/QuenMatKhau/ForgetEmailPhone_en.jsc": {
             "md5": "ce4d3baad187f44034b986a1f6a3f456"
@@ -10714,25 +10888,25 @@
             "md5": "e6e929f1282f746e09303ddc78bd9d02"
         }, 
         "src/Game/Lobby/Gui/QuenMatKhau/NhapUsername_en.jsc": {
-            "md5": "da613ece2ce800b3cd620b355668b33c"
+            "md5": "8fa9d7dbc23bce6cf56853e7c7752267"
         }, 
         "src/Game/Lobby/Gui/QuenMatKhau/OtpQuenMatKhau_en.jsc": {
-            "md5": "bb0a4c3b1f0cd3fb2fc286dff5865833"
+            "md5": "344c435e9059d965fb4a296cc271397a"
         }, 
         "src/Game/Lobby/Gui/QuenMatKhau/ThongBaoOtp_en.jsc": {
             "md5": "018cf3d911a3e208357a9e9a0f03db1d"
         }, 
         "src/Game/Lobby/Gui/QuenMatKhau_en.jsc": {
-            "md5": "87f3c6322e95b41dbd73deba7d0c933b"
+            "md5": "08ee5b1188dca5a4e7a3fba60b7f58f4"
         }, 
         "src/Game/Lobby/Gui/RegisterLayer_en.jsc": {
-            "md5": "c88544a07b1b638a554a5c804961cbce"
+            "md5": "1b9f6f7a3c410325d9f4d3fed4e81f82"
         }, 
         "src/Game/Lobby/Gui/SubpotLayer_en.jsc": {
-            "md5": "59e3cc6d790c516c4c586b4ce92f4b67"
+            "md5": "8d710de19a800f6f8e66eefa58d75b00"
         }, 
         "src/Game/Lobby/lobby_en.jsc": {
-            "md5": "3667202134bb2274982973f1f6171f96"
+            "md5": "13e451c807928d4ae0954878130fb5f9"
         }, 
         "src/Game/MauBinh/GUI/CheatCardGui_en.jsc": {
             "md5": "acb0735bcc202b956374f1ee272164a2"
@@ -10822,25 +10996,25 @@
             "md5": "51a398bbc4c2ba153577452dbcf63a28"
         }, 
         "src/Game/MenuInfo/EventLayer_en.jsc": {
-            "md5": "20f0e5afd643275d9da6883302dfb2fe"
+            "md5": "0324d7c9e09c4239db52ec63ce75788d"
         }, 
         "src/Game/MenuInfo/EventThanhNhoLayer_en.jsc": {
             "md5": "7f10452c450c6eeaddd1e5847f4af3a4"
         }, 
         "src/Game/MenuInfo/EventX2NapLayer_en.jsc": {
-            "md5": "86fe2fcd96c59a4547aac1f80ad4e5df"
+            "md5": "a9950c9299c9649bcf5c1b2595a7ccad"
         }, 
         "src/Game/MenuInfo/Giftcode/GiftcodeLayer_en.jsc": {
-            "md5": "e2df7616024335cabcdf951c112dadd7"
+            "md5": "a5b523c68c163bf289ad6798e56827af"
         }, 
         "src/Game/MenuInfo/Giftcode/GiftcodeListLayer_en.jsc": {
-            "md5": "3ebccbdbf41141336fc4af8bbb77eec7"
+            "md5": "9ffd6b38f344dd4ece57e9d602e0f033"
         }, 
         "src/Game/MenuInfo/HaiLocLayer_en.jsc": {
-            "md5": "3ed40f901beb216ae48a69a0d4689d41"
+            "md5": "300415fa57b3e9c2217a8181a596024b"
         }, 
         "src/Game/MenuInfo/LichSuGiaoDich/ChiTietLSGDLayer_en.jsc": {
-            "md5": "04e9d07e0734faa1a24cf42db2aa5b63"
+            "md5": "9714ca196cd477dc4645324c109e0e33"
         }, 
         "src/Game/MenuInfo/LichSuGiaoDich/LichSuGDLayer_en.jsc": {
             "md5": "126a4309ce0cc4513c675e14a51fcd01"
@@ -10849,10 +11023,10 @@
             "md5": "76dd202612e5a9c80cef731e12e41c83"
         }, 
         "src/Game/MenuInfo/Mail/code_mail_info_en.jsc": {
-            "md5": "93013f01c517211ada0d2dc9ad751241"
+            "md5": "530103644e6a2e2424d733843ca7ca45"
         }, 
         "src/Game/MenuInfo/MenuInfoLayer_en.jsc": {
-            "md5": "224ae00e323573fdd4c7b750fa5c2525"
+            "md5": "bbc333ca7eb636b5185e61d3235e5842"
         }, 
         "src/Game/MenuInfo/MenuTab/BigWinLayer_en.jsc": {
             "md5": "8ce7c2f153c1065759e66e8b87b9be69"
@@ -10861,7 +11035,7 @@
             "md5": "ad132d91c849ce95ce51328682f99a1b"
         }, 
         "src/Game/MenuInfo/MenuTab/GameSetting/SettingLayer_en.jsc": {
-            "md5": "744d7ef401b08405fbe5702f58bac8f0"
+            "md5": "c65ddeb5dd80b7d2c8505367d7da85cf"
         }, 
         "src/Game/MenuInfo/MenuTab/HuGame/HuGameLayer_en.jsc": {
             "md5": "4cf0a8bcca32d4b61118f1d79af8cbbb"
@@ -10870,22 +11044,22 @@
             "md5": "692b34708baab58c8c80ca6a08ac442a"
         }, 
         "src/Game/MenuInfo/MenuTab/UserManagerLayer_en.jsc": {
-            "md5": "215b064489a3ac0ef420e33397e811f3"
+            "md5": "237bcceddfc7ee70a662a996c5149cf1"
         }, 
         "src/Game/MenuInfo/Profile/BirthdayLayer_en.jsc": {
             "md5": "c5993e972e6627a7780a978c9589dadf"
         }, 
         "src/Game/MenuInfo/Profile/ChangeAvatarLayer_en.jsc": {
-            "md5": "7608797184c1ac785f1f8973d1594fbb"
+            "md5": "052b50132f9f666cc87e56fd6c788986"
         }, 
         "src/Game/MenuInfo/Profile/ChangePassword_en.jsc": {
-            "md5": "427268696f2f3ecb727aeffb2fa21e35"
+            "md5": "7d3a26277afedf18da125c2ff860bffa"
         }, 
         "src/Game/MenuInfo/Profile/ConfigProfile_en.jsc": {
             "md5": "1968a4e4b1abc96d1e2532c2a35481ae"
         }, 
         "src/Game/MenuInfo/Profile/HoSoLayer_en.jsc": {
-            "md5": "cb6d5fc8dae799f7c5f9d93eadbdd253"
+            "md5": "a0b3d13e7b81243cc23c4e0e892cbd89"
         }, 
         "src/Game/MenuInfo/Profile/ProfileLayer_en.jsc": {
             "md5": "e8ee1f78c06a0cf861ca096917f6d4f7"
@@ -10894,7 +11068,7 @@
             "md5": "6ae07676a918a94ed0adde4b1f455e67"
         }, 
         "src/Game/MenuInfo/Profile/VipLayer_en.jsc": {
-            "md5": "ae9e8c0d93bec8f78f2053d22d1e43ec"
+            "md5": "c64c37467fc0f61934d5f69c0121fd71"
         }, 
         "src/Game/MenuInfo/QuyDinh/QuyDinhLayer_en.jsc": {
             "md5": "094ccd2b69ba882c1ff767e3eacca345"
@@ -10912,16 +11086,16 @@
             "md5": "39d55e54cdff26734dae6f15684613b4"
         }, 
         "src/Game/MenuInfo/Sercurity/KetAnToanLayer_en.jsc": {
-            "md5": "f4e20190dbcf03c970c972bb9500ded6"
+            "md5": "0943348cd364b8828c06422b5897bbbd"
         }, 
         "src/Game/MenuInfo/Sercurity/QuanLyGameLayer_en.jsc": {
-            "md5": "b1ea8e5e53856de8844eb439ac4a30cc"
+            "md5": "70556045f49493a97b0e99fac9060f02"
         }, 
         "src/Game/MenuInfo/Sercurity/SercurityLayer_en.jsc": {
             "md5": "6249e952bbce27b6ff8aeb77e17aa87a"
         }, 
         "src/Game/MenuInfo/Shopping/ChuyenKhoanLayer_en.jsc": {
-            "md5": "7e5066ec0feeb508165bb596b05a299e"
+            "md5": "0b4792a8b20a7820f2782d1965b90cbd"
         }, 
         "src/Game/MenuInfo/Shopping/ConfigShopping_en.jsc": {
             "md5": "89cd03a78f0e59850ab73ce3c3779346"
@@ -10930,19 +11104,19 @@
             "md5": "56c5e2e9d2ef9ffde66ee6b74512b8c7"
         }, 
         "src/Game/MenuInfo/Shopping/MuaMaTheDTLayer_en.jsc": {
-            "md5": "48bf85cc97aa0c794997a7b892f6534d"
+            "md5": "cb48bb98b13dd2f9e1ee6d1b2f3298c8"
         }, 
         "src/Game/MenuInfo/Shopping/MuaTheGameLayer_en.jsc": {
-            "md5": "e8094a0f38be511e84e4f2aef368b2d1"
+            "md5": "dca93433fb5db17d71ad5f8e5c6594a9"
         }, 
         "src/Game/MenuInfo/Shopping/NapTienTraSauLayer_en.jsc": {
-            "md5": "cd58a47f8848aa638599fbef79b1a040"
+            "md5": "cd2a40bdef7b713dde6b659722dd9af2"
         }, 
         "src/Game/MenuInfo/Shopping/NapTienTraTruocLayer_en.jsc": {
-            "md5": "a19313e62355871cd1462aa312ef5e69"
+            "md5": "52eb0760dcd851ddaa0c9519737706de"
         }, 
         "src/Game/MenuInfo/Shopping/NapVinFromBank_en.jsc": {
-            "md5": "af5905a8a7cd485b52686811c2d00875"
+            "md5": "dcfb37a47882a2b20922af8e851c773a"
         }, 
         "src/Game/MenuInfo/Shopping/NapVinFromIAP_en.jsc": {
             "md5": "2e1b08227b9de3c324712bf92eda1a82"
@@ -10954,19 +11128,19 @@
             "md5": "04dbff22a46122d589d39e9023e605fe"
         }, 
         "src/Game/MenuInfo/Shopping/NapVinMomoLayer_en.jsc": {
-            "md5": "f069ae1d6e59f12039df1f88297cd733"
+            "md5": "9064bcaea9a718593150cd556e277154"
         }, 
         "src/Game/MenuInfo/Shopping/NapVinTheLayer_en.jsc": {
-            "md5": "2f860e8af8792f78b59a98bccee7a877"
+            "md5": "b17e550f191f5381e4b1f8d5f8f508c1"
         }, 
         "src/Game/MenuInfo/Shopping/NapXuLayer_en.jsc": {
-            "md5": "b14e2ca498f3486937e485c2d5c23255"
+            "md5": "2371ccfab2902b32840ecc550cf261c5"
         }, 
         "src/Game/MenuInfo/Shopping/RutBankLayer_en.jsc": {
-            "md5": "9dbc1b2a838651beca8b58e53b1e0916"
+            "md5": "cdb2b5d43c9f032fe3fd135bbc1b59ad"
         }, 
         "src/Game/MenuInfo/Shopping/RutMomoLayer_en.jsc": {
-            "md5": "f86a73209a06d658c348709a3c2fe9ec"
+            "md5": "0dc119a7d28db45b5febf6c48ba3821a"
         }, 
         "src/Game/MenuInfo/Shopping/ShoppingLayer_en.jsc": {
             "md5": "d05f9499697cdc390226c9eed016936c"
@@ -10975,16 +11149,16 @@
             "md5": "eeb19282aef4c304a982684602fd1150"
         }, 
         "src/Game/MenuInfo/Shopping/UngVinLayer_en.jsc": {
-            "md5": "eb1bfb39c1bbbd54da4e887f7594499b"
+            "md5": "2fbbf86f339f846097e55fe7efc75e92"
         }, 
         "src/Game/MenuInfo/VongQuayVip/LichSuVQVLayer_en.jsc": {
             "md5": "7a805d51af2ca5c64ec3f78ca699ec54"
         }, 
         "src/Game/MenuInfo/VongQuayVip/VongQuayVipLayer_en.jsc": {
-            "md5": "c65f184e0699d1e4d0507eaf1e488e55"
+            "md5": "695fc5eddf4fddb3131da9c3058c63e6"
         }, 
         "src/Game/MenuInfo/code_pn_otp_en.jsc": {
-            "md5": "a1b8e17c4b7d3a41ae6384b4257e76b1"
+            "md5": "da415267aaf2d1c17690b8b39704bdd9"
         }, 
         "src/Game/MenuInfo/responseMenu_en.jsc": {
             "md5": "bab3316cd21e766253471469919bd583"
@@ -11074,22 +11248,22 @@
             "md5": "f9b23a4e6337f229bc23a1fd0cb13ff1"
         }, 
         "src/Game/Minigame/TaiXiu/TXChiTietPhien_en.jsc": {
-            "md5": "0b70914a234ac8ad8f0626abbe9222b6"
+            "md5": "29d5be9888e1f298793942b69f056a2b"
         }, 
         "src/Game/Minigame/TaiXiu/TXLichSuGiaoDich_en.jsc": {
-            "md5": "1ef720f525764c71cc85a3644a59dad5"
+            "md5": "6fbe85113d4e230059eeabc26e7612ae"
         }, 
         "src/Game/Minigame/TaiXiu/TXThanhDu_en.jsc": {
             "md5": "554f8cc44884923dde628457e29d7432"
         }, 
         "src/Game/Minigame/TaiXiu/TXTopUser_en.jsc": {
-            "md5": "afdcc3f6487fd86641873c4b40c9c168"
+            "md5": "3dd6de7622e97d2314f261beb2c908eb"
         }, 
         "src/Game/Minigame/TaiXiu/TXcolor_en.jsc": {
             "md5": "4921111670f02012dfd1fe65b51888ea"
         }, 
         "src/Game/Minigame/TaiXiu/TaiXiu_en.jsc": {
-            "md5": "435c48333f499f769d4561701f5e96f1"
+            "md5": "19e59bd3a8075893c3664643b5c1963c"
         }, 
         "src/Game/Minigame/TaiXiu/VippointTxLayer_en.jsc": {
             "md5": "ac4bce39a192a2218423d5f544615e32"
@@ -11098,10 +11272,10 @@
             "md5": "15a26f5f3b5a3a7a5b02cd8dd7dea34a"
         }, 
         "src/Game/Minigame/TaiXiu/chat_en.jsc": {
-            "md5": "1fbd4f04fd652fe542b21aa67196e8ab"
+            "md5": "d0ae10b491343ba93e2b4f5ff535f765"
         }, 
         "src/Game/Minigame/TaiXiu/soicau_en.jsc": {
-            "md5": "66cdcbb1867edace8752336778124722"
+            "md5": "18484093dc0aecfa0a0f14695086b5b2"
         }, 
         "src/Game/Minigame/TaiXiu/tanloc_en.jsc": {
             "md5": "bc9ceac60011650cb20bf7f391558a50"
@@ -11110,7 +11284,7 @@
             "md5": "7095d533a1a712055165782c0d35163c"
         }, 
         "src/Game/Minigame/VQMM/codeVQMM_en.jsc": {
-            "md5": "274a8264dae0753ad256450ae8e86b3c"
+            "md5": "83c7443860a9d9cf0d3c8ca9c1880db5"
         }, 
         "src/Game/Minigame/VQMM/codeVQMM_lichsu_en.jsc": {
             "md5": "1fdbfdecc45246e8f4a8e505f34d3b20"
@@ -11128,7 +11302,7 @@
             "md5": "0397900e31769d99bba9aabe8d554cf3"
         }, 
         "src/Game/Networks/CardGame/CardGameListener_en.jsc": {
-            "md5": "b14b991e3d3a81d7c38e69a520456619"
+            "md5": "686646582452f07c108ee158bc88538d"
         }, 
         "src/Game/Networks/CardGame/CardGameWebSocket_en.jsc": {
             "md5": "aecd94ace290cfe6458ab070fbb31068"
@@ -11158,7 +11332,7 @@
             "md5": "e903b84f8a979b19060219368c826bc5"
         }, 
         "src/Game/Networks/TaixiuSocket/TaiXiuListener_en.jsc": {
-            "md5": "9179a99556840c3621341b136d7ed1fa"
+            "md5": "54af19a46246eded04bc81f6fc98f3a4"
         }, 
         "src/Game/Networks/TaixiuSocket/TaixiuSocket_en.jsc": {
             "md5": "63d7f928fd5997fd5ae9bcb28a557774"
@@ -11419,7 +11593,7 @@
             "md5": "567bebda37edfe34f1258967d77381c6"
         }, 
         "src/Game/Slots/DeCheThanhRome/DeCheThanhRomeListener_en.jsc": {
-            "md5": "99d4b8cd2385a362f77f555f82526010"
+            "md5": "1454a8823cb1e77ec6389170dab24a66"
         }, 
         "src/Game/Slots/DeCheThanhRome/DeCheThanhRomeResponse_en.jsc": {
             "md5": "5600887dfaf275d4d95e3f32f32abfe7"
@@ -11512,7 +11686,7 @@
             "md5": "0b5cab79ebf086e4f5bba3476209cf0f"
         }, 
         "src/Game/Slots/Network/SlotsSocketListener_en.jsc": {
-            "md5": "91a886affebce48883691bc3c0c690ba"
+            "md5": "b52f171b543696e700e1da09ddc64f4d"
         }, 
         "src/Game/Slots/NuChienThan/NuChienThanNew_en.jsc": {
             "md5": "3e25d82495d5348e4207d069a3b4c0b5"
@@ -11536,7 +11710,7 @@
             "md5": "fad446c4d9b0269235e8a695569bb5a9"
         }, 
         "src/Game/Slots/NuDiepVien/NuDiepVienListener_en.jsc": {
-            "md5": "eb837e44db340ce654d46756161e68ad"
+            "md5": "8e0c51e5e327b439d14d0d574247ea68"
         }, 
         "src/Game/Slots/NuDiepVien/NuDiepVienResponse_en.jsc": {
             "md5": "4720a7190df5eb766ba3499c44de0984"
@@ -11548,7 +11722,7 @@
             "md5": "446dfec2552af850ffdfb7850037fd8b"
         }, 
         "src/Game/Slots/NuDiepVien/NuDiepVien_en.jsc": {
-            "md5": "6c0d3cd32ec27c60777cdb902fd92c9e"
+            "md5": "3b419c896e00b6fc1dd8bd871194fee4"
         }, 
         "src/Game/Slots/SlotsKhoBau/SlotKhoBauNew_en.jsc": {
             "md5": "bfed0dc8de9bb057125fb85f5fe2a1f2"
@@ -11560,7 +11734,7 @@
             "md5": "f7132c23d80453c6bf42f750197cb8bf"
         }, 
         "src/Game/Slots/UI/ItemMenuSlots_en.jsc": {
-            "md5": "400718401e6bb0e4e2f9e733a8179297"
+            "md5": "75473375888cc74e0c521dca9f7760e6"
         }, 
         "src/Game/Slots/UI/Toast_en.jsc": {
             "md5": "7a31ec37ed4c1e6eb962fdccc6b85674"
@@ -11581,7 +11755,7 @@
             "md5": "ccdc8943d16631890cf9e33e96e4ae04"
         }, 
         "src/Game/Slots/VuongQuocVin/VuongQuocVinListener_en.jsc": {
-            "md5": "02401ffbb7cc385393bb6e0ae71057b8"
+            "md5": "9262fc10686fb085999714111d1c23fb"
         }, 
         "src/Game/Slots/VuongQuocVin/VuongQuocVinResponse_en.jsc": {
             "md5": "9fc5fb6ecf86b746aecd7a89fbaced91"
@@ -11602,7 +11776,7 @@
             "md5": "97830777f4b6b94c7b047c2114249233"
         }, 
         "src/Game/ThanBien/Engine/GUI/BaseLayer_en.jsc": {
-            "md5": "75d009eef0f123f735665626cdc3bc2c"
+            "md5": "76299089dc2e6cea6a891539915fe649"
         }, 
         "src/Game/ThanBien/Engine/GUI/BaseScene_en.jsc": {
             "md5": "5444c30d4019e752a6e0d900a39ea4ed"
@@ -11671,7 +11845,7 @@
             "md5": "d02f3086b0f752958dd8d0808cd8514d"
         }, 
         "src/Game/ThanBien/Game/Fish/FishLifeCycle_en.jsc": {
-            "md5": "e2723d0c0d3e5795117355e7a17d7c0b"
+            "md5": "73d6847962dc891951db47112500e056"
         }, 
         "src/Game/ThanBien/Game/Fish/FishSound_en.jsc": {
             "md5": "0aae877d6495138d3dc30d0156c5c7e3"
@@ -11680,7 +11854,7 @@
             "md5": "3cd926fd950134526bb1e71ec3f2b011"
         }, 
         "src/Game/ThanBien/Game/Fish/GameLayer_en.jsc": {
-            "md5": "374567aac315a0776c7f3f49059de4ec"
+            "md5": "0f4324d148c768c229b070f52e3bc1fb"
         }, 
         "src/Game/ThanBien/Game/Fish/GameLogic/Entity_en.jsc": {
             "md5": "7ea1874ae0a7a9206057f286565ed541"
@@ -11707,10 +11881,10 @@
             "md5": "cfaf7093c84b6f9050a8ed8e4b3e3a90"
         }, 
         "src/Game/ThanBien/Game/Fish/Lobby/LobbyPacketListenner_en.jsc": {
-            "md5": "ecbbaa1b7427c9b3ea992dac10075a38"
+            "md5": "db0980c1da36bc2786d6332624c080f7"
         }, 
         "src/Game/ThanBien/Game/Fish/Lobby/LobbyScene_en.jsc": {
-            "md5": "2d638c977eedb35ff048e4f5ea16ecc1"
+            "md5": "0203919d3adc622c772951be8e1119e1"
         }, 
         "src/Game/ThanBien/Game/Fish/Lobby/LobbyThanBien_en.jsc": {
             "md5": "9fcd852425660601cab06745d89717c4"
@@ -11722,7 +11896,7 @@
             "md5": "35aa712c880151ea05c886cceffb7854"
         }, 
         "src/Game/ThanBien/Game/Fish/Lobby/MisaLobbyPacketListener_en.jsc": {
-            "md5": "e83613f187172acfb64cd1b2149224d4"
+            "md5": "d9aac7bdb40237320e54c3dcc91fb3e2"
         }, 
         "src/Game/ThanBien/Game/Fish/Lobby/NotifyLayer_en.jsc": {
             "md5": "7e93565c36b8fcf512523e919459e41b"
@@ -11734,7 +11908,7 @@
             "md5": "8c726b79f83abb9ea7ba23347f3c8a4a"
         }, 
         "src/Game/ThanBien/Game/Fish/Lobby/TWLobbyPacketListener_en.jsc": {
-            "md5": "de217fe0c593537df47dcd82e5e93701"
+            "md5": "a705731c653e02208571a361dc6eb5e3"
         }, 
         "src/Game/ThanBien/Game/Fish/Lobby/TopUserMayDoiThuong_en.jsc": {
             "md5": "33fea34cf4f2bfab464e2c6faa89b6e4"
@@ -11746,7 +11920,7 @@
             "md5": "e01164c0adae69d6a1c43450952d95f5"
         }, 
         "src/Game/ThanBien/Game/Fish/Network/FishPacketListener_en.jsc": {
-            "md5": "4a67b48446d55bef68613f3552d712d2"
+            "md5": "c3c8f1675cc6253d50ed0e999b48dc5d"
         }, 
         "src/Game/ThanBien/Game/Fish/Network/GameClient_en.jsc": {
             "md5": "9a12e78201b15873d61e880b386ba16e"
@@ -11773,7 +11947,7 @@
             "md5": "3ca645eaa012a4b3a4c0e76f49979738"
         }, 
         "src/Game/ThanBien/ThanBienVinPlay_en.jsc": {
-            "md5": "d745dc79b29caded5b6ea99b8d9bd6ae"
+            "md5": "86be4f9ad1b9f5f7e81ff0fe0b5eb6db"
         }, 
         "src/Game/TienLen/GameData/Constant_en.jsc": {
             "md5": "ded0fb78563b17db2faf5b0098795c10"
@@ -11893,10 +12067,10 @@
             "md5": "56cb967d84edc62f809801a99e4aa085"
         }, 
         "src/Game/common/ColorDefine_en.jsc": {
-            "md5": "a6ffe83fce919ecd4bfae905759223f4"
+            "md5": "8262a73d2b41bb383648e244d121bda5"
         }, 
         "src/Game/common/common_en.jsc": {
-            "md5": "46cee9bd97e1a5306ea1ceb4c8f8d9eb"
+            "md5": "b6471e3dac84ba4919f8a972f2459063"
         }, 
         "src/Game/common/md5_en.jsc": {
             "md5": "5929fb737f94238e8de6e94ca5c6b743"
@@ -11905,10 +12079,10 @@
             "md5": "b13502cb270f0af4568d03e1707c72e8"
         }, 
         "src/WebResource_en.jsc": {
-            "md5": "bc99f4f8bcc49c1ca9044c70f13c984c"
+            "md5": "474bd87f4b225e4cb48edbaa37d30549"
         }, 
         "src/resource_en.jsc": {
-            "md5": "a88359bd6f9febec0136801eee243aee"
+            "md5": "930bf0e04c182d3812ef16b838023c0f"
         }
     }, 
     "engineVersion": "3.17", 
@@ -11916,5 +12090,5 @@
     "remoteManifestUrl": "https://raw.githubusercontent.com/dev4winn/m/main/m/project.manifest", 
     "remoteVersionUrl": "https://raw.githubusercontent.com/dev4winn/m/main/m/version.manifest", 
     "searchPaths": [], 
-    "version": "1.7.2"
+    "version": "1.8.2"
 }

@@ -20,16 +20,16 @@ BG
   index: -1
 FRAME
   rotate: false
-  xy: 627, 79
+  xy: 793, 144
   size: 81, 77
   orig: 81, 77
   offset: 0, 0
   index: -1
 SLOT
   rotate: false
-  xy: 388, 29
-  size: 91, 34
-  orig: 91, 34
+  xy: 627, 92
+  size: 103, 64
+  orig: 103, 64
   offset: 0, 0
   index: -1
 TE

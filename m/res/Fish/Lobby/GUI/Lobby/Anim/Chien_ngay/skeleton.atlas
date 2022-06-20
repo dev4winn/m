@@ -4,73 +4,24 @@ size: 1024,512
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
-Chien ngay
-  rotate: false
-  xy: 2, 156
-  size: 304, 327
-  orig: 304, 327
+1
+  rotate: true
+  xy: 2, 122
+  size: 371, 513
+  orig: 371, 513
   offset: 0, 0
   index: -1
-Layer 39
-  rotate: false
-  xy: 698, 453
-  size: 35, 30
-  orig: 35, 30
-  offset: 0, 0
-  index: -1
-lua1
-  rotate: false
-  xy: 698, 453
-  size: 35, 30
-  orig: 35, 30
-  offset: 0, 0
-  index: -1
-Layer 39 copy 2
-  rotate: false
-  xy: 542, 373
-  size: 154, 110
-  orig: 154, 110
-  offset: 0, 0
-  index: -1
-Layer 40
-  rotate: false
-  xy: 202, 105
-  size: 77, 49
-  orig: 77, 49
-  offset: 0, 0
-  index: -1
-ani1
-  rotate: false
-  xy: 2, 41
-  size: 198, 113
-  orig: 198, 113
-  offset: 0, 0
-  index: -1
-ani2
-  rotate: false
-  xy: 308, 248
-  size: 232, 235
-  orig: 232, 235
-  offset: 0, 0
-  index: -1
-dan
-  rotate: false
+2
+  rotate: true
   xy: 2, 2
-  size: 91, 37
-  orig: 91, 37
+  size: 118, 158
+  orig: 118, 158
   offset: 0, 0
   index: -1
-lua2
+3
   rotate: false
-  xy: 542, 328
-  size: 52, 43
-  orig: 52, 43
-  offset: 0, 0
-  index: -1
-text_chienngay
-  rotate: false
-  xy: 308, 188
-  size: 170, 58
-  orig: 170, 58
+  xy: 517, 238
+  size: 322, 255
+  orig: 322, 255
   offset: 0, 0
   index: -1

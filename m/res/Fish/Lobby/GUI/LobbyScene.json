@@ -595,8 +595,8 @@
                   "ScaleY": 0.5
                 },
                 "Position": {
-                  "X": 8.6443,
-                  "Y": 69.6699
+                  "X": -248,
+                  "Y": 39
                 },
                 "Scale": {
                   "ScaleX": 1.0,
@@ -619,8 +619,8 @@
                 "Tag": 132,
                 "ActionTag": -1576393177,
                 "Size": {
-                  "X": 1002.0,
-                  "Y": 127.0
+                  "X": 591.0,
+                  "Y": 149.0
                 },
                 "Name": "bg",
                 "ctype": "ImageViewObjectData"
@@ -644,8 +644,8 @@
                   "Y": 51.2106
                 },
                 "Scale": {
-                  "ScaleX": 0.8707,
-                  "ScaleY": 0.8707
+                  "ScaleX": 1,
+                  "ScaleY": 1
                 },
                 "CColor": {},
                 "IconVisible": false,
@@ -689,8 +689,8 @@
                   "Y": 51.1559
                 },
                 "Scale": {
-                  "ScaleX": 1.0,
-                  "ScaleY": 1.0
+                  "ScaleX": 0.7,
+                  "ScaleY": 0.7
                 },
                 "CColor": {},
                 "IconVisible": false,
@@ -709,8 +709,8 @@
                 "Tag": 113,
                 "ActionTag": 2111796958,
                 "Size": {
-                  "X": 87.0,
-                  "Y": 87.0
+                  "X": 129.0,
+                  "Y": 129.0
                 },
                 "Name": "bg_avatar",
                 "ctype": "ImageViewObjectData"
@@ -774,7 +774,7 @@
                       "ScaleY": 0.5
                     },
                     "Position": {
-                      "X": 83.3982,
+                      "X": 63.3982,
                       "Y": 17.6735
                     },
                     "Scale": {
@@ -798,10 +798,55 @@
                     "Tag": 137,
                     "ActionTag": 609009619,
                     "Size": {
-                      "X": 312.0,
-                      "Y": 105.0
+                      "X": 250.0,
+                      "Y": 50.0
                     },
                     "Name": "bg",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "Lobby/ico_MAN.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 102,
+                    "Scale9OriginY": 34,
+                    "Scale9Width": 108,
+                    "Scale9Height": 37,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": -38,
+                      "Y": 17.6735
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.417,
+                      "Y": 0.505
+                    },
+                    "PreSize": {
+                      "X": 1.56,
+                      "Y": 3.0
+                    },
+                    "LeftMargin": -72.6018,
+                    "RightMargin": -39.3982,
+                    "TopMargin": -35.1735,
+                    "BottomMargin": -34.8265,
+                    "Tag": 137,
+                    "ActionTag": 609009619,
+                    "Size": {
+                      "X": 41.0,
+                      "Y": 40.0
+                    },
+                    "Name": "ic_money",
                     "ctype": "ImageViewObjectData"
                   },
                   {
@@ -852,7 +897,7 @@
                   },
                   {
                     "FontSize": 24,
-                    "LabelText": "-----------------",
+                    "LabelText": "                 ",
                     "FontResource": {
                       "Type": "Normal",
                       "Path": "Lobby/Popup/Fonts/UTMSwissCondensedBold.ttf",
@@ -905,7 +950,7 @@
                     "Tag": 116,
                     "ActionTag": 1833338586,
                     "Size": {
-                      "X": 139.0,
+                      "X": 250.0,
                       "Y": 35.0
                     },
                     "Name": "lbMan",
@@ -998,7 +1043,7 @@
               },
               {
                 "FontSize": 18,
-                "LabelText": "-------------",
+                "LabelText": "             ",
                 "FontResource": {
                   "Type": "Normal",
                   "Path": "Lobby/Popup/Fonts/UTMSwissCondensedBold.ttf",
@@ -1021,7 +1066,7 @@
                   "ScaleY": 0.5
                 },
                 "Position": {
-                  "X": -345.7608,
+                  "X": -339.7608,
                   "Y": 63.9832
                 },
                 "Scale": {
@@ -1035,8 +1080,8 @@
                   "Y": 0.3199
                 },
                 "PreSize": {
-                  "X": 0.405,
-                  "Y": 0.135
+                  "X": 1,
+                  "Y": 1
                 },
                 "LeftMargin": -345.7608,
                 "RightMargin": 464.7608,
@@ -1045,7 +1090,7 @@
                 "Tag": 134,
                 "ActionTag": -860299745,
                 "Size": {
-                  "X": 81.0,
+                  "X": 281.0,
                   "Y": 27.0
                 },
                 "Name": "lbUserName",
@@ -1053,7 +1098,7 @@
               },
               {
                 "FontSize": 18,
-                "LabelText": "----------------",
+                "LabelText": "                ",
                 "FontResource": {
                   "Type": "Normal",
                   "Path": "Lobby/Popup/Fonts/UTMSwissCondensedBold.ttf",
@@ -1717,7 +1762,7 @@
                   "ScaleY": 0.5
                 },
                 "Position": {
-                  "X": 30.0841,
+                  "X": -30.0841,
                   "Y": -57.0025
                 },
                 "Scale": {
@@ -1810,17 +1855,17 @@
                 },
                 "DisabledFileData": {
                   "Type": "Default",
-                  "Path": "Default/Button_Disable.png",
+                  "Path": "Lobby/btn_join.png",
                   "Plist": ""
                 },
                 "PressedFileData": {
                   "Type": "Normal",
-                  "Path": "Lobby/opacity.png",
+                  "Path": "Lobby/btn_join.png",
                   "Plist": ""
                 },
                 "NormalFileData": {
                   "Type": "Normal",
-                  "Path": "Lobby/opacity.png",
+                  "Path": "Lobby/btn_join.png",
                   "Plist": ""
                 },
                 "Scale9Enable": true,
@@ -1845,12 +1890,12 @@
                   "ScaleY": 0.5
                 },
                 "Position": {
-                  "X": -228.1194,
-                  "Y": 12.6928
+                  "X": -228,
+                  "Y": -80
                 },
                 "Scale": {
-                  "ScaleX": 1.1252,
-                  "ScaleY": 1.1252
+                  "ScaleX": 0.8,
+                  "ScaleY": 0.8
                 },
                 "CColor": {},
                 "IconVisible": false,
@@ -1896,7 +1941,7 @@
                       {
                         "FileData": {
                           "Type": "Normal",
-                          "Path": "Lobby/ButtonAndIcon_1.png",
+                          "Path": "Lobby/opacity.png",
                           "Plist": ""
                         },
                         "Scale9OriginX": 20,
@@ -1908,8 +1953,8 @@
                           "ScaleY": 0.5
                         },
                         "Position": {
-                          "X": 66.4108,
-                          "Y": 59.8786
+                          "X": 66,
+                          "Y": 59
                         },
                         "Scale": {
                           "ScaleX": 1.0,
@@ -1952,8 +1997,8 @@
                 ],
                 "ActionTag": 78335038,
                 "Size": {
-                  "X": 200.0,
-                  "Y": 250.0
+                  "X": 217.0,
+                  "Y": 71.0
                 },
                 "Name": "btnChoiNgay",
                 "ctype": "ButtonObjectData"
@@ -1968,17 +2013,17 @@
                 },
                 "DisabledFileData": {
                   "Type": "Default",
-                  "Path": "Default/Button_Disable.png",
+                  "Path": "Lobby/btn_join.png",
                   "Plist": ""
                 },
                 "PressedFileData": {
                   "Type": "Normal",
-                  "Path": "Lobby/opacity.png",
+                  "Path": "Lobby/btn_join.png",
                   "Plist": ""
                 },
                 "NormalFileData": {
                   "Type": "Normal",
-                  "Path": "Lobby/opacity.png",
+                  "Path": "Lobby/btn_join.png",
                   "Plist": ""
                 },
                 "Scale9Enable": true,
@@ -2003,12 +2048,12 @@
                   "ScaleY": 0.5
                 },
                 "Position": {
-                  "X": 240.1651,
-                  "Y": 12.6928
+                  "X": 240,
+                  "Y": -80
                 },
                 "Scale": {
-                  "ScaleX": 1.1252,
-                  "ScaleY": 1.1252
+                  "ScaleX": 0.8,
+                  "ScaleY": 0.8
                 },
                 "CColor": {},
                 "IconVisible": false,
@@ -2061,8 +2106,8 @@
                 ],
                 "ActionTag": -640855145,
                 "Size": {
-                  "X": 200.0,
-                  "Y": 250.0
+                  "X": 217.0,
+                  "Y": 71.0
                 },
                 "Name": "btnChoiThu",
                 "ctype": "ButtonObjectData"
@@ -2187,17 +2232,17 @@
                 },
                 "DisabledFileData": {
                   "Type": "Default",
-                  "Path": "Default/Button_Disable.png",
+                  "Path": "Lobby/btn_join.png",
                   "Plist": ""
                 },
                 "PressedFileData": {
                   "Type": "Normal",
-                  "Path": "Lobby/opacity.png",
+                  "Path": "Lobby/btn_join.png",
                   "Plist": ""
                 },
                 "NormalFileData": {
                   "Type": "Normal",
-                  "Path": "Lobby/opacity.png",
+                  "Path": "Lobby/btn_join.png",
                   "Plist": ""
                 },
                 "Scale9Enable": true,
@@ -2223,11 +2268,11 @@
                 },
                 "Position": {
                   "X": 3.4813,
-                  "Y": 12.6928
+                  "Y": -80
                 },
                 "Scale": {
-                  "ScaleX": 1.1252,
-                  "ScaleY": 1.1252
+                  "ScaleX": 0.8,
+                  "ScaleY": 0.8
                 },
                 "CColor": {},
                 "IconVisible": false,
@@ -2273,7 +2318,7 @@
                       {
                         "FileData": {
                           "Type": "Normal",
-                          "Path": "Lobby/ButtonAndIcon_2.png",
+                          "Path": "Lobby/opacity.png",
                           "Plist": ""
                         },
                         "Scale9OriginX": 22,
@@ -2329,8 +2374,8 @@
                 ],
                 "ActionTag": -851460127,
                 "Size": {
-                  "X": 200.0,
-                  "Y": 250.0
+                  "X": 217.0,
+                  "Y": 71.0
                 },
                 "Name": "btnChoiNgay3D",
                 "ctype": "ButtonObjectData"

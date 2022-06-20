@@ -15,9 +15,9 @@
                 <key>spriteSourceSize</key>
                 <string>{226,72}</string>
                 <key>textureRect</key>
-                <string>{{60,0},{226,72}}</string>
+                <string>{{61,568},{226,72}}</string>
                 <key>textureRotated</key>
-                <false/>
+                <true/>
             </dict>
             <key>res/lobbyv2/createnn/girl.png</key>
             <dict>
@@ -26,11 +26,11 @@
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{255,658}</string>
+                <string>{219,565}</string>
                 <key>spriteSourceSize</key>
-                <string>{255,658}</string>
+                <string>{219,565}</string>
                 <key>textureRect</key>
-                <string>{{0,72},{255,658}}</string>
+                <string>{{1,1},{219,565}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -45,7 +45,7 @@
                 <key>spriteSourceSize</key>
                 <string>{30,30}</string>
                 <key>textureRect</key>
-                <string>{{0,0},{30,30}}</string>
+                <string>{{135,568},{30,30}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -60,7 +60,7 @@
                 <key>spriteSourceSize</key>
                 <string>{30,30}</string>
                 <key>textureRect</key>
-                <string>{{30,0},{30,30}}</string>
+                <string>{{167,568},{30,30}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -75,9 +75,9 @@
                 <key>spriteSourceSize</key>
                 <string>{358,58}</string>
                 <key>textureRect</key>
-                <string>{{0,730},{358,58}}</string>
+                <string>{{1,568},{358,58}}</string>
                 <key>textureRotated</key>
-                <false/>
+                <true/>
             </dict>
         </dict>
         <key>metadata</key>
@@ -91,9 +91,9 @@
             <key>realTextureFileName</key>
             <string>CreateNNPlist.png</string>
             <key>size</key>
-            <string>{358,788}</string>
+            <string>{221,927}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:61849e7af89fc754a5bfe515f2292627:0b34cc382c03fe6d805b5eb6a80caef0:8335fdedbea4929fce93a7045d4a9fb4$</string>
+            <string>$TexturePacker:SmartUpdate:db852baeca1a3896bb7d8a93b17d01f7:ef832abf4ff808a77e01f1eab313b789:8335fdedbea4929fce93a7045d4a9fb4$</string>
             <key>textureFileName</key>
             <string>CreateNNPlist.png</string>
         </dict>

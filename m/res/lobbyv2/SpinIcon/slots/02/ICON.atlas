@@ -4,31 +4,45 @@ size: 1024,256
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
+12
+  rotate: false
+  xy: 388, 65
+  size: 129, 156
+  orig: 129, 156
+  offset: 0, 0
+  index: -1
+123
+  rotate: false
+  xy: 754, 132
+  size: 176, 43
+  orig: 176, 43
+  offset: 0, 0
+  index: -1
+1D1
+  rotate: false
+  xy: 519, 96
+  size: 114, 125
+  orig: 114, 125
+  offset: 0, 0
+  index: -1
 BG
   rotate: true
-  xy: 2, 35
+  xy: 2, 2
   size: 219, 384
   orig: 219, 384
   offset: 0, 0
   index: -1
-HD
+H
   rotate: false
-  xy: 2, 2
-  size: 152, 31
-  orig: 152, 31
+  xy: 635, 102
+  size: 117, 119
+  orig: 117, 119
   offset: 0, 0
   index: -1
-SD1
+T1
   rotate: false
-  xy: 669, 213
-  size: 147, 41
-  orig: 147, 41
-  offset: 0, 0
-  index: -1
-zeus
-  rotate: true
-  xy: 388, 52
-  size: 202, 279
-  orig: 202, 279
+  xy: 754, 177
+  size: 186, 44
+  orig: 186, 44
   offset: 0, 0
   index: -1

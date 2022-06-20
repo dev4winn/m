@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>frames</key>
+        <dict>
+            <key>res/menuslotsv2/comingsoon.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{238,92}</string>
+                <key>spriteSourceSize</key>
+                <string>{238,92}</string>
+                <key>textureRect</key>
+                <string>{{1,1},{238,92}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+        </dict>
+        <key>metadata</key>
+        <dict>
+            <key>format</key>
+            <integer>3</integer>
+            <key>pixelFormat</key>
+            <string>RGBA8888</string>
+            <key>premultiplyAlpha</key>
+            <false/>
+            <key>realTextureFileName</key>
+            <string>MenuSlotsPlist.png</string>
+            <key>size</key>
+            <string>{240,94}</string>
+            <key>smartupdate</key>
+            <string>$TexturePacker:SmartUpdate:9a310a513fcda8bec49555b53ebfc345:63de1e1710f4a5f3b7a5cfba7d39d495:ae9725797b4a8a420140e699cada838c$</string>
+            <key>textureFileName</key>
+            <string>MenuSlotsPlist.png</string>
+        </dict>
+    </dict>
+</plist>

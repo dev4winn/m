@@ -11,26 +11,11 @@
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{1912,210}</string>
+                <string>{1920,215}</string>
                 <key>spriteSourceSize</key>
-                <string>{1912,210}</string>
+                <string>{1920,215}</string>
                 <key>textureRect</key>
-                <string>{{1,237},{1912,210}}</string>
-                <key>textureRotated</key>
-                <false/>
-            </dict>
-            <key>res/lobbyv2/login/bg1.png</key>
-            <dict>
-                <key>aliases</key>
-                <array/>
-                <key>spriteOffset</key>
-                <string>{0,0}</string>
-                <key>spriteSize</key>
-                <string>{1912,160}</string>
-                <key>spriteSourceSize</key>
-                <string>{1912,160}</string>
-                <key>textureRect</key>
-                <string>{{1,75},{1912,160}}</string>
+                <string>{{1,75},{1920,215}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -151,9 +136,9 @@
             <key>realTextureFileName</key>
             <string>LoginPlist.png</string>
             <key>size</key>
-            <string>{1914,448}</string>
+            <string>{1922,291}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:2adfc869b1339261e600cb4ce673f421:3eed5d85c9107668a4e7aa6f14d5d118:f1a58a8b4872b92a91cb7ca19770aa2c$</string>
+            <string>$TexturePacker:SmartUpdate:2f04f1374fed710f61030eb9b66a391e:5ed68e429b9a059826fc25b5ea9bc05a:f1a58a8b4872b92a91cb7ca19770aa2c$</string>
             <key>textureFileName</key>
             <string>LoginPlist.png</string>
         </dict>

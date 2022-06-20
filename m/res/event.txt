@@ -1,0 +1,62 @@
+[
+   {
+      "idgame": 20221,
+      "name":"Quà Tân Thủ",
+      "title":"Nhận 10.000 WIN",
+      "time":"Không Giới Hạn",
+      "doituong":"Tất cả",
+      "content":"Nhận ngay 10.000 WIN trải nghiệm game tại Win4gameS.com sau khi \nhoàn thành đăng ký và xác thực bảo mật bằng số điện thoại",
+      "giaithuong":"Mừng sự kiện ra mắt cổng game Win4gameS.com Nhà Phát Hành có \nchương trình quà tân thủ dành cho người chơi mới tại Win4gameS.com\n Sau khi đăng ký tài khoản và tiến xác kích hoạt bảo mật tại hệ thống \nqua số điện thoại bạn sẽ được nhận ngay 10.000 WIN để trải nghiệm chơi \ngame tại Win4gameS.com",
+      "luuy": "Mỗi tài khoản chỉ nhận được 1 lần Quà Tân Thủ"
+   },
+   {
+      "idgame": 20222,
+      "name":"Giới Thiệu Bạn",
+      "title":"Nhận 15% tiền phế",
+      "time":"Không Giới Hạn",
+      "doituong":"Tất cả",
+      "content":"Nhận ngay 15% tiền phế thu được khi bạn là người giới thiệu khách chơi",
+      "giaithuong": "Win4gameS có chính sách giới thiệu người chơi nhận hoa hồng như sau:\n\n - Mỗi tài khoản chơi game sẽ có một đường link giới thiệu(trong mục hồ sơ \ncá nhân) \n\n- Sử dụng đường link của bạn gửi cho bạn bè đăng ký tài khoản.\n\n - Mỗi tài khoản được đăng ký trên đường link của bạn sẽ được tính hoa hồng \ncho bạn dựa trên tiền phế thu được.\n\n Ví dụ: Bạn giới thiệu 1 khách và khách đó đặt cược game tài xỉu\n 1000.000 WIN, tiền phế nhà cái thu được là 2% = 20.000 WIN, bạn sẽ được\n chia 15%/20.000 WIN = 3000 WIN\n\n - Theo dõi khách đăng ký trên link của bạn tại www.refs.Win4gameS.com \n(Đăng nhập bằng tài khoản game)",
+      "luuy": "Chỉ áp dụng cho game bài, tài xỉu tại Win4gameS.com"
+   },
+   {
+      "idgame": 20223,
+      "name":"Giftcode",
+      "title":"Giftcode mỗi ngày",
+      "time":"Không Giới Hạn",
+      "doituong":"Tất cả",
+      "content":"Nhận code mỗi ngày",
+      "giaithuong":"Win4gameS sẽ phát trực tuyến trên kênh facebook vào các thời điểm sau: \n\n- 20h - 21h các ngày trong tuần\n\n- 20h - 21h, 22h - 23h thứ bảy và chủ nhật",
+      "luuy": "Mỗi tài khoản sử dụng được 1 code / 24h"
+   },
+   {
+      "idgame": 20224,
+      "name":"Nạp thẻ cào",
+      "title":"Tỉ lệ nạp thẻ 1-1",
+      "time":"Không Giới Hạn",
+      "doituong":"Tất cả",
+      "content":"Tỉ lệ nạp thẻ cào chiết khấu tốt nhất",
+      "giaithuong":"Hiện tại Win4gameS cung cấp tỉ lệ nạp thẻ tốt nhất thị trường: 100.000\n thẻ điện thoại = 100.000 WIN",
+      "luuy": "Tỉ lệ điểm trong game quy đổi sang tiền VNĐ là 80%: 100.000 WIN = 80.000\n VNĐ"
+   },
+   {
+      "idgame": 20225,
+      "name":"Nạp Ví Điện Tử",
+      "title":"Tỉ lệ nạp thẻ 1-1.25",
+      "time":"Không Giới Hạn",
+      "doituong":"Tất cả",
+      "content":"Tỉ lệ nạp tiền qua các ví điện tử chiết khấu tốt nhất",
+      "giaithuong":"Hiện tại Win4gameS hỗ trợ nạp qua 2 ví điện tử phổ biến: Viettel Pay, Momo\n với chiết khấu tốt nhất thị trường: 100.000 VNĐ = 125.000 WIN",
+      "luuy": "Tỉ lệ điểm trong game quy đổi sang tiền VNĐ là 80%: 100.000 WIN = 80.000\n VNĐ"
+   },
+   {
+      "idgame": 20226,
+      "name":"Nạp Ngân Hàng",
+      "title":"Tỉ lệ nạp thẻ 1-1.25",
+      "time":"Không Giới Hạn",
+      "doituong":"Tất cả",
+      "content":"Tỉ lệ nạp tiền qua ngân hàng chiết khấu tốt nhất",
+      "giaithuong":"Hiện tại Win4gameS hỗ trợ nạp tiền qua các ngân hàng phổ biến nhất:\n Vietcombank, ACB, Techcombank,... với chiết khấu tốt nhất thị trường: 100.000 VNĐ = 125.000 WIN",
+      "luuy": "Tỉ lệ điểm trong game quy đổi sang tiền VNĐ là 80%: 100.000 WIN = 80.000\n VNĐ"
+   }
+]

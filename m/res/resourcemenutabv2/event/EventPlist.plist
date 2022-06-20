@@ -15,7 +15,127 @@
                 <key>spriteSourceSize</key>
                 <string>{269,676}</string>
                 <key>textureRect</key>
-                <string>{{1,1},{269,676}}</string>
+                <string>{{1,211},{269,676}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+            <key>res/resourcemenutabv2/event/ic_bank.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{46,46}</string>
+                <key>spriteSourceSize</key>
+                <string>{46,46}</string>
+                <key>textureRect</key>
+                <string>{{1,1},{46,46}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+            <key>res/resourcemenutabv2/event/ic_ewallet.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{46,46}</string>
+                <key>spriteSourceSize</key>
+                <string>{46,46}</string>
+                <key>textureRect</key>
+                <string>{{49,1},{46,46}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+            <key>res/resourcemenutabv2/event/ic_giftcode.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{46,46}</string>
+                <key>spriteSourceSize</key>
+                <string>{46,46}</string>
+                <key>textureRect</key>
+                <string>{{97,1},{46,46}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+            <key>res/resourcemenutabv2/event/ic_mobilecard.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{46,46}</string>
+                <key>spriteSourceSize</key>
+                <string>{46,46}</string>
+                <key>textureRect</key>
+                <string>{{145,1},{46,46}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+            <key>res/resourcemenutabv2/event/ic_newbie.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{46,46}</string>
+                <key>spriteSourceSize</key>
+                <string>{46,46}</string>
+                <key>textureRect</key>
+                <string>{{193,1},{46,46}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+            <key>res/resourcemenutabv2/event/ic_refs.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{46,46}</string>
+                <key>spriteSourceSize</key>
+                <string>{46,46}</string>
+                <key>textureRect</key>
+                <string>{{241,1},{46,46}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+            <key>res/resourcemenutabv2/event/normal.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{263,79}</string>
+                <key>spriteSourceSize</key>
+                <string>{263,79}</string>
+                <key>textureRect</key>
+                <string>{{1,49},{263,79}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+            <key>res/resourcemenutabv2/event/selected.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{263,79}</string>
+                <key>spriteSourceSize</key>
+                <string>{263,79}</string>
+                <key>textureRect</key>
+                <string>{{1,130},{263,79}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -31,9 +151,9 @@
             <key>realTextureFileName</key>
             <string>EventPlist.png</string>
             <key>size</key>
-            <string>{271,678}</string>
+            <string>{288,888}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:5f934f8a1a46dc5fc0b52f192be714d8:60ac6f4f86afc6499c5fadf0d04c1acf:f8854b689b73ef580da5d483e1e05e53$</string>
+            <string>$TexturePacker:SmartUpdate:11ba3612a8a10085864f26f9b1921b13:2fa1fd58b0fd614c694584fbb99e603b:f8854b689b73ef580da5d483e1e05e53$</string>
             <key>textureFileName</key>
             <string>EventPlist.png</string>
         </dict>
